@@ -1,0 +1,126 @@
+name: Bug report
+description: Report a problem with a CrateX.app tool or page.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve CrateX.app. Please include enough detail for us to reproduce the issue.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / locale
+      description: Which CrateX.app language were you using?
+      options:
+        - English / en
+        - 简体中文 / zh-CN
+        - 正體中文 / zh-TW
+        - 日本語 / ja
+        - 한국어 / ko
+        - ไทย / th
+        - Bahasa Indonesia / id
+        - Tiếng Việt / vi
+        - हिन्दी / hi
+        - Français / fr
+        - Deutsch / de
+        - Español / es
+        - Italiano / it
+        - Nederlands / nl
+        - Polski / pl
+        - Português / pt
+        - Русский / ru
+        - Türkçe / tr
+        - العربية / ar
+        - Other / not sure
+    validations:
+      required: true
+  - type: input
+    id: tool-or-page
+    attributes:
+      label: Tool or page
+      description: Paste the CrateX.app URL or name the tool/page where the problem appears.
+      placeholder: https://cratex.app/en/json-formatter
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem you saw.
+      placeholder: The tool shows an error when...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the exact steps that trigger the issue.
+      placeholder: |
+        1. Open ...
+        2. Enter or upload ...
+        3. Click ...
+        4. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What should have happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: What actually happened? Include error text if available.
+    validations:
+      required: false
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device type
+      options:
+        - Desktop
+        - Mobile
+        - Tablet
+        - Other / not sure
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Chrome 126, Firefox 127, Safari 18, Edge 126...
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: Windows 11, macOS, iOS, Android, Linux...
+    validations:
+      required: false
+  - type: textarea
+    id: sample-data
+    attributes:
+      label: Sample input or file details
+      description: Share non-sensitive sample data, file type, file size, or a minimal example if it helps reproduce the issue.
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or screen recording
+      description: Drag images or videos here if they help explain the issue.
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy-check
+    attributes:
+      label: Privacy check
+      options:
+        - label: I did not include passwords, API keys, private tokens, personal documents, or other sensitive data.
+          required: true

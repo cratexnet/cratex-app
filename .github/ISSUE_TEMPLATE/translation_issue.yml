@@ -1,0 +1,80 @@
+name: Translation issue
+description: Report a wording, translation, or localization problem in CrateX.app.
+title: "[Translation]: "
+labels:
+  - translation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve CrateX.app localization. Please include the exact text and where it appears.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / locale
+      options:
+        - English / en
+        - 简体中文 / zh-CN
+        - 正體中文 / zh-TW
+        - 日本語 / ja
+        - 한국어 / ko
+        - ไทย / th
+        - Bahasa Indonesia / id
+        - Tiếng Việt / vi
+        - हिन्दी / hi
+        - Français / fr
+        - Deutsch / de
+        - Español / es
+        - Italiano / it
+        - Nederlands / nl
+        - Polski / pl
+        - Português / pt
+        - Русский / ru
+        - Türkçe / tr
+        - العربية / ar
+        - Other / not sure
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page or tool
+      description: Paste the CrateX.app URL or name the page/tool.
+      placeholder: https://cratex.app/zh-CN/text-counter
+    validations:
+      required: true
+  - type: textarea
+    id: current-text
+    attributes:
+      label: Current text
+      description: Copy the exact text currently shown.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-text
+    attributes:
+      label: Suggested text
+      description: Write the replacement wording you recommend.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why is this better?
+      description: Explain the grammar, terminology, tone, or cultural issue.
+    validations:
+      required: false
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue type
+      options:
+        - Wrong translation
+        - Unnatural wording
+        - Missing translation
+        - Mixed language
+        - Typo or punctuation
+        - Layout problem caused by text length
+        - Other
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Use CrateX.app online
+    url: https://cratex.app/en?utm_source=github&utm_medium=issue_template&utm_campaign=cratex-app
+    about: Open the live CrateX.app website.
+  - name: Join the CrateX.app Discord
+    url: https://discord.gg/JWhE4TKsBN
+    about: Ask quick questions, discuss workflows, and follow product updates.
+  - name: Email CrateX.app support
+    url: mailto:support@cratex.app
+    about: Use email if GitHub is inconvenient.

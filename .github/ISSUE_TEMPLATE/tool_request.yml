@@ -1,0 +1,94 @@
+name: Tool request
+description: Suggest a new tool for CrateX.app.
+title: "[Tool request]: "
+labels:
+  - tool-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new CrateX.app tool. Concrete workflows help us evaluate requests faster.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / locale
+      description: Which CrateX.app language do you use most often?
+      options:
+        - English / en
+        - 简体中文 / zh-CN
+        - 正體中文 / zh-TW
+        - 日本語 / ja
+        - 한국어 / ko
+        - ไทย / th
+        - Bahasa Indonesia / id
+        - Tiếng Việt / vi
+        - हिन्दी / hi
+        - Français / fr
+        - Deutsch / de
+        - Español / es
+        - Italiano / it
+        - Nederlands / nl
+        - Polski / pl
+        - Português / pt
+        - Русский / ru
+        - Türkçe / tr
+        - العربية / ar
+        - Other / not sure
+    validations:
+      required: true
+  - type: input
+    id: tool-name
+    attributes:
+      label: Suggested tool name
+      placeholder: "Example: Time Zone Meeting Planner"
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: What workflow should this tool support?
+      description: Describe what users would input, what they would do, and what output they need.
+      placeholder: Users paste..., choose..., then get...
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example input and expected output
+      description: Provide non-sensitive examples if possible.
+    validations:
+      required: false
+  - type: textarea
+    id: audience
+    attributes:
+      label: Who needs this tool?
+      description: Developers, designers, creators, students, office workflows, image workflows, etc.
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Closest category
+      options:
+        - Utility Tools
+        - Text Processing
+        - Encoding & Conversion
+        - Developer Tools
+        - Image Tools
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Existing tools or alternatives
+      description: Mention any current tools you use and what is missing from them.
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy-check
+    attributes:
+      label: Privacy check
+      options:
+        - label: I did not include passwords, API keys, private tokens, personal documents, or other sensitive data.
+          required: true

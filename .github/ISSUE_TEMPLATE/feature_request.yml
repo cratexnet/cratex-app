@@ -1,0 +1,99 @@
+name: Feature request
+description: Suggest an improvement to an existing CrateX.app tool or workflow.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an idea. Please focus on the workflow problem you want CrateX.app to solve.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / locale
+      description: Which CrateX.app language do you use most often?
+      options:
+        - English / en
+        - 简体中文 / zh-CN
+        - 正體中文 / zh-TW
+        - 日本語 / ja
+        - 한국어 / ko
+        - ไทย / th
+        - Bahasa Indonesia / id
+        - Tiếng Việt / vi
+        - हिन्दी / hi
+        - Français / fr
+        - Deutsch / de
+        - Español / es
+        - Italiano / it
+        - Nederlands / nl
+        - Polski / pl
+        - Português / pt
+        - Русский / ru
+        - Türkçe / tr
+        - العربية / ar
+        - Other / not sure
+    validations:
+      required: true
+  - type: input
+    id: tool-or-page
+    attributes:
+      label: Related tool or page
+      description: Paste a CrateX.app URL or name the closest existing tool/page.
+      placeholder: https://cratex.app/en/image-compressor
+    validations:
+      required: false
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the real workflow or pain point.
+      placeholder: I often need to...
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested solution
+      description: Describe how you expect the feature to work.
+      placeholder: Add an option to...
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Current workaround or alternatives
+      description: What do you use today, and what is inconvenient about it?
+    validations:
+      required: false
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often would you use this?
+      options:
+        - Daily
+        - Weekly
+        - Monthly
+        - Occasionally
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority for you
+      options:
+        - High
+        - Medium
+        - Low
+        - Not sure
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope-check
+    attributes:
+      label: Scope check
+      options:
+        - label: This request describes a real user workflow, not only a competitor feature list.
+          required: true

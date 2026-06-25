@@ -50,6 +50,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 #### 🛠️ [유틸리티 도구](https://cratex.app/ko/cat/utils)
 
 - [비밀번호 생성기](https://cratex.app/ko/password-generator)
+- [해시 생성 및 검증](https://cratex.app/ko/hash-checksum)
 - [UUID 생성기](https://cratex.app/ko/uuid-generator)
 - [QR 코드 생성기](https://cratex.app/ko/qr-generator)
 - [QR 디코더](https://cratex.app/ko/qr-decoder)
@@ -61,6 +62,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [시간 계산기](https://cratex.app/ko/time-duration-calculator)
 - [타임스탬프 변환기](https://cratex.app/ko/timestamp-converter)
 - [세계 시계](https://cratex.app/ko/world-clock)
+- [월드컵 킥오프 시간 변환기](https://cratex.app/ko/world-cup-kickoff-time-converter)
 - [난수 생성기](https://cratex.app/ko/random-number-generator)
 - [무작위 추첨](https://cratex.app/ko/random-picker)
 - [주사위 굴리기](https://cratex.app/ko/dice-roller)
@@ -94,6 +96,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 #### 💻 [개발 도구](https://cratex.app/ko/cat/dev)
 
 - [JSON 포맷 및 검증](https://cratex.app/ko/json-formatter)
+- [JSON 복구 및 검사](https://cratex.app/ko/json-repair)
 - [JSON을 TypeScript로](https://cratex.app/ko/json-to-typescript)
 - [JSON YAML 변환](https://cratex.app/ko/yaml-json-converter)
 - [JSON ↔ CSV 변환](https://cratex.app/ko/csv-json-converter)
@@ -101,7 +104,6 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [정규식 테스트](https://cratex.app/ko/regex-tester)
 - [MIME 타입](https://cratex.app/ko/mime-type)
 - [HTTP 상태 코드](https://cratex.app/ko/http-status)
-- [해시 체크섬](https://cratex.app/ko/hash-checksum)
 - [CSS 단위 변환기](https://cratex.app/ko/css-unit-converter)
 - [색상 변환기](https://cratex.app/ko/color-converter)
 - [Lorem 생성기](https://cratex.app/ko/lorem-generator)

@@ -50,6 +50,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 #### 🛠️ [यूटिलिटी टूल्स](https://cratex.app/hi/cat/utils)
 
 - [पासवर्ड जनरेटर](https://cratex.app/hi/password-generator)
+- [हैश जनरेटर और चेकर](https://cratex.app/hi/hash-checksum)
 - [UUID जनरेटर](https://cratex.app/hi/uuid-generator)
 - [QR कोड जनरेटर](https://cratex.app/hi/qr-generator)
 - [क्यूआर डिकोडर](https://cratex.app/hi/qr-decoder)
@@ -61,6 +62,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [समय अवधि कैलकुलेटर](https://cratex.app/hi/time-duration-calculator)
 - [टाइमस्टैम्प परिवर्तक](https://cratex.app/hi/timestamp-converter)
 - [वर्ल्ड क्लॉक](https://cratex.app/hi/world-clock)
+- [वर्ल्ड कप किकऑफ समय कन्वर्टर](https://cratex.app/hi/world-cup-kickoff-time-converter)
 - [रैंडम नंबर जनरेटर](https://cratex.app/hi/random-number-generator)
 - [यादृच्छिक चयन](https://cratex.app/hi/random-picker)
 - [पासा फेंकें](https://cratex.app/hi/dice-roller)
@@ -94,6 +96,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 #### 💻 [डेवलपर टूल्स](https://cratex.app/hi/cat/dev)
 
 - [JSON फ़ॉर्मैट व वैलिडेशन](https://cratex.app/hi/json-formatter)
+- [JSON सुधार और जांच](https://cratex.app/hi/json-repair)
 - [JSON से TypeScript](https://cratex.app/hi/json-to-typescript)
 - [JSON ↔ YAML कन्वर्टर](https://cratex.app/hi/yaml-json-converter)
 - [JSON ↔ CSV कन्वर्टर](https://cratex.app/hi/csv-json-converter)
@@ -101,7 +104,6 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [रेगेक्स टेस्टर](https://cratex.app/hi/regex-tester)
 - [MIME टाइप](https://cratex.app/hi/mime-type)
 - [HTTP स्थिति कोड](https://cratex.app/hi/http-status)
-- [हैश चेकसम](https://cratex.app/hi/hash-checksum)
 - [CSS इकाई परिवर्तक](https://cratex.app/hi/css-unit-converter)
 - [रंग प्रारूप परिवर्तक](https://cratex.app/hi/color-converter)
 - [Lorem जनरेटर](https://cratex.app/hi/lorem-generator)

@@ -50,6 +50,7 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 #### 🛠️ [Dienstprogramme](https://cratex.app/de/cat/utils)
 
 - [Passwort‑Generator](https://cratex.app/de/password-generator)
+- [Hash-Generator und Prüfer](https://cratex.app/de/hash-checksum)
 - [UUID-Generator](https://cratex.app/de/uuid-generator)
 - [QR-Code-Generator](https://cratex.app/de/qr-generator)
 - [QR-Decoder](https://cratex.app/de/qr-decoder)
@@ -61,6 +62,7 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 - [Zeitdauer-Rechner](https://cratex.app/de/time-duration-calculator)
 - [Zeitstempel-Konverter](https://cratex.app/de/timestamp-converter)
 - [Weltuhr](https://cratex.app/de/world-clock)
+- [WM-Anstoßzeit-Konverter](https://cratex.app/de/world-cup-kickoff-time-converter)
 - [Zufallszahlengenerator](https://cratex.app/de/random-number-generator)
 - [Zufallsauswahl](https://cratex.app/de/random-picker)
 - [Würfel werfen](https://cratex.app/de/dice-roller)
@@ -94,6 +96,7 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 #### 💻 [Entwickler-Tools](https://cratex.app/de/cat/dev)
 
 - [JSON-Formatierung & Validierung](https://cratex.app/de/json-formatter)
+- [JSON reparieren und prüfen](https://cratex.app/de/json-repair)
 - [JSON zu TypeScript](https://cratex.app/de/json-to-typescript)
 - [JSON ↔ YAML-Konverter](https://cratex.app/de/yaml-json-converter)
 - [JSON ↔ CSV-Konverter](https://cratex.app/de/csv-json-converter)
@@ -101,7 +104,6 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 - [Regex-Test](https://cratex.app/de/regex-tester)
 - [MIME-Type](https://cratex.app/de/mime-type)
 - [HTTP-Statuscodes](https://cratex.app/de/http-status)
-- [Hash-Prüfsumme](https://cratex.app/de/hash-checksum)
 - [CSS-Einheiten-Konverter](https://cratex.app/de/css-unit-converter)
 - [Farbformat‑Konverter](https://cratex.app/de/color-converter)
 - [Lorem-Generator](https://cratex.app/de/lorem-generator)

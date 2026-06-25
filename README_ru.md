@@ -50,6 +50,7 @@ CrateX.app — быстрая платформа браузерных инстр
 #### 🛠️ [Утилиты](https://cratex.app/ru/cat/utils)
 
 - [Генератор паролей](https://cratex.app/ru/password-generator)
+- [Генератор и проверка хэша](https://cratex.app/ru/hash-checksum)
 - [Генератор UUID](https://cratex.app/ru/uuid-generator)
 - [Генератор QR-кодов](https://cratex.app/ru/qr-generator)
 - [QR-декодер](https://cratex.app/ru/qr-decoder)
@@ -61,6 +62,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Калькулятор длительности](https://cratex.app/ru/time-duration-calculator)
 - [Конвертер временных меток](https://cratex.app/ru/timestamp-converter)
 - [Мировые часы](https://cratex.app/ru/world-clock)
+- [Конвертер времени начала матчей ЧМ](https://cratex.app/ru/world-cup-kickoff-time-converter)
 - [Генератор случайных чисел](https://cratex.app/ru/random-number-generator)
 - [Случайный выбор](https://cratex.app/ru/random-picker)
 - [Бросить кости](https://cratex.app/ru/dice-roller)
@@ -94,6 +96,7 @@ CrateX.app — быстрая платформа браузерных инстр
 #### 💻 [Инструменты разработчика](https://cratex.app/ru/cat/dev)
 
 - [Форматирование и проверка JSON](https://cratex.app/ru/json-formatter)
+- [Исправление и проверка JSON](https://cratex.app/ru/json-repair)
 - [JSON в TypeScript](https://cratex.app/ru/json-to-typescript)
 - [Конвертер JSON ↔ YAML](https://cratex.app/ru/yaml-json-converter)
 - [Конвертер JSON ↔ CSV](https://cratex.app/ru/csv-json-converter)
@@ -101,7 +104,6 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Проверка регулярных выражений](https://cratex.app/ru/regex-tester)
 - [MIME-тип](https://cratex.app/ru/mime-type)
 - [Коды статуса HTTP](https://cratex.app/ru/http-status)
-- [Проверка хэша](https://cratex.app/ru/hash-checksum)
 - [Конвертер CSS единиц](https://cratex.app/ru/css-unit-converter)
 - [Конвертер цветовых форматов](https://cratex.app/ru/color-converter)
 - [Генератор Lorem](https://cratex.app/ru/lorem-generator)

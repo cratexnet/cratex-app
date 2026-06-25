@@ -50,6 +50,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 #### 🛠️ [Công cụ tiện ích](https://cratex.app/vi/cat/utils)
 
 - [Trình tạo mật khẩu](https://cratex.app/vi/password-generator)
+- [Tạo và kiểm tra Hash](https://cratex.app/vi/hash-checksum)
 - [Trình tạo UUID](https://cratex.app/vi/uuid-generator)
 - [Trình tạo mã QR](https://cratex.app/vi/qr-generator)
 - [Bộ giải mã QR](https://cratex.app/vi/qr-decoder)
@@ -61,6 +62,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Máy tính thời lượng](https://cratex.app/vi/time-duration-calculator)
 - [Bộ chuyển đổi dấu thời gian](https://cratex.app/vi/timestamp-converter)
 - [Đồng hồ thế giới](https://cratex.app/vi/world-clock)
+- [Chuyển đổi giờ khai cuộc World Cup](https://cratex.app/vi/world-cup-kickoff-time-converter)
 - [Trình tạo số ngẫu nhiên](https://cratex.app/vi/random-number-generator)
 - [Bốc thăm ngẫu nhiên](https://cratex.app/vi/random-picker)
 - [Tung xúc xắc](https://cratex.app/vi/dice-roller)
@@ -94,6 +96,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 #### 💻 [Công cụ cho lập trình viên](https://cratex.app/vi/cat/dev)
 
 - [Định dạng và kiểm tra JSON](https://cratex.app/vi/json-formatter)
+- [Sửa và kiểm tra JSON](https://cratex.app/vi/json-repair)
 - [JSON sang TypeScript](https://cratex.app/vi/json-to-typescript)
 - [Bộ chuyển đổi JSON ↔ YAML](https://cratex.app/vi/yaml-json-converter)
 - [Bộ chuyển đổi JSON ↔ CSV](https://cratex.app/vi/csv-json-converter)
@@ -101,7 +104,6 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Kiểm tra Regex](https://cratex.app/vi/regex-tester)
 - [Loại MIME](https://cratex.app/vi/mime-type)
 - [Mã trạng thái HTTP](https://cratex.app/vi/http-status)
-- [Kiểm tra Hash](https://cratex.app/vi/hash-checksum)
 - [Bộ chuyển đổi đơn vị CSS](https://cratex.app/vi/css-unit-converter)
 - [Bộ chuyển đổi màu](https://cratex.app/vi/color-converter)
 - [Trình tạo Lorem Ipsum](https://cratex.app/vi/lorem-generator)

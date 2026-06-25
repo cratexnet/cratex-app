@@ -50,6 +50,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 #### 🛠️ [Hulpprogramma's](https://cratex.app/nl/cat/utils)
 
 - [Wachtwoordgenerator](https://cratex.app/nl/password-generator)
+- [Hashgenerator en hashchecker](https://cratex.app/nl/hash-checksum)
 - [UUID-generator](https://cratex.app/nl/uuid-generator)
 - [QR-codegenerator](https://cratex.app/nl/qr-generator)
 - [QR-decoder](https://cratex.app/nl/qr-decoder)
@@ -61,6 +62,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Tijdsduurcalculator](https://cratex.app/nl/time-duration-calculator)
 - [Tijdstempelconverter](https://cratex.app/nl/timestamp-converter)
 - [Wereldklok](https://cratex.app/nl/world-clock)
+- [WK-aftraptijdconverter](https://cratex.app/nl/world-cup-kickoff-time-converter)
 - [Willekeurige getallengenerator](https://cratex.app/nl/random-number-generator)
 - [Willekeurige trekking](https://cratex.app/nl/random-picker)
 - [Dobbelstenen rollen](https://cratex.app/nl/dice-roller)
@@ -94,6 +96,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 #### 💻 [Tools voor ontwikkelaars](https://cratex.app/nl/cat/dev)
 
 - [JSON formatteren en valideren](https://cratex.app/nl/json-formatter)
+- [JSON repareren en controleren](https://cratex.app/nl/json-repair)
 - [JSON naar TypeScript](https://cratex.app/nl/json-to-typescript)
 - [JSON ↔ YAML-converter](https://cratex.app/nl/yaml-json-converter)
 - [JSON ↔ CSV-converter](https://cratex.app/nl/csv-json-converter)
@@ -101,7 +104,6 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Regex testen](https://cratex.app/nl/regex-tester)
 - [MIME-type](https://cratex.app/nl/mime-type)
 - [HTTP-statuscodes](https://cratex.app/nl/http-status)
-- [Hash-controlesom](https://cratex.app/nl/hash-checksum)
 - [CSS-eenhedenconverter](https://cratex.app/nl/css-unit-converter)
 - [Kleurconverter](https://cratex.app/nl/color-converter)
 - [Lorem-generator](https://cratex.app/nl/lorem-generator)

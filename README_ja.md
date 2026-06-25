@@ -50,6 +50,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 #### 🛠️ [ユーティリティ](https://cratex.app/ja/cat/utils)
 
 - [パスワードジェネレーター](https://cratex.app/ja/password-generator)
+- [ハッシュ生成と検証](https://cratex.app/ja/hash-checksum)
 - [UUIDジェネレーター](https://cratex.app/ja/uuid-generator)
 - [QR コードジェネレーター](https://cratex.app/ja/qr-generator)
 - [QR デコーダー](https://cratex.app/ja/qr-decoder)
@@ -61,6 +62,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [時間計算機](https://cratex.app/ja/time-duration-calculator)
 - [タイムスタンプ変換](https://cratex.app/ja/timestamp-converter)
 - [世界時計](https://cratex.app/ja/world-clock)
+- [ワールドカップキックオフ時刻変換](https://cratex.app/ja/world-cup-kickoff-time-converter)
 - [乱数生成](https://cratex.app/ja/random-number-generator)
 - [ランダム抽選](https://cratex.app/ja/random-picker)
 - [サイコロを振る](https://cratex.app/ja/dice-roller)
@@ -94,6 +96,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 #### 💻 [開発者ツール](https://cratex.app/ja/cat/dev)
 
 - [JSON 整形と検証](https://cratex.app/ja/json-formatter)
+- [JSON 修復と検査](https://cratex.app/ja/json-repair)
 - [JSON から TypeScript](https://cratex.app/ja/json-to-typescript)
 - [JSON YAML 変換](https://cratex.app/ja/yaml-json-converter)
 - [JSON ↔ CSV 変換](https://cratex.app/ja/csv-json-converter)
@@ -101,7 +104,6 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [正規表現テスト](https://cratex.app/ja/regex-tester)
 - [MIME タイプ](https://cratex.app/ja/mime-type)
 - [HTTP ステータスコード](https://cratex.app/ja/http-status)
-- [ハッシュ検証](https://cratex.app/ja/hash-checksum)
 - [CSS 単位変換](https://cratex.app/ja/css-unit-converter)
 - [カラー変換](https://cratex.app/ja/color-converter)
 - [Lorem ジェネレーター](https://cratex.app/ja/lorem-generator)

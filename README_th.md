@@ -50,6 +50,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 #### 🛠️ [เครื่องมืออรรถประโยชน์](https://cratex.app/th/cat/utils)
 
 - [ตัวสร้างรหัสผ่าน](https://cratex.app/th/password-generator)
+- [สร้างและตรวจสอบแฮช](https://cratex.app/th/hash-checksum)
 - [ตัวสร้าง UUID](https://cratex.app/th/uuid-generator)
 - [ตัวสร้างคิวอาร์โค้ด](https://cratex.app/th/qr-generator)
 - [เครื่องถอดรหัส QR](https://cratex.app/th/qr-decoder)
@@ -61,6 +62,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [เครื่องคำนวณระยะเวลา](https://cratex.app/th/time-duration-calculator)
 - [ตัวแปลงตราประทับเวลา](https://cratex.app/th/timestamp-converter)
 - [นาฬิกาโลก](https://cratex.app/th/world-clock)
+- [ตัวแปลงเวลาเริ่มแข่งฟุตบอลโลก](https://cratex.app/th/world-cup-kickoff-time-converter)
 - [เครื่องสร้างตัวเลขสุ่ม](https://cratex.app/th/random-number-generator)
 - [สุ่มจับรายชื่อ](https://cratex.app/th/random-picker)
 - [ทอยลูกเต๋า](https://cratex.app/th/dice-roller)
@@ -94,6 +96,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 #### 💻 [เครื่องมือสำหรับนักพัฒนา](https://cratex.app/th/cat/dev)
 
 - [จัดรูปแบบและตรวจสอบ JSON](https://cratex.app/th/json-formatter)
+- [ซ่อมและตรวจ JSON](https://cratex.app/th/json-repair)
 - [JSON เป็น TypeScript](https://cratex.app/th/json-to-typescript)
 - [ตัวแปลง JSON ↔ YAML](https://cratex.app/th/yaml-json-converter)
 - [ตัวแปลง JSON ↔ CSV](https://cratex.app/th/csv-json-converter)
@@ -101,7 +104,6 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ทดสอบ Regex](https://cratex.app/th/regex-tester)
 - [ประเภท MIME](https://cratex.app/th/mime-type)
 - [รหัสสถานะ HTTP](https://cratex.app/th/http-status)
-- [ตรวจสอบแฮช](https://cratex.app/th/hash-checksum)
 - [ตัวแปลงหน่วย CSS](https://cratex.app/th/css-unit-converter)
 - [ตัวแปลงสี](https://cratex.app/th/color-converter)
 - [เครื่องสร้างข้อความ Lorem](https://cratex.app/th/lorem-generator)

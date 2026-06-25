@@ -50,6 +50,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 #### 🛠️ [Yardımcı araçlar](https://cratex.app/tr/cat/utils)
 
 - [Parola Üreteci](https://cratex.app/tr/password-generator)
+- [Hash Oluşturucu ve Denetleyici](https://cratex.app/tr/hash-checksum)
 - [UUID Üreteci](https://cratex.app/tr/uuid-generator)
 - [QR Kod Üreteci](https://cratex.app/tr/qr-generator)
 - [QR Kod Çözücü](https://cratex.app/tr/qr-decoder)
@@ -61,6 +62,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Süre hesaplayıcı](https://cratex.app/tr/time-duration-calculator)
 - [Zaman Damgası Dönüştürücü](https://cratex.app/tr/timestamp-converter)
 - [Dünya Saati](https://cratex.app/tr/world-clock)
+- [Dünya Kupası başlama saati dönüştürücü](https://cratex.app/tr/world-cup-kickoff-time-converter)
 - [Rastgele sayı üreteci](https://cratex.app/tr/random-number-generator)
 - [Rastgele çekiliş](https://cratex.app/tr/random-picker)
 - [Zar at](https://cratex.app/tr/dice-roller)
@@ -94,6 +96,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 #### 💻 [Geliştirici araçları](https://cratex.app/tr/cat/dev)
 
 - [JSON Biçimlendirme ve Doğrulama](https://cratex.app/tr/json-formatter)
+- [JSON onarma ve inceleme](https://cratex.app/tr/json-repair)
 - [JSON'dan TypeScript'e](https://cratex.app/tr/json-to-typescript)
 - [JSON ↔ YAML Dönüştürücü](https://cratex.app/tr/yaml-json-converter)
 - [JSON ↔ CSV Dönüştürücü](https://cratex.app/tr/csv-json-converter)
@@ -101,7 +104,6 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Regex Testi](https://cratex.app/tr/regex-tester)
 - [MIME Türü](https://cratex.app/tr/mime-type)
 - [HTTP Durum Kodları](https://cratex.app/tr/http-status)
-- [Hash Doğrulama](https://cratex.app/tr/hash-checksum)
 - [CSS Birim Dönüştürücü](https://cratex.app/tr/css-unit-converter)
 - [Renk Dönüştürücü](https://cratex.app/tr/color-converter)
 - [Lorem Metin Üreteci](https://cratex.app/tr/lorem-generator)

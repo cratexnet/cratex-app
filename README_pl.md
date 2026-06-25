@@ -50,6 +50,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 #### 🛠️ [Narzędzia użytkowe](https://cratex.app/pl/cat/utils)
 
 - [Generator haseł](https://cratex.app/pl/password-generator)
+- [Generator i weryfikator hashy](https://cratex.app/pl/hash-checksum)
 - [Generator UUID](https://cratex.app/pl/uuid-generator)
 - [Generator kodów QR](https://cratex.app/pl/qr-generator)
 - [Dekoder QR](https://cratex.app/pl/qr-decoder)
@@ -61,6 +62,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Kalkulator czasu trwania](https://cratex.app/pl/time-duration-calculator)
 - [Konwerter znaczników czasu](https://cratex.app/pl/timestamp-converter)
 - [Zegar światowy](https://cratex.app/pl/world-clock)
+- [Konwerter godzin rozpoczęcia meczów MŚ](https://cratex.app/pl/world-cup-kickoff-time-converter)
 - [Generator liczb losowych](https://cratex.app/pl/random-number-generator)
 - [Losowanie](https://cratex.app/pl/random-picker)
 - [Rzut kośćmi](https://cratex.app/pl/dice-roller)
@@ -94,6 +96,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 #### 💻 [Narzędzia dla programistów](https://cratex.app/pl/cat/dev)
 
 - [Formatowanie i walidacja JSON](https://cratex.app/pl/json-formatter)
+- [Naprawa i kontrola JSON](https://cratex.app/pl/json-repair)
 - [JSON do TypeScript](https://cratex.app/pl/json-to-typescript)
 - [Konwerter JSON ↔ YAML](https://cratex.app/pl/yaml-json-converter)
 - [Konwerter JSON ↔ CSV](https://cratex.app/pl/csv-json-converter)
@@ -101,7 +104,6 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Test wyrażeń regularnych](https://cratex.app/pl/regex-tester)
 - [Typ MIME](https://cratex.app/pl/mime-type)
 - [Kody statusu HTTP](https://cratex.app/pl/http-status)
-- [Weryfikacja hash](https://cratex.app/pl/hash-checksum)
 - [Konwerter jednostek CSS](https://cratex.app/pl/css-unit-converter)
 - [Konwerter kolorów](https://cratex.app/pl/color-converter)
 - [Generator Lorem Ipsum](https://cratex.app/pl/lorem-generator)

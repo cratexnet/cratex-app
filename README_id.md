@@ -50,6 +50,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 #### 🛠️ [Alat utilitas](https://cratex.app/id/cat/utils)
 
 - [Generator Kata Sandi](https://cratex.app/id/password-generator)
+- [Pembuat dan Pemeriksa Hash](https://cratex.app/id/hash-checksum)
 - [Generator UUID](https://cratex.app/id/uuid-generator)
 - [Generator Kode QR](https://cratex.app/id/qr-generator)
 - [Dekoder QR](https://cratex.app/id/qr-decoder)
@@ -61,6 +62,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Kalkulator durasi waktu](https://cratex.app/id/time-duration-calculator)
 - [Konverter Timestamp](https://cratex.app/id/timestamp-converter)
 - [Jam Dunia](https://cratex.app/id/world-clock)
+- [Konverter Waktu Kickoff Piala Dunia](https://cratex.app/id/world-cup-kickoff-time-converter)
 - [Generator angka acak](https://cratex.app/id/random-number-generator)
 - [Undian acak](https://cratex.app/id/random-picker)
 - [Lempar dadu](https://cratex.app/id/dice-roller)
@@ -94,6 +96,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 #### 💻 [Alat pengembang](https://cratex.app/id/cat/dev)
 
 - [Format & Validasi JSON](https://cratex.app/id/json-formatter)
+- [Perbaiki dan periksa JSON](https://cratex.app/id/json-repair)
 - [JSON ke TypeScript](https://cratex.app/id/json-to-typescript)
 - [Konverter JSON ↔ YAML](https://cratex.app/id/yaml-json-converter)
 - [Konverter JSON ↔ CSV](https://cratex.app/id/csv-json-converter)
@@ -101,7 +104,6 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Penguji Regex](https://cratex.app/id/regex-tester)
 - [Tipe MIME](https://cratex.app/id/mime-type)
 - [Kode Status HTTP](https://cratex.app/id/http-status)
-- [Pemeriksaan Hash](https://cratex.app/id/hash-checksum)
 - [Konverter Satuan CSS](https://cratex.app/id/css-unit-converter)
 - [Konverter Warna](https://cratex.app/id/color-converter)
 - [Generator Lorem Ipsum](https://cratex.app/id/lorem-generator)

@@ -50,6 +50,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 #### 🛠️ [实用工具](https://cratex.app/zh-CN/cat/utils)
 
 - [密码生成器](https://cratex.app/zh-CN/password-generator)
+- [哈希生成与校验](https://cratex.app/zh-CN/hash-checksum)
 - [UUID 生成器](https://cratex.app/zh-CN/uuid-generator)
 - [二维码生成器](https://cratex.app/zh-CN/qr-generator)
 - [二维码识别](https://cratex.app/zh-CN/qr-decoder)
@@ -61,6 +62,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [时间间隔计算器](https://cratex.app/zh-CN/time-duration-calculator)
 - [时间戳转换](https://cratex.app/zh-CN/timestamp-converter)
 - [世界时钟](https://cratex.app/zh-CN/world-clock)
+- [世界杯开球时间转换](https://cratex.app/zh-CN/world-cup-kickoff-time-converter)
 - [随机数生成器](https://cratex.app/zh-CN/random-number-generator)
 - [随机抽签](https://cratex.app/zh-CN/random-picker)
 - [掷骰子](https://cratex.app/zh-CN/dice-roller)
@@ -94,6 +96,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 #### 💻 [开发工具](https://cratex.app/zh-CN/cat/dev)
 
 - [JSON 格式化与校验](https://cratex.app/zh-CN/json-formatter)
+- [JSON 修复与检查](https://cratex.app/zh-CN/json-repair)
 - [JSON 转 TypeScript](https://cratex.app/zh-CN/json-to-typescript)
 - [JSON ↔ YAML 互转](https://cratex.app/zh-CN/yaml-json-converter)
 - [JSON ↔ CSV 互转](https://cratex.app/zh-CN/csv-json-converter)
@@ -101,7 +104,6 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [正则表达式测试](https://cratex.app/zh-CN/regex-tester)
 - [MIME 类型](https://cratex.app/zh-CN/mime-type)
 - [HTTP 状态码](https://cratex.app/zh-CN/http-status)
-- [哈希校验](https://cratex.app/zh-CN/hash-checksum)
 - [CSS 单位转换](https://cratex.app/zh-CN/css-unit-converter)
 - [颜色格式转换](https://cratex.app/zh-CN/color-converter)
 - [Lorem 生成器](https://cratex.app/zh-CN/lorem-generator)

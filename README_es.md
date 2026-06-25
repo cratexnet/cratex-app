@@ -50,6 +50,7 @@ El sitio web aún está en rápido desarrollo. Nuevas herramientas se lanzarán 
 #### 🛠️ [Herramientas utilitarias](https://cratex.app/es/cat/utils)
 
 - [Generador de contraseñas](https://cratex.app/es/password-generator)
+- [Generador y verificador de hash](https://cratex.app/es/hash-checksum)
 - [Generador UUID](https://cratex.app/es/uuid-generator)
 - [Generador de código QR](https://cratex.app/es/qr-generator)
 - [Decodificador QR](https://cratex.app/es/qr-decoder)
@@ -61,6 +62,7 @@ El sitio web aún está en rápido desarrollo. Nuevas herramientas se lanzarán 
 - [Calculadora de duración](https://cratex.app/es/time-duration-calculator)
 - [Convertidor de marcas de tiempo](https://cratex.app/es/timestamp-converter)
 - [Reloj mundial](https://cratex.app/es/world-clock)
+- [Conversor de horarios de inicio del Mundial](https://cratex.app/es/world-cup-kickoff-time-converter)
 - [Generador de números aleatorios](https://cratex.app/es/random-number-generator)
 - [Sorteo aleatorio](https://cratex.app/es/random-picker)
 - [Tirar dados](https://cratex.app/es/dice-roller)
@@ -94,6 +96,7 @@ El sitio web aún está en rápido desarrollo. Nuevas herramientas se lanzarán 
 #### 💻 [Herramientas de desarrollador](https://cratex.app/es/cat/dev)
 
 - [Formato y validación de JSON](https://cratex.app/es/json-formatter)
+- [Reparar e inspeccionar JSON](https://cratex.app/es/json-repair)
 - [JSON a TypeScript](https://cratex.app/es/json-to-typescript)
 - [Convertidor JSON ↔ YAML](https://cratex.app/es/yaml-json-converter)
 - [Convertidor JSON ↔ CSV](https://cratex.app/es/csv-json-converter)
@@ -101,7 +104,6 @@ El sitio web aún está en rápido desarrollo. Nuevas herramientas se lanzarán 
 - [Prueba de expresiones regulares](https://cratex.app/es/regex-tester)
 - [Tipo MIME](https://cratex.app/es/mime-type)
 - [Códigos de estado HTTP](https://cratex.app/es/http-status)
-- [Verificación de hash](https://cratex.app/es/hash-checksum)
 - [Convertidor de unidades CSS](https://cratex.app/es/css-unit-converter)
 - [Convertidor de colores](https://cratex.app/es/color-converter)
 - [Generador de Lorem Ipsum](https://cratex.app/es/lorem-generator)

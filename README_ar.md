@@ -50,6 +50,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 #### 🛠️ [أدوات مساعدة](https://cratex.app/ar/cat/utils)
 
 - [مولد كلمات المرور](https://cratex.app/ar/password-generator)
+- [مولد ومدقق التجزئة](https://cratex.app/ar/hash-checksum)
 - [مولد UUID](https://cratex.app/ar/uuid-generator)
 - [مولّد رمز QR](https://cratex.app/ar/qr-generator)
 - [فك رموز الاستجابة السريعة](https://cratex.app/ar/qr-decoder)
@@ -61,6 +62,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [حاسبة مدة الوقت](https://cratex.app/ar/time-duration-calculator)
 - [محول الطابع الزمني](https://cratex.app/ar/timestamp-converter)
 - [الساعة العالمية](https://cratex.app/ar/world-clock)
+- [محول مواعيد انطلاق مباريات كأس العالم](https://cratex.app/ar/world-cup-kickoff-time-converter)
 - [مولد الأرقام العشوائية](https://cratex.app/ar/random-number-generator)
 - [سحب عشوائي](https://cratex.app/ar/random-picker)
 - [رمي النرد](https://cratex.app/ar/dice-roller)
@@ -94,6 +96,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 #### 💻 [أدوات المطور](https://cratex.app/ar/cat/dev)
 
 - [تنسيق JSON والتحقق منه](https://cratex.app/ar/json-formatter)
+- [إصلاح JSON وفحصه](https://cratex.app/ar/json-repair)
 - [JSON إلى TypeScript](https://cratex.app/ar/json-to-typescript)
 - [محول JSON ↔ YAML](https://cratex.app/ar/yaml-json-converter)
 - [محول JSON ↔ CSV](https://cratex.app/ar/csv-json-converter)
@@ -101,7 +104,6 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [اختبار التعبيرات النمطية](https://cratex.app/ar/regex-tester)
 - [نوع MIME](https://cratex.app/ar/mime-type)
 - [رموز حالة HTTP](https://cratex.app/ar/http-status)
-- [التحقق من التجزئة](https://cratex.app/ar/hash-checksum)
 - [محول وحدات CSS](https://cratex.app/ar/css-unit-converter)
 - [محول صيغ الألوان](https://cratex.app/ar/color-converter)
 - [مولد لوريم إيبسوم](https://cratex.app/ar/lorem-generator)

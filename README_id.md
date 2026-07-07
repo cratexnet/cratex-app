@@ -122,6 +122,17 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Pemilih Warna Gambar & Palet](https://cratex.app/id/image-color-picker)
 - [Pembersih Metadata Gambar Lokal](https://cratex.app/id/image-metadata-cleaner)
 - [Penyamaran Privasi Gambar](https://cratex.app/id/image-redactor)
+- [Gambar ke PDF](https://cratex.app/id/image-to-pdf)
+- [PDF ke gambar](https://cratex.app/id/pdf-to-images)
+
+#### 🎬 [Alat Media](https://cratex.app/id/cat/media)
+
+- [Ekstrak Audio dari Video](https://cratex.app/id/extract-audio-from-video)
+- [Bisukan Video](https://cratex.app/id/remove-audio-from-video)
+- [Pangkas audio](https://cratex.app/id/trim-audio)
+- [Audio ke WAV](https://cratex.app/id/audio-to-wav)
+- [Ekstrak Frame Video](https://cratex.app/id/video-frame-extractor)
+- [M4A ke MP3](https://cratex.app/id/m4a-to-mp3)
 
 ## 🐛 Pelaporan masalah
 

@@ -122,6 +122,17 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 - [Bildfarben auswählen und Palette erstellen](https://cratex.app/de/image-color-picker)
 - [Bildmetadaten prüfen und entfernen](https://cratex.app/de/image-metadata-cleaner)
 - [Bilder schwärzen](https://cratex.app/de/image-redactor)
+- [Bild zu PDF](https://cratex.app/de/image-to-pdf)
+- [PDF in Bilder](https://cratex.app/de/pdf-to-images)
+
+#### 🎬 [Medien-Tools](https://cratex.app/de/cat/media)
+
+- [Audio aus Video extrahieren](https://cratex.app/de/extract-audio-from-video)
+- [Video stummschalten](https://cratex.app/de/remove-audio-from-video)
+- [Audio schneiden](https://cratex.app/de/trim-audio)
+- [Audio zu WAV](https://cratex.app/de/audio-to-wav)
+- [Videoframe extrahieren](https://cratex.app/de/video-frame-extractor)
+- [M4A zu MP3](https://cratex.app/de/m4a-to-mp3)
 
 ## 🐛 Probleme melden
 

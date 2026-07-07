@@ -122,6 +122,17 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [이미지 컬러 피커와 팔레트](https://cratex.app/ko/image-color-picker)
 - [이미지 메타데이터 보기 및 정리](https://cratex.app/ko/image-metadata-cleaner)
 - [이미지 개인정보 가리기](https://cratex.app/ko/image-redactor)
+- [이미지를 PDF로 변환](https://cratex.app/ko/image-to-pdf)
+- [PDF 이미지 변환](https://cratex.app/ko/pdf-to-images)
+
+#### 🎬 [미디어 도구](https://cratex.app/ko/cat/media)
+
+- [동영상에서 오디오 추출](https://cratex.app/ko/extract-audio-from-video)
+- [동영상 음소거](https://cratex.app/ko/remove-audio-from-video)
+- [오디오 자르기](https://cratex.app/ko/trim-audio)
+- [오디오를 WAV로 변환](https://cratex.app/ko/audio-to-wav)
+- [동영상 프레임 추출](https://cratex.app/ko/video-frame-extractor)
+- [M4A를 MP3로 변환](https://cratex.app/ko/m4a-to-mp3)
 
 ## 🐛 문제 신고
 

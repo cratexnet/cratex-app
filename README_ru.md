@@ -122,6 +122,17 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Палитра и пипетка](https://cratex.app/ru/image-color-picker)
 - [Просмотр и очистка метаданных изображений](https://cratex.app/ru/image-metadata-cleaner)
 - [Скрытие приватных данных на изображениях](https://cratex.app/ru/image-redactor)
+- [Изображения в PDF](https://cratex.app/ru/image-to-pdf)
+- [PDF в изображения](https://cratex.app/ru/pdf-to-images)
+
+#### 🎬 [Медиа-инструменты](https://cratex.app/ru/cat/media)
+
+- [Извлечь аудио из видео](https://cratex.app/ru/extract-audio-from-video)
+- [Отключить звук видео](https://cratex.app/ru/remove-audio-from-video)
+- [Обрезать аудио](https://cratex.app/ru/trim-audio)
+- [Аудио в WAV](https://cratex.app/ru/audio-to-wav)
+- [Извлечь кадр из видео](https://cratex.app/ru/video-frame-extractor)
+- [M4A в MP3](https://cratex.app/ru/m4a-to-mp3)
 
 ## 🐛 Сообщить о проблеме
 

@@ -122,6 +122,17 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวเลือกสีภาพและพาเลท](https://cratex.app/th/image-color-picker)
 - [ดูและล้างข้อมูลเมตาของรูปภาพ](https://cratex.app/th/image-metadata-cleaner)
 - [ปิดบังข้อมูลส่วนตัวบนรูปภาพ](https://cratex.app/th/image-redactor)
+- [แปลงรูปภาพเป็น PDF](https://cratex.app/th/image-to-pdf)
+- [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/pdf-to-images)
+
+#### 🎬 [เครื่องมือสื่อ](https://cratex.app/th/cat/media)
+
+- [แยกเสียงจากวิดีโอ](https://cratex.app/th/extract-audio-from-video)
+- [ปิดเสียงวิดีโอ](https://cratex.app/th/remove-audio-from-video)
+- [ตัดเสียง](https://cratex.app/th/trim-audio)
+- [แปลงเสียงเป็น WAV](https://cratex.app/th/audio-to-wav)
+- [ดึงเฟรมวิดีโอ](https://cratex.app/th/video-frame-extractor)
+- [M4A เป็น MP3](https://cratex.app/th/m4a-to-mp3)
 
 ## 🐛 การรายงานปัญหา
 

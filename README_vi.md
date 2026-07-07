@@ -122,6 +122,17 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Bộ Chọn Màu Ảnh và Bảng Màu](https://cratex.app/vi/image-color-picker)
 - [Xem và xóa metadata ảnh](https://cratex.app/vi/image-metadata-cleaner)
 - [Che thông tin riêng tư trên ảnh](https://cratex.app/vi/image-redactor)
+- [Ảnh sang PDF](https://cratex.app/vi/image-to-pdf)
+- [PDF sang ảnh](https://cratex.app/vi/pdf-to-images)
+
+#### 🎬 [Công cụ media](https://cratex.app/vi/cat/media)
+
+- [Tách âm thanh từ video](https://cratex.app/vi/extract-audio-from-video)
+- [Tắt tiếng video](https://cratex.app/vi/remove-audio-from-video)
+- [Cắt âm thanh](https://cratex.app/vi/trim-audio)
+- [Audio sang WAV](https://cratex.app/vi/audio-to-wav)
+- [Trích xuất khung hình video](https://cratex.app/vi/video-frame-extractor)
+- [M4A sang MP3](https://cratex.app/vi/m4a-to-mp3)
 
 ## 🐛 Báo cáo vấn đề
 

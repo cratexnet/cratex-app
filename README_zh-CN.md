@@ -122,6 +122,17 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [图片取色与调色板](https://cratex.app/zh-CN/image-color-picker)
 - [图片元数据查看与清理](https://cratex.app/zh-CN/image-metadata-cleaner)
 - [图片隐私打码](https://cratex.app/zh-CN/image-redactor)
+- [图片转 PDF](https://cratex.app/zh-CN/image-to-pdf)
+- [PDF 转图片](https://cratex.app/zh-CN/pdf-to-images)
+
+#### 🎬 [媒体工具](https://cratex.app/zh-CN/cat/media)
+
+- [从视频提取音频](https://cratex.app/zh-CN/extract-audio-from-video)
+- [移除视频声音](https://cratex.app/zh-CN/remove-audio-from-video)
+- [剪切音频](https://cratex.app/zh-CN/trim-audio)
+- [音频转 WAV](https://cratex.app/zh-CN/audio-to-wav)
+- [视频帧提取](https://cratex.app/zh-CN/video-frame-extractor)
+- [M4A 转 MP3](https://cratex.app/zh-CN/m4a-to-mp3)
 
 ## 🐛 问题反馈
 

@@ -122,6 +122,17 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [इमेज कलर पिकर और पैलेट](https://cratex.app/hi/image-color-picker)
 - [इमेज मेटाडाटा व्यू व क्लीनर](https://cratex.app/hi/image-metadata-cleaner)
 - [इमेज प्राइवेसी रेडैक्टर](https://cratex.app/hi/image-redactor)
+- [इमेज से PDF](https://cratex.app/hi/image-to-pdf)
+- [PDF से इमेज](https://cratex.app/hi/pdf-to-images)
+
+#### 🎬 [मीडिया टूल](https://cratex.app/hi/cat/media)
+
+- [वीडियो से ऑडियो निकालें](https://cratex.app/hi/extract-audio-from-video)
+- [वीडियो म्यूट करें](https://cratex.app/hi/remove-audio-from-video)
+- [ऑडियो काटें](https://cratex.app/hi/trim-audio)
+- [ऑडियो को WAV में बदलें](https://cratex.app/hi/audio-to-wav)
+- [वीडियो फ्रेम निकालें](https://cratex.app/hi/video-frame-extractor)
+- [M4A से MP3](https://cratex.app/hi/m4a-to-mp3)
 
 ## 🐛 समस्या रिपोर्टिंग
 

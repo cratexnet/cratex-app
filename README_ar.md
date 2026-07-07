@@ -122,6 +122,17 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [منتقي ألوان الصورة واللوحة](https://cratex.app/ar/image-color-picker)
 - [عرض وتنظيف بيانات الصورة الوصفية](https://cratex.app/ar/image-metadata-cleaner)
 - [طمس خصوصية الصور](https://cratex.app/ar/image-redactor)
+- [تحويل الصور إلى PDF](https://cratex.app/ar/image-to-pdf)
+- [تحويل PDF إلى صور](https://cratex.app/ar/pdf-to-images)
+
+#### 🎬 [أدوات الوسائط](https://cratex.app/ar/cat/media)
+
+- [استخراج الصوت من الفيديو](https://cratex.app/ar/extract-audio-from-video)
+- [كتم الفيديو](https://cratex.app/ar/remove-audio-from-video)
+- [قص الصوت](https://cratex.app/ar/trim-audio)
+- [تحويل الصوت إلى WAV](https://cratex.app/ar/audio-to-wav)
+- [استخراج إطار من الفيديو](https://cratex.app/ar/video-frame-extractor)
+- [M4A إلى MP3](https://cratex.app/ar/m4a-to-mp3)
 
 ## 🐛 الإبلاغ عن المشاكل
 

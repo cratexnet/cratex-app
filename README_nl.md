@@ -122,6 +122,17 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Afbeelding Kleurkiezer & Palet](https://cratex.app/nl/image-color-picker)
 - [Afbeelding Metadata Reiniger](https://cratex.app/nl/image-metadata-cleaner)
 - [Afbeeldingen maskeren](https://cratex.app/nl/image-redactor)
+- [Afbeeldingen naar PDF](https://cratex.app/nl/image-to-pdf)
+- [PDF naar afbeeldingen](https://cratex.app/nl/pdf-to-images)
+
+#### 🎬 [Mediatools](https://cratex.app/nl/cat/media)
+
+- [Audio uit video halen](https://cratex.app/nl/extract-audio-from-video)
+- [Video dempen](https://cratex.app/nl/remove-audio-from-video)
+- [Audio knippen](https://cratex.app/nl/trim-audio)
+- [Audio naar WAV](https://cratex.app/nl/audio-to-wav)
+- [Videoframe extraheren](https://cratex.app/nl/video-frame-extractor)
+- [M4A naar MP3](https://cratex.app/nl/m4a-to-mp3)
 
 ## 🐛 Problemen melden
 

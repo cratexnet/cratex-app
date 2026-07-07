@@ -122,6 +122,17 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [画像カラーピッカーとパレット](https://cratex.app/ja/image-color-picker)
 - [画像メタデータ閲覧と削除](https://cratex.app/ja/image-metadata-cleaner)
 - [画像プライバシーマスキング](https://cratex.app/ja/image-redactor)
+- [画像をPDFに変換](https://cratex.app/ja/image-to-pdf)
+- [PDFを画像に変換](https://cratex.app/ja/pdf-to-images)
+
+#### 🎬 [メディアツール](https://cratex.app/ja/cat/media)
+
+- [動画から音声を抽出](https://cratex.app/ja/extract-audio-from-video)
+- [動画をミュート](https://cratex.app/ja/remove-audio-from-video)
+- [音声をトリミング](https://cratex.app/ja/trim-audio)
+- [音声をWAVに変換](https://cratex.app/ja/audio-to-wav)
+- [動画フレーム抽出](https://cratex.app/ja/video-frame-extractor)
+- [M4AをMP3に変換](https://cratex.app/ja/m4a-to-mp3)
 
 ## 🐛 問題報告
 

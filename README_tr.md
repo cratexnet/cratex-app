@@ -122,6 +122,17 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Görsel Renk Seçici ve Palet](https://cratex.app/tr/image-color-picker)
 - [Görsel Meta Verisini Görüntüle ve Temizle](https://cratex.app/tr/image-metadata-cleaner)
 - [Görsel Gizlilik Maskeleme](https://cratex.app/tr/image-redactor)
+- [Görseli PDF yap](https://cratex.app/tr/image-to-pdf)
+- [PDF'yi görsellere dönüştür](https://cratex.app/tr/pdf-to-images)
+
+#### 🎬 [Medya araçları](https://cratex.app/tr/cat/media)
+
+- [Videodan ses çıkar](https://cratex.app/tr/extract-audio-from-video)
+- [Videoyu sessize al](https://cratex.app/tr/remove-audio-from-video)
+- [Ses kırp](https://cratex.app/tr/trim-audio)
+- [Sesi WAV'a dönüştür](https://cratex.app/tr/audio-to-wav)
+- [Videodan kare çıkar](https://cratex.app/tr/video-frame-extractor)
+- [M4A MP3 dönüştürme](https://cratex.app/tr/m4a-to-mp3)
 
 ## 🐛 Sorun bildirme
 

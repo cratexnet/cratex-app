@@ -81,6 +81,35 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [スラッグ生成ツール](https://cratex.app/ja/slug-generator)
 - [Markdown 変換](https://cratex.app/ja/markdown-converter)
 
+#### 🖼️ [画像ツール](https://cratex.app/ja/cat/image)
+
+- [画像形式コンバーター](https://cratex.app/ja/image-converter)
+- [画像テキスト化](https://cratex.app/ja/image-to-text)
+- [画像サイズ変更](https://cratex.app/ja/image-resizer)
+- [画像圧縮](https://cratex.app/ja/image-compressor)
+- [画像トリミング](https://cratex.app/ja/image-cropper)
+- [画像に透かしを追加](https://cratex.app/ja/image-watermarker)
+- [画像結合](https://cratex.app/ja/image-merger)
+- [長尺スクリーンショットつなぎ合わせ](https://cratex.app/ja/long-screenshot-stitcher)
+- [画像カラーピッカーとパレット](https://cratex.app/ja/image-color-picker)
+- [画像メタデータ閲覧と削除](https://cratex.app/ja/image-metadata-cleaner)
+- [画像プライバシーマスキング](https://cratex.app/ja/image-redactor)
+
+#### 📄 [PDFツール](https://cratex.app/ja/cat/pdf)
+
+- [画像をPDFに変換](https://cratex.app/ja/image-to-pdf)
+- [PDFを画像に変換](https://cratex.app/ja/pdf-to-images)
+- [PDFをテキストに変換](https://cratex.app/ja/pdf-to-text)
+
+#### 🎬 [メディアツール](https://cratex.app/ja/cat/media)
+
+- [動画から音声を抽出](https://cratex.app/ja/extract-audio-from-video)
+- [動画をミュート](https://cratex.app/ja/remove-audio-from-video)
+- [音声をトリミング](https://cratex.app/ja/trim-audio)
+- [音声をWAVに変換](https://cratex.app/ja/audio-to-wav)
+- [動画フレーム抽出](https://cratex.app/ja/video-frame-extractor)
+- [M4AをMP3に変換](https://cratex.app/ja/m4a-to-mp3)
+
 #### 🔄 [エンコード・変換](https://cratex.app/ja/cat/encoding)
 
 - [URL エンコード/デコード](https://cratex.app/ja/url-encoder)
@@ -108,31 +137,6 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [カラー変換](https://cratex.app/ja/color-converter)
 - [Lorem ジェネレーター](https://cratex.app/ja/lorem-generator)
 - [Cron 式パーサー](https://cratex.app/ja/cron-parser)
-
-#### 🖼️ [画像ツール](https://cratex.app/ja/cat/image)
-
-- [画像形式コンバーター](https://cratex.app/ja/image-converter)
-- [画像テキスト化](https://cratex.app/ja/image-to-text)
-- [画像サイズ変更](https://cratex.app/ja/image-resizer)
-- [画像圧縮](https://cratex.app/ja/image-compressor)
-- [画像トリミング](https://cratex.app/ja/image-cropper)
-- [画像に透かしを追加](https://cratex.app/ja/image-watermarker)
-- [画像結合](https://cratex.app/ja/image-merger)
-- [長尺スクリーンショットつなぎ合わせ](https://cratex.app/ja/long-screenshot-stitcher)
-- [画像カラーピッカーとパレット](https://cratex.app/ja/image-color-picker)
-- [画像メタデータ閲覧と削除](https://cratex.app/ja/image-metadata-cleaner)
-- [画像プライバシーマスキング](https://cratex.app/ja/image-redactor)
-- [画像をPDFに変換](https://cratex.app/ja/image-to-pdf)
-- [PDFを画像に変換](https://cratex.app/ja/pdf-to-images)
-
-#### 🎬 [メディアツール](https://cratex.app/ja/cat/media)
-
-- [動画から音声を抽出](https://cratex.app/ja/extract-audio-from-video)
-- [動画をミュート](https://cratex.app/ja/remove-audio-from-video)
-- [音声をトリミング](https://cratex.app/ja/trim-audio)
-- [音声をWAVに変換](https://cratex.app/ja/audio-to-wav)
-- [動画フレーム抽出](https://cratex.app/ja/video-frame-extractor)
-- [M4AをMP3に変換](https://cratex.app/ja/m4a-to-mp3)
 
 ## 🐛 問題報告
 

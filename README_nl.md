@@ -81,6 +81,35 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Slug-generator](https://cratex.app/nl/slug-generator)
 - [Markdown-converter](https://cratex.app/nl/markdown-converter)
 
+#### 🖼️ [Afbeeldingstools](https://cratex.app/nl/cat/image)
+
+- [Afbeeldingsformaat converteren](https://cratex.app/nl/image-converter)
+- [Afbeelding naar tekst](https://cratex.app/nl/image-to-text)
+- [Afbeeldingsgrootte aanpassen](https://cratex.app/nl/image-resizer)
+- [Afbeeldingen comprimeren](https://cratex.app/nl/image-compressor)
+- [Bijsnijden van afbeeldingen](https://cratex.app/nl/image-cropper)
+- [Afbeelding Watermerk](https://cratex.app/nl/image-watermarker)
+- [Afbeeldingen samenvoegen](https://cratex.app/nl/image-merger)
+- [Lange screenshots samenvoegen](https://cratex.app/nl/long-screenshot-stitcher)
+- [Afbeelding Kleurkiezer & Palet](https://cratex.app/nl/image-color-picker)
+- [Afbeelding Metadata Reiniger](https://cratex.app/nl/image-metadata-cleaner)
+- [Afbeeldingen maskeren](https://cratex.app/nl/image-redactor)
+
+#### 📄 [PDF-tools](https://cratex.app/nl/cat/pdf)
+
+- [Afbeeldingen naar PDF](https://cratex.app/nl/image-to-pdf)
+- [PDF naar afbeeldingen](https://cratex.app/nl/pdf-to-images)
+- [PDF naar tekst](https://cratex.app/nl/pdf-to-text)
+
+#### 🎬 [Mediatools](https://cratex.app/nl/cat/media)
+
+- [Audio uit video halen](https://cratex.app/nl/extract-audio-from-video)
+- [Video dempen](https://cratex.app/nl/remove-audio-from-video)
+- [Audio knippen](https://cratex.app/nl/trim-audio)
+- [Audio naar WAV](https://cratex.app/nl/audio-to-wav)
+- [Videoframe extraheren](https://cratex.app/nl/video-frame-extractor)
+- [M4A naar MP3](https://cratex.app/nl/m4a-to-mp3)
+
 #### 🔄 [Codering en conversie](https://cratex.app/nl/cat/encoding)
 
 - [URL coderen/decoderen](https://cratex.app/nl/url-encoder)
@@ -108,31 +137,6 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Kleurconverter](https://cratex.app/nl/color-converter)
 - [Lorem-generator](https://cratex.app/nl/lorem-generator)
 - [Cron-parser](https://cratex.app/nl/cron-parser)
-
-#### 🖼️ [Afbeeldingstools](https://cratex.app/nl/cat/image)
-
-- [Afbeeldingsformaat converteren](https://cratex.app/nl/image-converter)
-- [Afbeelding naar tekst](https://cratex.app/nl/image-to-text)
-- [Afbeeldingsgrootte aanpassen](https://cratex.app/nl/image-resizer)
-- [Afbeeldingen comprimeren](https://cratex.app/nl/image-compressor)
-- [Bijsnijden van afbeeldingen](https://cratex.app/nl/image-cropper)
-- [Afbeelding Watermerk](https://cratex.app/nl/image-watermarker)
-- [Afbeeldingen samenvoegen](https://cratex.app/nl/image-merger)
-- [Lange screenshots samenvoegen](https://cratex.app/nl/long-screenshot-stitcher)
-- [Afbeelding Kleurkiezer & Palet](https://cratex.app/nl/image-color-picker)
-- [Afbeelding Metadata Reiniger](https://cratex.app/nl/image-metadata-cleaner)
-- [Afbeeldingen maskeren](https://cratex.app/nl/image-redactor)
-- [Afbeeldingen naar PDF](https://cratex.app/nl/image-to-pdf)
-- [PDF naar afbeeldingen](https://cratex.app/nl/pdf-to-images)
-
-#### 🎬 [Mediatools](https://cratex.app/nl/cat/media)
-
-- [Audio uit video halen](https://cratex.app/nl/extract-audio-from-video)
-- [Video dempen](https://cratex.app/nl/remove-audio-from-video)
-- [Audio knippen](https://cratex.app/nl/trim-audio)
-- [Audio naar WAV](https://cratex.app/nl/audio-to-wav)
-- [Videoframe extraheren](https://cratex.app/nl/video-frame-extractor)
-- [M4A naar MP3](https://cratex.app/nl/m4a-to-mp3)
 
 ## 🐛 Problemen melden
 

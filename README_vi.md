@@ -81,6 +81,35 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Trình tạo slug](https://cratex.app/vi/slug-generator)
 - [Bộ chuyển đổi Markdown](https://cratex.app/vi/markdown-converter)
 
+#### 🖼️ [Công cụ hình ảnh](https://cratex.app/vi/cat/image)
+
+- [Chuyển đổi định dạng ảnh](https://cratex.app/vi/image-converter)
+- [Chuyển ảnh thành văn bản](https://cratex.app/vi/image-to-text)
+- [Thay đổi kích thước ảnh](https://cratex.app/vi/image-resizer)
+- [Nén ảnh](https://cratex.app/vi/image-compressor)
+- [Cắt ảnh](https://cratex.app/vi/image-cropper)
+- [Thêm Watermark Ảnh](https://cratex.app/vi/image-watermarker)
+- [Ghép ảnh](https://cratex.app/vi/image-merger)
+- [Ghép ảnh chụp màn hình dài](https://cratex.app/vi/long-screenshot-stitcher)
+- [Bộ Chọn Màu Ảnh và Bảng Màu](https://cratex.app/vi/image-color-picker)
+- [Xem và xóa metadata ảnh](https://cratex.app/vi/image-metadata-cleaner)
+- [Che thông tin riêng tư trên ảnh](https://cratex.app/vi/image-redactor)
+
+#### 📄 [Công cụ PDF](https://cratex.app/vi/cat/pdf)
+
+- [Ảnh sang PDF](https://cratex.app/vi/image-to-pdf)
+- [PDF sang ảnh](https://cratex.app/vi/pdf-to-images)
+- [PDF sang văn bản](https://cratex.app/vi/pdf-to-text)
+
+#### 🎬 [Công cụ media](https://cratex.app/vi/cat/media)
+
+- [Tách âm thanh từ video](https://cratex.app/vi/extract-audio-from-video)
+- [Tắt tiếng video](https://cratex.app/vi/remove-audio-from-video)
+- [Cắt âm thanh](https://cratex.app/vi/trim-audio)
+- [Audio sang WAV](https://cratex.app/vi/audio-to-wav)
+- [Trích xuất khung hình video](https://cratex.app/vi/video-frame-extractor)
+- [M4A sang MP3](https://cratex.app/vi/m4a-to-mp3)
+
 #### 🔄 [Mã hóa và chuyển đổi](https://cratex.app/vi/cat/encoding)
 
 - [Mã hóa/Giải mã URL](https://cratex.app/vi/url-encoder)
@@ -108,31 +137,6 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Bộ chuyển đổi màu](https://cratex.app/vi/color-converter)
 - [Trình tạo Lorem Ipsum](https://cratex.app/vi/lorem-generator)
 - [Trình phân tích biểu thức Cron](https://cratex.app/vi/cron-parser)
-
-#### 🖼️ [Công cụ hình ảnh](https://cratex.app/vi/cat/image)
-
-- [Chuyển đổi định dạng ảnh](https://cratex.app/vi/image-converter)
-- [Chuyển ảnh thành văn bản](https://cratex.app/vi/image-to-text)
-- [Thay đổi kích thước ảnh](https://cratex.app/vi/image-resizer)
-- [Nén ảnh](https://cratex.app/vi/image-compressor)
-- [Cắt ảnh](https://cratex.app/vi/image-cropper)
-- [Thêm Watermark Ảnh](https://cratex.app/vi/image-watermarker)
-- [Ghép ảnh](https://cratex.app/vi/image-merger)
-- [Ghép ảnh chụp màn hình dài](https://cratex.app/vi/long-screenshot-stitcher)
-- [Bộ Chọn Màu Ảnh và Bảng Màu](https://cratex.app/vi/image-color-picker)
-- [Xem và xóa metadata ảnh](https://cratex.app/vi/image-metadata-cleaner)
-- [Che thông tin riêng tư trên ảnh](https://cratex.app/vi/image-redactor)
-- [Ảnh sang PDF](https://cratex.app/vi/image-to-pdf)
-- [PDF sang ảnh](https://cratex.app/vi/pdf-to-images)
-
-#### 🎬 [Công cụ media](https://cratex.app/vi/cat/media)
-
-- [Tách âm thanh từ video](https://cratex.app/vi/extract-audio-from-video)
-- [Tắt tiếng video](https://cratex.app/vi/remove-audio-from-video)
-- [Cắt âm thanh](https://cratex.app/vi/trim-audio)
-- [Audio sang WAV](https://cratex.app/vi/audio-to-wav)
-- [Trích xuất khung hình video](https://cratex.app/vi/video-frame-extractor)
-- [M4A sang MP3](https://cratex.app/vi/m4a-to-mp3)
 
 ## 🐛 Báo cáo vấn đề
 

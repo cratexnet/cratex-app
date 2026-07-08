@@ -81,6 +81,35 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [Slug 產生器](https://cratex.app/zh-TW/slug-generator)
 - [Markdown 轉換](https://cratex.app/zh-TW/markdown-converter)
 
+#### 🖼️ [影像工具](https://cratex.app/zh-TW/cat/image)
+
+- [圖片格式轉換](https://cratex.app/zh-TW/image-converter)
+- [圖片轉文字](https://cratex.app/zh-TW/image-to-text)
+- [圖片尺寸調整](https://cratex.app/zh-TW/image-resizer)
+- [圖片壓縮](https://cratex.app/zh-TW/image-compressor)
+- [圖片裁切](https://cratex.app/zh-TW/image-cropper)
+- [圖片加浮水印](https://cratex.app/zh-TW/image-watermarker)
+- [圖片拼接](https://cratex.app/zh-TW/image-merger)
+- [長截圖拼接](https://cratex.app/zh-TW/long-screenshot-stitcher)
+- [圖片取色與調色盤](https://cratex.app/zh-TW/image-color-picker)
+- [圖片中繼資料查看與清理](https://cratex.app/zh-TW/image-metadata-cleaner)
+- [圖片隱私打碼](https://cratex.app/zh-TW/image-redactor)
+
+#### 📄 [PDF 工具](https://cratex.app/zh-TW/cat/pdf)
+
+- [圖片轉 PDF](https://cratex.app/zh-TW/image-to-pdf)
+- [PDF 轉圖片](https://cratex.app/zh-TW/pdf-to-images)
+- [PDF 轉文字](https://cratex.app/zh-TW/pdf-to-text)
+
+#### 🎬 [媒體工具](https://cratex.app/zh-TW/cat/media)
+
+- [從影片提取音訊](https://cratex.app/zh-TW/extract-audio-from-video)
+- [移除影片聲音](https://cratex.app/zh-TW/remove-audio-from-video)
+- [剪切音訊](https://cratex.app/zh-TW/trim-audio)
+- [音訊轉 WAV](https://cratex.app/zh-TW/audio-to-wav)
+- [影片幀擷取](https://cratex.app/zh-TW/video-frame-extractor)
+- [M4A 轉 MP3](https://cratex.app/zh-TW/m4a-to-mp3)
+
 #### 🔄 [編碼轉換](https://cratex.app/zh-TW/cat/encoding)
 
 - [URL 編碼/解碼](https://cratex.app/zh-TW/url-encoder)
@@ -108,31 +137,6 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [顏色格式轉換](https://cratex.app/zh-TW/color-converter)
 - [Lorem 產生器](https://cratex.app/zh-TW/lorem-generator)
 - [Cron 表達式解析](https://cratex.app/zh-TW/cron-parser)
-
-#### 🖼️ [影像工具](https://cratex.app/zh-TW/cat/image)
-
-- [圖片格式轉換](https://cratex.app/zh-TW/image-converter)
-- [圖片轉文字](https://cratex.app/zh-TW/image-to-text)
-- [圖片尺寸調整](https://cratex.app/zh-TW/image-resizer)
-- [圖片壓縮](https://cratex.app/zh-TW/image-compressor)
-- [圖片裁切](https://cratex.app/zh-TW/image-cropper)
-- [圖片加浮水印](https://cratex.app/zh-TW/image-watermarker)
-- [圖片拼接](https://cratex.app/zh-TW/image-merger)
-- [長截圖拼接](https://cratex.app/zh-TW/long-screenshot-stitcher)
-- [圖片取色與調色盤](https://cratex.app/zh-TW/image-color-picker)
-- [圖片中繼資料查看與清理](https://cratex.app/zh-TW/image-metadata-cleaner)
-- [圖片隱私打碼](https://cratex.app/zh-TW/image-redactor)
-- [圖片轉 PDF](https://cratex.app/zh-TW/image-to-pdf)
-- [PDF 轉圖片](https://cratex.app/zh-TW/pdf-to-images)
-
-#### 🎬 [媒體工具](https://cratex.app/zh-TW/cat/media)
-
-- [從影片提取音訊](https://cratex.app/zh-TW/extract-audio-from-video)
-- [移除影片聲音](https://cratex.app/zh-TW/remove-audio-from-video)
-- [剪切音訊](https://cratex.app/zh-TW/trim-audio)
-- [音訊轉 WAV](https://cratex.app/zh-TW/audio-to-wav)
-- [影片幀擷取](https://cratex.app/zh-TW/video-frame-extractor)
-- [M4A 轉 MP3](https://cratex.app/zh-TW/m4a-to-mp3)
 
 ## 🐛 問題回饋
 

@@ -81,6 +81,35 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวสร้าง slug](https://cratex.app/th/slug-generator)
 - [ตัวแปลง Markdown](https://cratex.app/th/markdown-converter)
 
+#### 🖼️ [เครื่องมือรูปภาพ](https://cratex.app/th/cat/image)
+
+- [แปลงฟอร์แมตรูปภาพ](https://cratex.app/th/image-converter)
+- [แปลงรูปภาพเป็นข้อความ](https://cratex.app/th/image-to-text)
+- [ปรับขนาดรูปภาพ](https://cratex.app/th/image-resizer)
+- [บีบอัดรูปภาพ](https://cratex.app/th/image-compressor)
+- [ครอบตัดรูปภาพ](https://cratex.app/th/image-cropper)
+- [ลายน้ำรูปภาพ](https://cratex.app/th/image-watermarker)
+- [รวมรูปภาพ](https://cratex.app/th/image-merger)
+- [ต่อภาพหน้าจอแบบยาว](https://cratex.app/th/long-screenshot-stitcher)
+- [ตัวเลือกสีภาพและพาเลท](https://cratex.app/th/image-color-picker)
+- [ดูและล้างข้อมูลเมตาของรูปภาพ](https://cratex.app/th/image-metadata-cleaner)
+- [ปิดบังข้อมูลส่วนตัวบนรูปภาพ](https://cratex.app/th/image-redactor)
+
+#### 📄 [เครื่องมือ PDF](https://cratex.app/th/cat/pdf)
+
+- [แปลงรูปภาพเป็น PDF](https://cratex.app/th/image-to-pdf)
+- [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/pdf-to-images)
+- [PDF เป็นข้อความ](https://cratex.app/th/pdf-to-text)
+
+#### 🎬 [เครื่องมือสื่อ](https://cratex.app/th/cat/media)
+
+- [แยกเสียงจากวิดีโอ](https://cratex.app/th/extract-audio-from-video)
+- [ปิดเสียงวิดีโอ](https://cratex.app/th/remove-audio-from-video)
+- [ตัดเสียง](https://cratex.app/th/trim-audio)
+- [แปลงเสียงเป็น WAV](https://cratex.app/th/audio-to-wav)
+- [ดึงเฟรมวิดีโอ](https://cratex.app/th/video-frame-extractor)
+- [M4A เป็น MP3](https://cratex.app/th/m4a-to-mp3)
+
 #### 🔄 [การเข้ารหัสและการแปลง](https://cratex.app/th/cat/encoding)
 
 - [เข้ารหัส/ถอดรหัส URL](https://cratex.app/th/url-encoder)
@@ -108,31 +137,6 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวแปลงสี](https://cratex.app/th/color-converter)
 - [เครื่องสร้างข้อความ Lorem](https://cratex.app/th/lorem-generator)
 - [ตัววิเคราะห์นิพจน์ Cron](https://cratex.app/th/cron-parser)
-
-#### 🖼️ [เครื่องมือรูปภาพ](https://cratex.app/th/cat/image)
-
-- [แปลงฟอร์แมตรูปภาพ](https://cratex.app/th/image-converter)
-- [แปลงรูปภาพเป็นข้อความ](https://cratex.app/th/image-to-text)
-- [ปรับขนาดรูปภาพ](https://cratex.app/th/image-resizer)
-- [บีบอัดรูปภาพ](https://cratex.app/th/image-compressor)
-- [ครอบตัดรูปภาพ](https://cratex.app/th/image-cropper)
-- [ลายน้ำรูปภาพ](https://cratex.app/th/image-watermarker)
-- [รวมรูปภาพ](https://cratex.app/th/image-merger)
-- [ต่อภาพหน้าจอแบบยาว](https://cratex.app/th/long-screenshot-stitcher)
-- [ตัวเลือกสีภาพและพาเลท](https://cratex.app/th/image-color-picker)
-- [ดูและล้างข้อมูลเมตาของรูปภาพ](https://cratex.app/th/image-metadata-cleaner)
-- [ปิดบังข้อมูลส่วนตัวบนรูปภาพ](https://cratex.app/th/image-redactor)
-- [แปลงรูปภาพเป็น PDF](https://cratex.app/th/image-to-pdf)
-- [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/pdf-to-images)
-
-#### 🎬 [เครื่องมือสื่อ](https://cratex.app/th/cat/media)
-
-- [แยกเสียงจากวิดีโอ](https://cratex.app/th/extract-audio-from-video)
-- [ปิดเสียงวิดีโอ](https://cratex.app/th/remove-audio-from-video)
-- [ตัดเสียง](https://cratex.app/th/trim-audio)
-- [แปลงเสียงเป็น WAV](https://cratex.app/th/audio-to-wav)
-- [ดึงเฟรมวิดีโอ](https://cratex.app/th/video-frame-extractor)
-- [M4A เป็น MP3](https://cratex.app/th/m4a-to-mp3)
 
 ## 🐛 การรายงานปัญหา
 

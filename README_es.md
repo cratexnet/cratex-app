@@ -81,6 +81,35 @@ El sitio web aún está en rápido desarrollo. Nuevas herramientas se lanzarán 
 - [Generador de slugs](https://cratex.app/es/slug-generator)
 - [Convertidor de Markdown](https://cratex.app/es/markdown-converter)
 
+#### 🖼️ [Herramientas de imagen](https://cratex.app/es/cat/image)
+
+- [Convertidor de formatos de imagen](https://cratex.app/es/image-converter)
+- [Imagen a texto](https://cratex.app/es/image-to-text)
+- [Redimensionado de imágenes](https://cratex.app/es/image-resizer)
+- [Compresión de imágenes](https://cratex.app/es/image-compressor)
+- [Recorte de imágenes](https://cratex.app/es/image-cropper)
+- [Marca de agua para imágenes](https://cratex.app/es/image-watermarker)
+- [Unir imágenes](https://cratex.app/es/image-merger)
+- [Unir capturas largas](https://cratex.app/es/long-screenshot-stitcher)
+- [Selector de color de imagen y paleta](https://cratex.app/es/image-color-picker)
+- [Consulta y limpieza de metadatos de imagen](https://cratex.app/es/image-metadata-cleaner)
+- [Censurar imágenes](https://cratex.app/es/image-redactor)
+
+#### 📄 [Herramientas de PDF](https://cratex.app/es/cat/pdf)
+
+- [Imagen a PDF](https://cratex.app/es/image-to-pdf)
+- [PDF a imágenes](https://cratex.app/es/pdf-to-images)
+- [PDF a texto](https://cratex.app/es/pdf-to-text)
+
+#### 🎬 [Herramientas multimedia](https://cratex.app/es/cat/media)
+
+- [Extraer audio de video](https://cratex.app/es/extract-audio-from-video)
+- [Silenciar video](https://cratex.app/es/remove-audio-from-video)
+- [Recortar audio](https://cratex.app/es/trim-audio)
+- [Audio a WAV](https://cratex.app/es/audio-to-wav)
+- [Extraer fotograma de video](https://cratex.app/es/video-frame-extractor)
+- [M4A a MP3](https://cratex.app/es/m4a-to-mp3)
+
 #### 🔄 [Codificación y conversión](https://cratex.app/es/cat/encoding)
 
 - [Codificación/decodificación de URL](https://cratex.app/es/url-encoder)
@@ -108,31 +137,6 @@ El sitio web aún está en rápido desarrollo. Nuevas herramientas se lanzarán 
 - [Convertidor de colores](https://cratex.app/es/color-converter)
 - [Generador de Lorem Ipsum](https://cratex.app/es/lorem-generator)
 - [Analizador de expresiones Cron](https://cratex.app/es/cron-parser)
-
-#### 🖼️ [Herramientas de imagen](https://cratex.app/es/cat/image)
-
-- [Convertidor de formatos de imagen](https://cratex.app/es/image-converter)
-- [Imagen a texto](https://cratex.app/es/image-to-text)
-- [Redimensionado de imágenes](https://cratex.app/es/image-resizer)
-- [Compresión de imágenes](https://cratex.app/es/image-compressor)
-- [Recorte de imágenes](https://cratex.app/es/image-cropper)
-- [Marca de agua para imágenes](https://cratex.app/es/image-watermarker)
-- [Unir imágenes](https://cratex.app/es/image-merger)
-- [Unir capturas largas](https://cratex.app/es/long-screenshot-stitcher)
-- [Selector de color de imagen y paleta](https://cratex.app/es/image-color-picker)
-- [Consulta y limpieza de metadatos de imagen](https://cratex.app/es/image-metadata-cleaner)
-- [Censurar imágenes](https://cratex.app/es/image-redactor)
-- [Imagen a PDF](https://cratex.app/es/image-to-pdf)
-- [PDF a imágenes](https://cratex.app/es/pdf-to-images)
-
-#### 🎬 [Herramientas multimedia](https://cratex.app/es/cat/media)
-
-- [Extraer audio de video](https://cratex.app/es/extract-audio-from-video)
-- [Silenciar video](https://cratex.app/es/remove-audio-from-video)
-- [Recortar audio](https://cratex.app/es/trim-audio)
-- [Audio a WAV](https://cratex.app/es/audio-to-wav)
-- [Extraer fotograma de video](https://cratex.app/es/video-frame-extractor)
-- [M4A a MP3](https://cratex.app/es/m4a-to-mp3)
 
 ## 🐛 Reporte de problemas
 

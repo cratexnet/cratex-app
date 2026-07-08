@@ -81,6 +81,35 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Генератор slug](https://cratex.app/ru/slug-generator)
 - [Конвертер Markdown](https://cratex.app/ru/markdown-converter)
 
+#### 🖼️ [Инструменты изображений](https://cratex.app/ru/cat/image)
+
+- [конвертер форматов изображений](https://cratex.app/ru/image-converter)
+- [Текст с изображения](https://cratex.app/ru/image-to-text)
+- [изменение размера изображений](https://cratex.app/ru/image-resizer)
+- [сжатие изображений](https://cratex.app/ru/image-compressor)
+- [Инструмент обрезки изображений](https://cratex.app/ru/image-cropper)
+- [Водяной знак](https://cratex.app/ru/image-watermarker)
+- [Склейка изображений](https://cratex.app/ru/image-merger)
+- [Склейка длинных скриншотов](https://cratex.app/ru/long-screenshot-stitcher)
+- [Палитра и пипетка](https://cratex.app/ru/image-color-picker)
+- [Просмотр и очистка метаданных изображений](https://cratex.app/ru/image-metadata-cleaner)
+- [Скрытие приватных данных на изображениях](https://cratex.app/ru/image-redactor)
+
+#### 📄 [Инструменты PDF](https://cratex.app/ru/cat/pdf)
+
+- [Изображения в PDF](https://cratex.app/ru/image-to-pdf)
+- [PDF в изображения](https://cratex.app/ru/pdf-to-images)
+- [PDF в текст](https://cratex.app/ru/pdf-to-text)
+
+#### 🎬 [Медиа-инструменты](https://cratex.app/ru/cat/media)
+
+- [Извлечь аудио из видео](https://cratex.app/ru/extract-audio-from-video)
+- [Отключить звук видео](https://cratex.app/ru/remove-audio-from-video)
+- [Обрезать аудио](https://cratex.app/ru/trim-audio)
+- [Аудио в WAV](https://cratex.app/ru/audio-to-wav)
+- [Извлечь кадр из видео](https://cratex.app/ru/video-frame-extractor)
+- [M4A в MP3](https://cratex.app/ru/m4a-to-mp3)
+
 #### 🔄 [Кодирование и преобразование](https://cratex.app/ru/cat/encoding)
 
 - [Кодирование/декодирование URL](https://cratex.app/ru/url-encoder)
@@ -108,31 +137,6 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Конвертер цветовых форматов](https://cratex.app/ru/color-converter)
 - [Генератор Lorem](https://cratex.app/ru/lorem-generator)
 - [Парсер выражений Cron](https://cratex.app/ru/cron-parser)
-
-#### 🖼️ [Инструменты изображений](https://cratex.app/ru/cat/image)
-
-- [конвертер форматов изображений](https://cratex.app/ru/image-converter)
-- [Текст с изображения](https://cratex.app/ru/image-to-text)
-- [изменение размера изображений](https://cratex.app/ru/image-resizer)
-- [сжатие изображений](https://cratex.app/ru/image-compressor)
-- [Инструмент обрезки изображений](https://cratex.app/ru/image-cropper)
-- [Водяной знак](https://cratex.app/ru/image-watermarker)
-- [Склейка изображений](https://cratex.app/ru/image-merger)
-- [Склейка длинных скриншотов](https://cratex.app/ru/long-screenshot-stitcher)
-- [Палитра и пипетка](https://cratex.app/ru/image-color-picker)
-- [Просмотр и очистка метаданных изображений](https://cratex.app/ru/image-metadata-cleaner)
-- [Скрытие приватных данных на изображениях](https://cratex.app/ru/image-redactor)
-- [Изображения в PDF](https://cratex.app/ru/image-to-pdf)
-- [PDF в изображения](https://cratex.app/ru/pdf-to-images)
-
-#### 🎬 [Медиа-инструменты](https://cratex.app/ru/cat/media)
-
-- [Извлечь аудио из видео](https://cratex.app/ru/extract-audio-from-video)
-- [Отключить звук видео](https://cratex.app/ru/remove-audio-from-video)
-- [Обрезать аудио](https://cratex.app/ru/trim-audio)
-- [Аудио в WAV](https://cratex.app/ru/audio-to-wav)
-- [Извлечь кадр из видео](https://cratex.app/ru/video-frame-extractor)
-- [M4A в MP3](https://cratex.app/ru/m4a-to-mp3)
 
 ## 🐛 Сообщить о проблеме
 

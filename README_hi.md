@@ -81,6 +81,35 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [Slug जनरेटर](https://cratex.app/hi/slug-generator)
 - [Markdown कन्वर्टर](https://cratex.app/hi/markdown-converter)
 
+#### 🖼️ [इमेज टूल्स](https://cratex.app/hi/cat/image)
+
+- [इमेज फ़ॉर्मैट कन्वर्टर](https://cratex.app/hi/image-converter)
+- [इमेज से टेक्स्ट](https://cratex.app/hi/image-to-text)
+- [इमेज साइज़ एडजस्टर](https://cratex.app/hi/image-resizer)
+- [इमेज कंप्रेसर](https://cratex.app/hi/image-compressor)
+- [इमेज क्रॉपर टूल](https://cratex.app/hi/image-cropper)
+- [इमेज वॉटरमार्क](https://cratex.app/hi/image-watermarker)
+- [इमेज मर्जर टूल](https://cratex.app/hi/image-merger)
+- [लंबे स्क्रीनशॉट की स्टिचिंग](https://cratex.app/hi/long-screenshot-stitcher)
+- [इमेज कलर पिकर और पैलेट](https://cratex.app/hi/image-color-picker)
+- [इमेज मेटाडाटा व्यू व क्लीनर](https://cratex.app/hi/image-metadata-cleaner)
+- [इमेज प्राइवेसी रेडैक्टर](https://cratex.app/hi/image-redactor)
+
+#### 📄 [PDF टूल्स](https://cratex.app/hi/cat/pdf)
+
+- [इमेज से PDF](https://cratex.app/hi/image-to-pdf)
+- [PDF से इमेज](https://cratex.app/hi/pdf-to-images)
+- [PDF से टेक्स्ट](https://cratex.app/hi/pdf-to-text)
+
+#### 🎬 [मीडिया टूल](https://cratex.app/hi/cat/media)
+
+- [वीडियो से ऑडियो निकालें](https://cratex.app/hi/extract-audio-from-video)
+- [वीडियो म्यूट करें](https://cratex.app/hi/remove-audio-from-video)
+- [ऑडियो काटें](https://cratex.app/hi/trim-audio)
+- [ऑडियो को WAV में बदलें](https://cratex.app/hi/audio-to-wav)
+- [वीडियो फ्रेम निकालें](https://cratex.app/hi/video-frame-extractor)
+- [M4A से MP3](https://cratex.app/hi/m4a-to-mp3)
+
 #### 🔄 [एनकोडिंग और कन्वर्ज़न](https://cratex.app/hi/cat/encoding)
 
 - [URL एनकोड/डीकोड](https://cratex.app/hi/url-encoder)
@@ -108,31 +137,6 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [रंग प्रारूप परिवर्तक](https://cratex.app/hi/color-converter)
 - [Lorem जनरेटर](https://cratex.app/hi/lorem-generator)
 - [Cron एक्सप्रेशन पार्सर](https://cratex.app/hi/cron-parser)
-
-#### 🖼️ [इमेज टूल्स](https://cratex.app/hi/cat/image)
-
-- [इमेज फ़ॉर्मैट कन्वर्टर](https://cratex.app/hi/image-converter)
-- [इमेज से टेक्स्ट](https://cratex.app/hi/image-to-text)
-- [इमेज साइज़ एडजस्टर](https://cratex.app/hi/image-resizer)
-- [इमेज कंप्रेसर](https://cratex.app/hi/image-compressor)
-- [इमेज क्रॉपर टूल](https://cratex.app/hi/image-cropper)
-- [इमेज वॉटरमार्क](https://cratex.app/hi/image-watermarker)
-- [इमेज मर्जर टूल](https://cratex.app/hi/image-merger)
-- [लंबे स्क्रीनशॉट की स्टिचिंग](https://cratex.app/hi/long-screenshot-stitcher)
-- [इमेज कलर पिकर और पैलेट](https://cratex.app/hi/image-color-picker)
-- [इमेज मेटाडाटा व्यू व क्लीनर](https://cratex.app/hi/image-metadata-cleaner)
-- [इमेज प्राइवेसी रेडैक्टर](https://cratex.app/hi/image-redactor)
-- [इमेज से PDF](https://cratex.app/hi/image-to-pdf)
-- [PDF से इमेज](https://cratex.app/hi/pdf-to-images)
-
-#### 🎬 [मीडिया टूल](https://cratex.app/hi/cat/media)
-
-- [वीडियो से ऑडियो निकालें](https://cratex.app/hi/extract-audio-from-video)
-- [वीडियो म्यूट करें](https://cratex.app/hi/remove-audio-from-video)
-- [ऑडियो काटें](https://cratex.app/hi/trim-audio)
-- [ऑडियो को WAV में बदलें](https://cratex.app/hi/audio-to-wav)
-- [वीडियो फ्रेम निकालें](https://cratex.app/hi/video-frame-extractor)
-- [M4A से MP3](https://cratex.app/hi/m4a-to-mp3)
 
 ## 🐛 समस्या रिपोर्टिंग
 

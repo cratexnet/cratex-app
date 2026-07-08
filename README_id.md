@@ -81,6 +81,35 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Generator Slug](https://cratex.app/id/slug-generator)
 - [Konverter Markdown](https://cratex.app/id/markdown-converter)
 
+#### 🖼️ [Alat gambar](https://cratex.app/id/cat/image)
+
+- [Konversi Format Gambar](https://cratex.app/id/image-converter)
+- [Gambar ke Teks](https://cratex.app/id/image-to-text)
+- [Pengubah Ukuran Gambar](https://cratex.app/id/image-resizer)
+- [Kompresi Gambar](https://cratex.app/id/image-compressor)
+- [Pemotong Gambar Cepat](https://cratex.app/id/image-cropper)
+- [Watermark Gambar](https://cratex.app/id/image-watermarker)
+- [Penggabung Gambar Cepat](https://cratex.app/id/image-merger)
+- [Penyambung Screenshot Panjang Lokal](https://cratex.app/id/long-screenshot-stitcher)
+- [Pemilih Warna Gambar & Palet](https://cratex.app/id/image-color-picker)
+- [Pembersih Metadata Gambar Lokal](https://cratex.app/id/image-metadata-cleaner)
+- [Penyamaran Privasi Gambar](https://cratex.app/id/image-redactor)
+
+#### 📄 [Alat PDF](https://cratex.app/id/cat/pdf)
+
+- [Gambar ke PDF](https://cratex.app/id/image-to-pdf)
+- [PDF ke gambar](https://cratex.app/id/pdf-to-images)
+- [PDF ke teks](https://cratex.app/id/pdf-to-text)
+
+#### 🎬 [Alat Media](https://cratex.app/id/cat/media)
+
+- [Ekstrak Audio dari Video](https://cratex.app/id/extract-audio-from-video)
+- [Bisukan Video](https://cratex.app/id/remove-audio-from-video)
+- [Pangkas audio](https://cratex.app/id/trim-audio)
+- [Audio ke WAV](https://cratex.app/id/audio-to-wav)
+- [Ekstrak Frame Video](https://cratex.app/id/video-frame-extractor)
+- [M4A ke MP3](https://cratex.app/id/m4a-to-mp3)
+
 #### 🔄 [Enkode dan konversi](https://cratex.app/id/cat/encoding)
 
 - [Enkode/Dekode URL](https://cratex.app/id/url-encoder)
@@ -108,31 +137,6 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Konverter Warna](https://cratex.app/id/color-converter)
 - [Generator Lorem Ipsum](https://cratex.app/id/lorem-generator)
 - [Parser Cron](https://cratex.app/id/cron-parser)
-
-#### 🖼️ [Alat gambar](https://cratex.app/id/cat/image)
-
-- [Konversi Format Gambar](https://cratex.app/id/image-converter)
-- [Gambar ke Teks](https://cratex.app/id/image-to-text)
-- [Pengubah Ukuran Gambar](https://cratex.app/id/image-resizer)
-- [Kompresi Gambar](https://cratex.app/id/image-compressor)
-- [Pemotong Gambar Cepat](https://cratex.app/id/image-cropper)
-- [Watermark Gambar](https://cratex.app/id/image-watermarker)
-- [Penggabung Gambar Cepat](https://cratex.app/id/image-merger)
-- [Penyambung Screenshot Panjang Lokal](https://cratex.app/id/long-screenshot-stitcher)
-- [Pemilih Warna Gambar & Palet](https://cratex.app/id/image-color-picker)
-- [Pembersih Metadata Gambar Lokal](https://cratex.app/id/image-metadata-cleaner)
-- [Penyamaran Privasi Gambar](https://cratex.app/id/image-redactor)
-- [Gambar ke PDF](https://cratex.app/id/image-to-pdf)
-- [PDF ke gambar](https://cratex.app/id/pdf-to-images)
-
-#### 🎬 [Alat Media](https://cratex.app/id/cat/media)
-
-- [Ekstrak Audio dari Video](https://cratex.app/id/extract-audio-from-video)
-- [Bisukan Video](https://cratex.app/id/remove-audio-from-video)
-- [Pangkas audio](https://cratex.app/id/trim-audio)
-- [Audio ke WAV](https://cratex.app/id/audio-to-wav)
-- [Ekstrak Frame Video](https://cratex.app/id/video-frame-extractor)
-- [M4A ke MP3](https://cratex.app/id/m4a-to-mp3)
 
 ## 🐛 Pelaporan masalah
 

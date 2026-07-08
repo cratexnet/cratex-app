@@ -81,6 +81,35 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [مولد Slug](https://cratex.app/ar/slug-generator)
 - [محول Markdown](https://cratex.app/ar/markdown-converter)
 
+#### 🖼️ [أدوات الصورة](https://cratex.app/ar/cat/image)
+
+- [تحويل صيغ الصور](https://cratex.app/ar/image-converter)
+- [استخراج النص من الصور](https://cratex.app/ar/image-to-text)
+- [تغيير أبعاد الصور](https://cratex.app/ar/image-resizer)
+- [ضغط الصور](https://cratex.app/ar/image-compressor)
+- [قص الصور](https://cratex.app/ar/image-cropper)
+- [علامة مائية للصور](https://cratex.app/ar/image-watermarker)
+- [دمج الصور](https://cratex.app/ar/image-merger)
+- [وصل لقطات الشاشة الطويلة](https://cratex.app/ar/long-screenshot-stitcher)
+- [منتقي ألوان الصورة واللوحة](https://cratex.app/ar/image-color-picker)
+- [عرض وتنظيف بيانات الصورة الوصفية](https://cratex.app/ar/image-metadata-cleaner)
+- [طمس خصوصية الصور](https://cratex.app/ar/image-redactor)
+
+#### 📄 [أدوات PDF](https://cratex.app/ar/cat/pdf)
+
+- [تحويل الصور إلى PDF](https://cratex.app/ar/image-to-pdf)
+- [تحويل PDF إلى صور](https://cratex.app/ar/pdf-to-images)
+- [PDF إلى نص](https://cratex.app/ar/pdf-to-text)
+
+#### 🎬 [أدوات الوسائط](https://cratex.app/ar/cat/media)
+
+- [استخراج الصوت من الفيديو](https://cratex.app/ar/extract-audio-from-video)
+- [كتم الفيديو](https://cratex.app/ar/remove-audio-from-video)
+- [قص الصوت](https://cratex.app/ar/trim-audio)
+- [تحويل الصوت إلى WAV](https://cratex.app/ar/audio-to-wav)
+- [استخراج إطار من الفيديو](https://cratex.app/ar/video-frame-extractor)
+- [M4A إلى MP3](https://cratex.app/ar/m4a-to-mp3)
+
 #### 🔄 [الترميز والتحويل](https://cratex.app/ar/cat/encoding)
 
 - [ترميز/فك ترميز عناوين URL](https://cratex.app/ar/url-encoder)
@@ -108,31 +137,6 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [محول صيغ الألوان](https://cratex.app/ar/color-converter)
 - [مولد لوريم إيبسوم](https://cratex.app/ar/lorem-generator)
 - [محلل تعبيرات Cron](https://cratex.app/ar/cron-parser)
-
-#### 🖼️ [أدوات الصورة](https://cratex.app/ar/cat/image)
-
-- [تحويل صيغ الصور](https://cratex.app/ar/image-converter)
-- [استخراج النص من الصور](https://cratex.app/ar/image-to-text)
-- [تغيير أبعاد الصور](https://cratex.app/ar/image-resizer)
-- [ضغط الصور](https://cratex.app/ar/image-compressor)
-- [قص الصور](https://cratex.app/ar/image-cropper)
-- [علامة مائية للصور](https://cratex.app/ar/image-watermarker)
-- [دمج الصور](https://cratex.app/ar/image-merger)
-- [وصل لقطات الشاشة الطويلة](https://cratex.app/ar/long-screenshot-stitcher)
-- [منتقي ألوان الصورة واللوحة](https://cratex.app/ar/image-color-picker)
-- [عرض وتنظيف بيانات الصورة الوصفية](https://cratex.app/ar/image-metadata-cleaner)
-- [طمس خصوصية الصور](https://cratex.app/ar/image-redactor)
-- [تحويل الصور إلى PDF](https://cratex.app/ar/image-to-pdf)
-- [تحويل PDF إلى صور](https://cratex.app/ar/pdf-to-images)
-
-#### 🎬 [أدوات الوسائط](https://cratex.app/ar/cat/media)
-
-- [استخراج الصوت من الفيديو](https://cratex.app/ar/extract-audio-from-video)
-- [كتم الفيديو](https://cratex.app/ar/remove-audio-from-video)
-- [قص الصوت](https://cratex.app/ar/trim-audio)
-- [تحويل الصوت إلى WAV](https://cratex.app/ar/audio-to-wav)
-- [استخراج إطار من الفيديو](https://cratex.app/ar/video-frame-extractor)
-- [M4A إلى MP3](https://cratex.app/ar/m4a-to-mp3)
 
 ## 🐛 الإبلاغ عن المشاكل
 

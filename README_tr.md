@@ -81,6 +81,35 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Slug Oluşturucu](https://cratex.app/tr/slug-generator)
 - [Markdown Dönüştürücü](https://cratex.app/tr/markdown-converter)
 
+#### 🖼️ [Görsel araçlar](https://cratex.app/tr/cat/image)
+
+- [Görsel Format Dönüştürme](https://cratex.app/tr/image-converter)
+- [Görüntüden Metne](https://cratex.app/tr/image-to-text)
+- [Görsel Boyutlandırma](https://cratex.app/tr/image-resizer)
+- [Görsel Sıkıştırma](https://cratex.app/tr/image-compressor)
+- [Hızlı Görsel Kırpma](https://cratex.app/tr/image-cropper)
+- [Görsel Filigran](https://cratex.app/tr/image-watermarker)
+- [Görsel Birleştirme](https://cratex.app/tr/image-merger)
+- [Uzun Ekran Görüntülerini Uç Uca Ekle](https://cratex.app/tr/long-screenshot-stitcher)
+- [Görsel Renk Seçici ve Palet](https://cratex.app/tr/image-color-picker)
+- [Görsel Meta Verisini Görüntüle ve Temizle](https://cratex.app/tr/image-metadata-cleaner)
+- [Görsel Gizlilik Maskeleme](https://cratex.app/tr/image-redactor)
+
+#### 📄 [PDF araçları](https://cratex.app/tr/cat/pdf)
+
+- [Görseli PDF yap](https://cratex.app/tr/image-to-pdf)
+- [PDF'yi görsellere dönüştür](https://cratex.app/tr/pdf-to-images)
+- [PDF metne dönüştür](https://cratex.app/tr/pdf-to-text)
+
+#### 🎬 [Medya araçları](https://cratex.app/tr/cat/media)
+
+- [Videodan ses çıkar](https://cratex.app/tr/extract-audio-from-video)
+- [Videoyu sessize al](https://cratex.app/tr/remove-audio-from-video)
+- [Ses kırp](https://cratex.app/tr/trim-audio)
+- [Sesi WAV'a dönüştür](https://cratex.app/tr/audio-to-wav)
+- [Videodan kare çıkar](https://cratex.app/tr/video-frame-extractor)
+- [M4A MP3 dönüştürme](https://cratex.app/tr/m4a-to-mp3)
+
 #### 🔄 [Kodlama ve dönüştürme](https://cratex.app/tr/cat/encoding)
 
 - [URL Kodla/Çöz](https://cratex.app/tr/url-encoder)
@@ -108,31 +137,6 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Renk Dönüştürücü](https://cratex.app/tr/color-converter)
 - [Lorem Metin Üreteci](https://cratex.app/tr/lorem-generator)
 - [Cron İfadesi Ayrıştırıcı](https://cratex.app/tr/cron-parser)
-
-#### 🖼️ [Görsel araçlar](https://cratex.app/tr/cat/image)
-
-- [Görsel Format Dönüştürme](https://cratex.app/tr/image-converter)
-- [Görüntüden Metne](https://cratex.app/tr/image-to-text)
-- [Görsel Boyutlandırma](https://cratex.app/tr/image-resizer)
-- [Görsel Sıkıştırma](https://cratex.app/tr/image-compressor)
-- [Hızlı Görsel Kırpma](https://cratex.app/tr/image-cropper)
-- [Görsel Filigran](https://cratex.app/tr/image-watermarker)
-- [Görsel Birleştirme](https://cratex.app/tr/image-merger)
-- [Uzun Ekran Görüntülerini Uç Uca Ekle](https://cratex.app/tr/long-screenshot-stitcher)
-- [Görsel Renk Seçici ve Palet](https://cratex.app/tr/image-color-picker)
-- [Görsel Meta Verisini Görüntüle ve Temizle](https://cratex.app/tr/image-metadata-cleaner)
-- [Görsel Gizlilik Maskeleme](https://cratex.app/tr/image-redactor)
-- [Görseli PDF yap](https://cratex.app/tr/image-to-pdf)
-- [PDF'yi görsellere dönüştür](https://cratex.app/tr/pdf-to-images)
-
-#### 🎬 [Medya araçları](https://cratex.app/tr/cat/media)
-
-- [Videodan ses çıkar](https://cratex.app/tr/extract-audio-from-video)
-- [Videoyu sessize al](https://cratex.app/tr/remove-audio-from-video)
-- [Ses kırp](https://cratex.app/tr/trim-audio)
-- [Sesi WAV'a dönüştür](https://cratex.app/tr/audio-to-wav)
-- [Videodan kare çıkar](https://cratex.app/tr/video-frame-extractor)
-- [M4A MP3 dönüştürme](https://cratex.app/tr/m4a-to-mp3)
 
 ## 🐛 Sorun bildirme
 

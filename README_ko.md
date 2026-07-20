@@ -62,7 +62,6 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [시간 계산기](https://cratex.app/ko/time-duration-calculator)
 - [타임스탬프 변환기](https://cratex.app/ko/timestamp-converter)
 - [세계 시계](https://cratex.app/ko/world-clock)
-- [월드컵 킥오프 시간 변환기](https://cratex.app/ko/world-cup-kickoff-time-converter)
 - [난수 생성기](https://cratex.app/ko/random-number-generator)
 - [무작위 추첨](https://cratex.app/ko/random-picker)
 - [주사위 굴리기](https://cratex.app/ko/dice-roller)

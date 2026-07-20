@@ -62,7 +62,6 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [เครื่องคำนวณระยะเวลา](https://cratex.app/th/time-duration-calculator)
 - [ตัวแปลงตราประทับเวลา](https://cratex.app/th/timestamp-converter)
 - [นาฬิกาโลก](https://cratex.app/th/world-clock)
-- [ตัวแปลงเวลาเริ่มแข่งฟุตบอลโลก](https://cratex.app/th/world-cup-kickoff-time-converter)
 - [เครื่องสร้างตัวเลขสุ่ม](https://cratex.app/th/random-number-generator)
 - [สุ่มจับรายชื่อ](https://cratex.app/th/random-picker)
 - [ทอยลูกเต๋า](https://cratex.app/th/dice-roller)

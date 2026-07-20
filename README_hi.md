@@ -62,7 +62,6 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [समय अवधि कैलकुलेटर](https://cratex.app/hi/time-duration-calculator)
 - [टाइमस्टैम्प परिवर्तक](https://cratex.app/hi/timestamp-converter)
 - [वर्ल्ड क्लॉक](https://cratex.app/hi/world-clock)
-- [वर्ल्ड कप किकऑफ समय कन्वर्टर](https://cratex.app/hi/world-cup-kickoff-time-converter)
 - [रैंडम नंबर जनरेटर](https://cratex.app/hi/random-number-generator)
 - [यादृच्छिक चयन](https://cratex.app/hi/random-picker)
 - [पासा फेंकें](https://cratex.app/hi/dice-roller)

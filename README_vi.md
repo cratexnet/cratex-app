@@ -62,7 +62,6 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Máy tính thời lượng](https://cratex.app/vi/time-duration-calculator)
 - [Bộ chuyển đổi dấu thời gian](https://cratex.app/vi/timestamp-converter)
 - [Đồng hồ thế giới](https://cratex.app/vi/world-clock)
-- [Chuyển đổi giờ khai cuộc World Cup](https://cratex.app/vi/world-cup-kickoff-time-converter)
 - [Trình tạo số ngẫu nhiên](https://cratex.app/vi/random-number-generator)
 - [Bốc thăm ngẫu nhiên](https://cratex.app/vi/random-picker)
 - [Tung xúc xắc](https://cratex.app/vi/dice-roller)

@@ -62,7 +62,6 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Kalkulator durasi waktu](https://cratex.app/id/time-duration-calculator)
 - [Konverter Timestamp](https://cratex.app/id/timestamp-converter)
 - [Jam Dunia](https://cratex.app/id/world-clock)
-- [Konverter Waktu Kickoff Piala Dunia](https://cratex.app/id/world-cup-kickoff-time-converter)
 - [Generator angka acak](https://cratex.app/id/random-number-generator)
 - [Undian acak](https://cratex.app/id/random-picker)
 - [Lempar dadu](https://cratex.app/id/dice-roller)

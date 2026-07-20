@@ -62,7 +62,6 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [حاسبة مدة الوقت](https://cratex.app/ar/time-duration-calculator)
 - [محول الطابع الزمني](https://cratex.app/ar/timestamp-converter)
 - [الساعة العالمية](https://cratex.app/ar/world-clock)
-- [محول مواعيد انطلاق مباريات كأس العالم](https://cratex.app/ar/world-cup-kickoff-time-converter)
 - [مولد الأرقام العشوائية](https://cratex.app/ar/random-number-generator)
 - [سحب عشوائي](https://cratex.app/ar/random-picker)
 - [رمي النرد](https://cratex.app/ar/dice-roller)

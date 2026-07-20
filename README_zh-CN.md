@@ -62,7 +62,6 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [时间间隔计算器](https://cratex.app/zh-CN/time-duration-calculator)
 - [时间戳转换](https://cratex.app/zh-CN/timestamp-converter)
 - [世界时钟](https://cratex.app/zh-CN/world-clock)
-- [世界杯开球时间转换](https://cratex.app/zh-CN/world-cup-kickoff-time-converter)
 - [随机数生成器](https://cratex.app/zh-CN/random-number-generator)
 - [随机抽签](https://cratex.app/zh-CN/random-picker)
 - [掷骰子](https://cratex.app/zh-CN/dice-roller)

@@ -62,7 +62,6 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Калькулятор длительности](https://cratex.app/ru/time-duration-calculator)
 - [Конвертер временных меток](https://cratex.app/ru/timestamp-converter)
 - [Мировые часы](https://cratex.app/ru/world-clock)
-- [Конвертер времени начала матчей ЧМ](https://cratex.app/ru/world-cup-kickoff-time-converter)
 - [Генератор случайных чисел](https://cratex.app/ru/random-number-generator)
 - [Случайный выбор](https://cratex.app/ru/random-picker)
 - [Бросить кости](https://cratex.app/ru/dice-roller)

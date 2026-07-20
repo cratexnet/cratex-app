@@ -62,7 +62,6 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Tijdsduurcalculator](https://cratex.app/nl/time-duration-calculator)
 - [Tijdstempelconverter](https://cratex.app/nl/timestamp-converter)
 - [Wereldklok](https://cratex.app/nl/world-clock)
-- [WK-aftraptijdconverter](https://cratex.app/nl/world-cup-kickoff-time-converter)
 - [Willekeurige getallengenerator](https://cratex.app/nl/random-number-generator)
 - [Willekeurige trekking](https://cratex.app/nl/random-picker)
 - [Dobbelstenen rollen](https://cratex.app/nl/dice-roller)

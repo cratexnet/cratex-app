@@ -62,7 +62,6 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [時間計算機](https://cratex.app/ja/time-duration-calculator)
 - [タイムスタンプ変換](https://cratex.app/ja/timestamp-converter)
 - [世界時計](https://cratex.app/ja/world-clock)
-- [ワールドカップキックオフ時刻変換](https://cratex.app/ja/world-cup-kickoff-time-converter)
 - [乱数生成](https://cratex.app/ja/random-number-generator)
 - [ランダム抽選](https://cratex.app/ja/random-picker)
 - [サイコロを振る](https://cratex.app/ja/dice-roller)

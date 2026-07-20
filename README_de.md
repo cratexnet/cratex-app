@@ -62,7 +62,6 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 - [Zeitdauer-Rechner](https://cratex.app/de/time-duration-calculator)
 - [Zeitstempel-Konverter](https://cratex.app/de/timestamp-converter)
 - [Weltuhr](https://cratex.app/de/world-clock)
-- [WM-Anstoßzeit-Konverter](https://cratex.app/de/world-cup-kickoff-time-converter)
 - [Zufallszahlengenerator](https://cratex.app/de/random-number-generator)
 - [Zufallsauswahl](https://cratex.app/de/random-picker)
 - [Würfel werfen](https://cratex.app/de/dice-roller)

@@ -62,7 +62,6 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Süre hesaplayıcı](https://cratex.app/tr/time-duration-calculator)
 - [Zaman Damgası Dönüştürücü](https://cratex.app/tr/timestamp-converter)
 - [Dünya Saati](https://cratex.app/tr/world-clock)
-- [Dünya Kupası başlama saati dönüştürücü](https://cratex.app/tr/world-cup-kickoff-time-converter)
 - [Rastgele sayı üreteci](https://cratex.app/tr/random-number-generator)
 - [Rastgele çekiliş](https://cratex.app/tr/random-picker)
 - [Zar at](https://cratex.app/tr/dice-roller)

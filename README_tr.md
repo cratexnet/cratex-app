@@ -11,7 +11,7 @@
 
 ## 🌍 Dil
 
-[English](README.md) | [简体中文](README_zh-CN.md) | [正體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | Türkçe | [العربية](README_ar.md)
+[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | Türkçe | [العربية](README_ar.md)
 
 ## CrateX.app hakkında
 
@@ -89,7 +89,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Hızlı Görsel Kırpma](https://cratex.app/tr/image-cropper)
 - [Görsel Filigran](https://cratex.app/tr/image-watermarker)
 - [Görsel Birleştirme](https://cratex.app/tr/image-merger)
-- [Uzun Ekran Görüntülerini Uç Uca Ekle](https://cratex.app/tr/long-screenshot-stitcher)
+- [Uzun Ekran Görüntülerini Uç Uca Ekle](https://cratex.app/tr/screenshot-stitcher)
 - [Görsel Renk Seçici ve Palet](https://cratex.app/tr/image-color-picker)
 - [Görsel Meta Verisini Görüntüle ve Temizle](https://cratex.app/tr/image-metadata-cleaner)
 - [Görsel Gizlilik Maskeleme](https://cratex.app/tr/image-redactor)
@@ -97,6 +97,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 #### 📄 [PDF araçları](https://cratex.app/tr/cat/pdf)
 
 - [Görseli PDF yap](https://cratex.app/tr/image-to-pdf)
+- [PDF Birleştir](https://cratex.app/tr/merge-pdf)
 - [PDF'yi görsellere dönüştür](https://cratex.app/tr/pdf-to-images)
 - [PDF metne dönüştür](https://cratex.app/tr/pdf-to-text)
 
@@ -130,12 +131,16 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [JSON ↔ CSV Dönüştürücü](https://cratex.app/tr/csv-json-converter)
 - [JWT Çözücü](https://cratex.app/tr/jwt-decoder)
 - [Regex Testi](https://cratex.app/tr/regex-tester)
-- [MIME Türü](https://cratex.app/tr/mime-type)
+- [MIME Türü](https://cratex.app/tr/mime-type-lookup)
 - [HTTP Durum Kodları](https://cratex.app/tr/http-status)
 - [CSS Birim Dönüştürücü](https://cratex.app/tr/css-unit-converter)
 - [Renk Dönüştürücü](https://cratex.app/tr/color-converter)
 - [Lorem Metin Üreteci](https://cratex.app/tr/lorem-generator)
 - [Cron İfadesi Ayrıştırıcı](https://cratex.app/tr/cron-parser)
+
+#### 🎮 [Oyun Araçları](https://cratex.app/tr/cat/games)
+
+- [Palworld Yetiştirme Hesaplayıcısı](https://cratex.app/games/palworld/breeding?lang=tr)
 
 ## 🐛 Sorun bildirme
 

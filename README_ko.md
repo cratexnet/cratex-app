@@ -11,7 +11,7 @@
 
 ## 🌍 언어
 
-[English](README.md) | [简体中文](README_zh-CN.md) | [正體中文](README_zh-TW.md) | [日本語](README_ja.md) | 한국어 | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | 한국어 | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## CrateX.app 소개
 
@@ -89,7 +89,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [이미지 자르기](https://cratex.app/ko/image-cropper)
 - [이미지 워터마크 추가](https://cratex.app/ko/image-watermarker)
 - [이미지 합치기](https://cratex.app/ko/image-merger)
-- [긴 스크린샷 이어붙이기](https://cratex.app/ko/long-screenshot-stitcher)
+- [긴 스크린샷 이어붙이기](https://cratex.app/ko/screenshot-stitcher)
 - [이미지 컬러 피커와 팔레트](https://cratex.app/ko/image-color-picker)
 - [이미지 메타데이터 보기 및 정리](https://cratex.app/ko/image-metadata-cleaner)
 - [이미지 개인정보 가리기](https://cratex.app/ko/image-redactor)
@@ -97,6 +97,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 #### 📄 [PDF 도구](https://cratex.app/ko/cat/pdf)
 
 - [이미지를 PDF로 변환](https://cratex.app/ko/image-to-pdf)
+- [PDF 병합](https://cratex.app/ko/merge-pdf)
 - [PDF 이미지 변환](https://cratex.app/ko/pdf-to-images)
 - [PDF 텍스트 변환](https://cratex.app/ko/pdf-to-text)
 
@@ -130,12 +131,16 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [JSON ↔ CSV 변환](https://cratex.app/ko/csv-json-converter)
 - [JWT 디코더](https://cratex.app/ko/jwt-decoder)
 - [정규식 테스트](https://cratex.app/ko/regex-tester)
-- [MIME 타입](https://cratex.app/ko/mime-type)
+- [MIME 타입](https://cratex.app/ko/mime-type-lookup)
 - [HTTP 상태 코드](https://cratex.app/ko/http-status)
 - [CSS 단위 변환기](https://cratex.app/ko/css-unit-converter)
 - [색상 변환기](https://cratex.app/ko/color-converter)
 - [Lorem 생성기](https://cratex.app/ko/lorem-generator)
 - [Cron 표현식 파서](https://cratex.app/ko/cron-parser)
+
+#### 🎮 [게임 도구](https://cratex.app/ko/cat/games)
+
+- [Palworld 교배 계산기](https://cratex.app/games/palworld/breeding?lang=ko)
 
 ## 🐛 문제 신고
 

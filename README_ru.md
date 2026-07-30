@@ -11,7 +11,7 @@
 
 ## 🌍 Язык
 
-[English](README.md) | [简体中文](README_zh-CN.md) | [正體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | Русский | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | Русский | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## О CrateX.app
 
@@ -89,7 +89,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Инструмент обрезки изображений](https://cratex.app/ru/image-cropper)
 - [Водяной знак](https://cratex.app/ru/image-watermarker)
 - [Склейка изображений](https://cratex.app/ru/image-merger)
-- [Склейка длинных скриншотов](https://cratex.app/ru/long-screenshot-stitcher)
+- [Склейка длинных скриншотов](https://cratex.app/ru/screenshot-stitcher)
 - [Палитра и пипетка](https://cratex.app/ru/image-color-picker)
 - [Просмотр и очистка метаданных изображений](https://cratex.app/ru/image-metadata-cleaner)
 - [Скрытие приватных данных на изображениях](https://cratex.app/ru/image-redactor)
@@ -97,6 +97,7 @@ CrateX.app — быстрая платформа браузерных инстр
 #### 📄 [Инструменты PDF](https://cratex.app/ru/cat/pdf)
 
 - [Изображения в PDF](https://cratex.app/ru/image-to-pdf)
+- [Объединить PDF](https://cratex.app/ru/merge-pdf)
 - [PDF в изображения](https://cratex.app/ru/pdf-to-images)
 - [PDF в текст](https://cratex.app/ru/pdf-to-text)
 
@@ -130,12 +131,16 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Конвертер JSON ↔ CSV](https://cratex.app/ru/csv-json-converter)
 - [Декодер JWT](https://cratex.app/ru/jwt-decoder)
 - [Проверка регулярных выражений](https://cratex.app/ru/regex-tester)
-- [MIME-тип](https://cratex.app/ru/mime-type)
+- [MIME-тип](https://cratex.app/ru/mime-type-lookup)
 - [Коды статуса HTTP](https://cratex.app/ru/http-status)
 - [Конвертер CSS единиц](https://cratex.app/ru/css-unit-converter)
 - [Конвертер цветовых форматов](https://cratex.app/ru/color-converter)
 - [Генератор Lorem](https://cratex.app/ru/lorem-generator)
 - [Парсер выражений Cron](https://cratex.app/ru/cron-parser)
+
+#### 🎮 [Игровые инструменты](https://cratex.app/ru/cat/games)
+
+- [Калькулятор разведения Palworld](https://cratex.app/games/palworld/breeding?lang=ru)
 
 ## 🐛 Сообщить о проблеме
 

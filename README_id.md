@@ -11,7 +11,7 @@
 
 ## 🌍 Bahasa
 
-[English](README.md) | [简体中文](README_zh-CN.md) | [正體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | Bahasa Indonesia | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | Bahasa Indonesia | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## Tentang CrateX.app
 
@@ -89,7 +89,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Pemotong Gambar Cepat](https://cratex.app/id/image-cropper)
 - [Watermark Gambar](https://cratex.app/id/image-watermarker)
 - [Penggabung Gambar Cepat](https://cratex.app/id/image-merger)
-- [Penyambung Screenshot Panjang Lokal](https://cratex.app/id/long-screenshot-stitcher)
+- [Penyambung Screenshot Panjang Lokal](https://cratex.app/id/screenshot-stitcher)
 - [Pemilih Warna Gambar & Palet](https://cratex.app/id/image-color-picker)
 - [Pembersih Metadata Gambar Lokal](https://cratex.app/id/image-metadata-cleaner)
 - [Penyamaran Privasi Gambar](https://cratex.app/id/image-redactor)
@@ -97,6 +97,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 #### 📄 [Alat PDF](https://cratex.app/id/cat/pdf)
 
 - [Gambar ke PDF](https://cratex.app/id/image-to-pdf)
+- [Gabungkan PDF](https://cratex.app/id/merge-pdf)
 - [PDF ke gambar](https://cratex.app/id/pdf-to-images)
 - [PDF ke teks](https://cratex.app/id/pdf-to-text)
 
@@ -130,12 +131,16 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Konverter JSON ↔ CSV](https://cratex.app/id/csv-json-converter)
 - [Decoder JWT](https://cratex.app/id/jwt-decoder)
 - [Penguji Regex](https://cratex.app/id/regex-tester)
-- [Tipe MIME](https://cratex.app/id/mime-type)
+- [Tipe MIME](https://cratex.app/id/mime-type-lookup)
 - [Kode Status HTTP](https://cratex.app/id/http-status)
 - [Konverter Satuan CSS](https://cratex.app/id/css-unit-converter)
 - [Konverter Warna](https://cratex.app/id/color-converter)
 - [Generator Lorem Ipsum](https://cratex.app/id/lorem-generator)
 - [Parser Cron](https://cratex.app/id/cron-parser)
+
+#### 🎮 [Alat game](https://cratex.app/id/cat/games)
+
+- [Kalkulator Pembiakan Palworld](https://cratex.app/games/palworld/breeding?lang=id)
 
 ## 🐛 Pelaporan masalah
 

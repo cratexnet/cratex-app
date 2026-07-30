@@ -11,7 +11,7 @@
 
 ## 🌍 Ngôn ngữ
 
-[English](README.md) | [简体中文](README_zh-CN.md) | [正體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | Tiếng Việt | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | Tiếng Việt | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## Giới thiệu về CrateX.app
 
@@ -89,7 +89,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Cắt ảnh](https://cratex.app/vi/image-cropper)
 - [Thêm Watermark Ảnh](https://cratex.app/vi/image-watermarker)
 - [Ghép ảnh](https://cratex.app/vi/image-merger)
-- [Ghép ảnh chụp màn hình dài](https://cratex.app/vi/long-screenshot-stitcher)
+- [Ghép ảnh chụp màn hình dài](https://cratex.app/vi/screenshot-stitcher)
 - [Bộ Chọn Màu Ảnh và Bảng Màu](https://cratex.app/vi/image-color-picker)
 - [Xem và xóa metadata ảnh](https://cratex.app/vi/image-metadata-cleaner)
 - [Che thông tin riêng tư trên ảnh](https://cratex.app/vi/image-redactor)
@@ -97,6 +97,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 #### 📄 [Công cụ PDF](https://cratex.app/vi/cat/pdf)
 
 - [Ảnh sang PDF](https://cratex.app/vi/image-to-pdf)
+- [Gộp PDF](https://cratex.app/vi/merge-pdf)
 - [PDF sang ảnh](https://cratex.app/vi/pdf-to-images)
 - [PDF sang văn bản](https://cratex.app/vi/pdf-to-text)
 
@@ -130,12 +131,16 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Bộ chuyển đổi JSON ↔ CSV](https://cratex.app/vi/csv-json-converter)
 - [Giải mã JWT](https://cratex.app/vi/jwt-decoder)
 - [Kiểm tra Regex](https://cratex.app/vi/regex-tester)
-- [Loại MIME](https://cratex.app/vi/mime-type)
+- [Loại MIME](https://cratex.app/vi/mime-type-lookup)
 - [Mã trạng thái HTTP](https://cratex.app/vi/http-status)
 - [Bộ chuyển đổi đơn vị CSS](https://cratex.app/vi/css-unit-converter)
 - [Bộ chuyển đổi màu](https://cratex.app/vi/color-converter)
 - [Trình tạo Lorem Ipsum](https://cratex.app/vi/lorem-generator)
 - [Trình phân tích biểu thức Cron](https://cratex.app/vi/cron-parser)
+
+#### 🎮 [Công cụ trò chơi](https://cratex.app/vi/cat/games)
+
+- [Công cụ tính phối giống Palworld](https://cratex.app/games/palworld/breeding?lang=vi)
 
 ## 🐛 Báo cáo vấn đề
 

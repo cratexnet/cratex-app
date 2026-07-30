@@ -11,7 +11,7 @@
 
 ## 🌍 Język
 
-[English](README.md) | [简体中文](README_zh-CN.md) | [正體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | Polski | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | Polski | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## O CrateX.app
 
@@ -89,7 +89,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Kadrowanie obrazów](https://cratex.app/pl/image-cropper)
 - [Znak Wodny Obrazu](https://cratex.app/pl/image-watermarker)
 - [Łączenie obrazów](https://cratex.app/pl/image-merger)
-- [Łączenie długich zrzutów ekranu](https://cratex.app/pl/long-screenshot-stitcher)
+- [Łączenie długich zrzutów ekranu](https://cratex.app/pl/screenshot-stitcher)
 - [Próbnik Kolorów Obrazu i Paleta](https://cratex.app/pl/image-color-picker)
 - [Narzędzie do Czyszczenia Metadanych Obrazu](https://cratex.app/pl/image-metadata-cleaner)
 - [Maskowanie danych na obrazach](https://cratex.app/pl/image-redactor)
@@ -97,6 +97,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 #### 📄 [Narzędzia PDF](https://cratex.app/pl/cat/pdf)
 
 - [Obrazy do PDF](https://cratex.app/pl/image-to-pdf)
+- [Scal PDF](https://cratex.app/pl/merge-pdf)
 - [PDF na obrazy](https://cratex.app/pl/pdf-to-images)
 - [PDF na tekst](https://cratex.app/pl/pdf-to-text)
 
@@ -130,12 +131,16 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Konwerter JSON ↔ CSV](https://cratex.app/pl/csv-json-converter)
 - [Dekoder JWT](https://cratex.app/pl/jwt-decoder)
 - [Test wyrażeń regularnych](https://cratex.app/pl/regex-tester)
-- [Typ MIME](https://cratex.app/pl/mime-type)
+- [Typ MIME](https://cratex.app/pl/mime-type-lookup)
 - [Kody statusu HTTP](https://cratex.app/pl/http-status)
 - [Konwerter jednostek CSS](https://cratex.app/pl/css-unit-converter)
 - [Konwerter kolorów](https://cratex.app/pl/color-converter)
 - [Generator Lorem Ipsum](https://cratex.app/pl/lorem-generator)
 - [Parser wyrażeń Cron](https://cratex.app/pl/cron-parser)
+
+#### 🎮 [Narzędzia do gier](https://cratex.app/pl/cat/games)
+
+- [Kalkulator hodowli Palworld](https://cratex.app/games/palworld/breeding?lang=pl)
 
 ## 🐛 Zgłaszanie problemów
 

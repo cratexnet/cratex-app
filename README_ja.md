@@ -11,7 +11,7 @@
 
 ## 🌍 言語
 
-[English](README.md) | [简体中文](README_zh-CN.md) | [正體中文](README_zh-TW.md) | 日本語 | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | 日本語 | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## CrateX.app について
 
@@ -89,7 +89,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [画像トリミング](https://cratex.app/ja/image-cropper)
 - [画像に透かしを追加](https://cratex.app/ja/image-watermarker)
 - [画像結合](https://cratex.app/ja/image-merger)
-- [長尺スクリーンショットつなぎ合わせ](https://cratex.app/ja/long-screenshot-stitcher)
+- [長尺スクリーンショットつなぎ合わせ](https://cratex.app/ja/screenshot-stitcher)
 - [画像カラーピッカーとパレット](https://cratex.app/ja/image-color-picker)
 - [画像メタデータ閲覧と削除](https://cratex.app/ja/image-metadata-cleaner)
 - [画像プライバシーマスキング](https://cratex.app/ja/image-redactor)
@@ -97,6 +97,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 #### 📄 [PDFツール](https://cratex.app/ja/cat/pdf)
 
 - [画像をPDFに変換](https://cratex.app/ja/image-to-pdf)
+- [PDFを結合](https://cratex.app/ja/merge-pdf)
 - [PDFを画像に変換](https://cratex.app/ja/pdf-to-images)
 - [PDFをテキストに変換](https://cratex.app/ja/pdf-to-text)
 
@@ -130,12 +131,16 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [JSON ↔ CSV 変換](https://cratex.app/ja/csv-json-converter)
 - [JWT デコーダー](https://cratex.app/ja/jwt-decoder)
 - [正規表現テスト](https://cratex.app/ja/regex-tester)
-- [MIME タイプ](https://cratex.app/ja/mime-type)
+- [MIME タイプ](https://cratex.app/ja/mime-type-lookup)
 - [HTTP ステータスコード](https://cratex.app/ja/http-status)
 - [CSS 単位変換](https://cratex.app/ja/css-unit-converter)
 - [カラー変換](https://cratex.app/ja/color-converter)
 - [Lorem ジェネレーター](https://cratex.app/ja/lorem-generator)
 - [Cron 式パーサー](https://cratex.app/ja/cron-parser)
+
+#### 🎮 [ゲームツール](https://cratex.app/ja/cat/games)
+
+- [Palworld 配合計算ツール](https://cratex.app/games/palworld/breeding?lang=ja)
 
 ## 🐛 問題報告
 

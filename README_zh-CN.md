@@ -89,7 +89,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [图片裁剪](https://cratex.app/zh-CN/image-cropper)
 - [图片加水印](https://cratex.app/zh-CN/image-watermarker)
 - [图片拼接](https://cratex.app/zh-CN/image-merger)
-- [长截图拼接](https://cratex.app/zh-CN/long-screenshot-stitcher)
+- [长截图拼接](https://cratex.app/zh-CN/screenshot-stitcher)
 - [图片取色与调色板](https://cratex.app/zh-CN/image-color-picker)
 - [图片元数据查看与清理](https://cratex.app/zh-CN/image-metadata-cleaner)
 - [图片隐私打码](https://cratex.app/zh-CN/image-redactor)
@@ -97,6 +97,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 #### 📄 [PDF 工具](https://cratex.app/zh-CN/cat/pdf)
 
 - [图片转 PDF](https://cratex.app/zh-CN/image-to-pdf)
+- [PDF 合并](https://cratex.app/zh-CN/merge-pdf)
 - [PDF 转图片](https://cratex.app/zh-CN/pdf-to-images)
 - [PDF 转文本](https://cratex.app/zh-CN/pdf-to-text)
 
@@ -130,12 +131,16 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [JSON ↔ CSV 互转](https://cratex.app/zh-CN/csv-json-converter)
 - [JWT 解码](https://cratex.app/zh-CN/jwt-decoder)
 - [正则表达式测试](https://cratex.app/zh-CN/regex-tester)
-- [MIME 类型](https://cratex.app/zh-CN/mime-type)
+- [MIME 类型](https://cratex.app/zh-CN/mime-type-lookup)
 - [HTTP 状态码](https://cratex.app/zh-CN/http-status)
 - [CSS 单位转换](https://cratex.app/zh-CN/css-unit-converter)
 - [颜色格式转换](https://cratex.app/zh-CN/color-converter)
 - [Lorem 生成器](https://cratex.app/zh-CN/lorem-generator)
 - [Cron 表达式解析](https://cratex.app/zh-CN/cron-parser)
+
+#### 🎮 [游戏工具](https://cratex.app/zh-CN/cat/games)
+
+- [幻兽帕鲁配种计算器](https://cratex.app/games/palworld/breeding?lang=zh-CN)
 
 ## 🐛 问题反馈
 

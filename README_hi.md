@@ -89,7 +89,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [इमेज क्रॉपर टूल](https://cratex.app/hi/image-cropper)
 - [इमेज वॉटरमार्क](https://cratex.app/hi/image-watermarker)
 - [इमेज मर्जर टूल](https://cratex.app/hi/image-merger)
-- [लंबे स्क्रीनशॉट की स्टिचिंग](https://cratex.app/hi/long-screenshot-stitcher)
+- [लंबे स्क्रीनशॉट की स्टिचिंग](https://cratex.app/hi/screenshot-stitcher)
 - [इमेज कलर पिकर और पैलेट](https://cratex.app/hi/image-color-picker)
 - [इमेज मेटाडाटा व्यू व क्लीनर](https://cratex.app/hi/image-metadata-cleaner)
 - [इमेज प्राइवेसी रेडैक्टर](https://cratex.app/hi/image-redactor)
@@ -97,6 +97,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 #### 📄 [PDF टूल्स](https://cratex.app/hi/cat/pdf)
 
 - [इमेज से PDF](https://cratex.app/hi/image-to-pdf)
+- [PDF मर्ज करें](https://cratex.app/hi/merge-pdf)
 - [PDF से इमेज](https://cratex.app/hi/pdf-to-images)
 - [PDF से टेक्स्ट](https://cratex.app/hi/pdf-to-text)
 
@@ -130,12 +131,16 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [JSON ↔ CSV कन्वर्टर](https://cratex.app/hi/csv-json-converter)
 - [JWT डिकोडर](https://cratex.app/hi/jwt-decoder)
 - [रेगेक्स टेस्टर](https://cratex.app/hi/regex-tester)
-- [MIME टाइप](https://cratex.app/hi/mime-type)
+- [MIME टाइप](https://cratex.app/hi/mime-type-lookup)
 - [HTTP स्थिति कोड](https://cratex.app/hi/http-status)
 - [CSS इकाई परिवर्तक](https://cratex.app/hi/css-unit-converter)
 - [रंग प्रारूप परिवर्तक](https://cratex.app/hi/color-converter)
 - [Lorem जनरेटर](https://cratex.app/hi/lorem-generator)
 - [Cron एक्सप्रेशन पार्सर](https://cratex.app/hi/cron-parser)
+
+#### 🎮 [Game Tools](https://cratex.app/hi/cat/games)
+
+- [Palworld प्रजनन कैलकुलेटर](https://cratex.app/games/palworld/breeding?lang=en)
 
 ## 🐛 समस्या रिपोर्टिंग
 

@@ -89,7 +89,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [قص الصور](https://cratex.app/ar/image-cropper)
 - [علامة مائية للصور](https://cratex.app/ar/image-watermarker)
 - [دمج الصور](https://cratex.app/ar/image-merger)
-- [وصل لقطات الشاشة الطويلة](https://cratex.app/ar/long-screenshot-stitcher)
+- [وصل لقطات الشاشة الطويلة](https://cratex.app/ar/screenshot-stitcher)
 - [منتقي ألوان الصورة واللوحة](https://cratex.app/ar/image-color-picker)
 - [عرض وتنظيف بيانات الصورة الوصفية](https://cratex.app/ar/image-metadata-cleaner)
 - [طمس خصوصية الصور](https://cratex.app/ar/image-redactor)
@@ -97,6 +97,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 #### 📄 [أدوات PDF](https://cratex.app/ar/cat/pdf)
 
 - [تحويل الصور إلى PDF](https://cratex.app/ar/image-to-pdf)
+- [دمج PDF](https://cratex.app/ar/merge-pdf)
 - [تحويل PDF إلى صور](https://cratex.app/ar/pdf-to-images)
 - [PDF إلى نص](https://cratex.app/ar/pdf-to-text)
 
@@ -130,12 +131,16 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [محول JSON ↔ CSV](https://cratex.app/ar/csv-json-converter)
 - [فك ترميز JWT](https://cratex.app/ar/jwt-decoder)
 - [اختبار التعبيرات النمطية](https://cratex.app/ar/regex-tester)
-- [نوع MIME](https://cratex.app/ar/mime-type)
+- [نوع MIME](https://cratex.app/ar/mime-type-lookup)
 - [رموز حالة HTTP](https://cratex.app/ar/http-status)
 - [محول وحدات CSS](https://cratex.app/ar/css-unit-converter)
 - [محول صيغ الألوان](https://cratex.app/ar/color-converter)
 - [مولد لوريم إيبسوم](https://cratex.app/ar/lorem-generator)
 - [محلل تعبيرات Cron](https://cratex.app/ar/cron-parser)
+
+#### 🎮 [Game Tools](https://cratex.app/ar/cat/games)
+
+- [حاسبة تربية Palworld](https://cratex.app/games/palworld/breeding?lang=en)
 
 ## 🐛 الإبلاغ عن المشاكل
 

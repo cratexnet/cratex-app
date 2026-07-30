@@ -89,7 +89,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ครอบตัดรูปภาพ](https://cratex.app/th/image-cropper)
 - [ลายน้ำรูปภาพ](https://cratex.app/th/image-watermarker)
 - [รวมรูปภาพ](https://cratex.app/th/image-merger)
-- [ต่อภาพหน้าจอแบบยาว](https://cratex.app/th/long-screenshot-stitcher)
+- [ต่อภาพหน้าจอแบบยาว](https://cratex.app/th/screenshot-stitcher)
 - [ตัวเลือกสีภาพและพาเลท](https://cratex.app/th/image-color-picker)
 - [ดูและล้างข้อมูลเมตาของรูปภาพ](https://cratex.app/th/image-metadata-cleaner)
 - [ปิดบังข้อมูลส่วนตัวบนรูปภาพ](https://cratex.app/th/image-redactor)
@@ -97,6 +97,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 #### 📄 [เครื่องมือ PDF](https://cratex.app/th/cat/pdf)
 
 - [แปลงรูปภาพเป็น PDF](https://cratex.app/th/image-to-pdf)
+- [รวม PDF](https://cratex.app/th/merge-pdf)
 - [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/pdf-to-images)
 - [PDF เป็นข้อความ](https://cratex.app/th/pdf-to-text)
 
@@ -130,12 +131,16 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวแปลง JSON ↔ CSV](https://cratex.app/th/csv-json-converter)
 - [ตัวถอดรหัส JWT](https://cratex.app/th/jwt-decoder)
 - [ทดสอบ Regex](https://cratex.app/th/regex-tester)
-- [ประเภท MIME](https://cratex.app/th/mime-type)
+- [ประเภท MIME](https://cratex.app/th/mime-type-lookup)
 - [รหัสสถานะ HTTP](https://cratex.app/th/http-status)
 - [ตัวแปลงหน่วย CSS](https://cratex.app/th/css-unit-converter)
 - [ตัวแปลงสี](https://cratex.app/th/color-converter)
 - [เครื่องสร้างข้อความ Lorem](https://cratex.app/th/lorem-generator)
 - [ตัววิเคราะห์นิพจน์ Cron](https://cratex.app/th/cron-parser)
+
+#### 🎮 [เครื่องมือเกม](https://cratex.app/th/cat/games)
+
+- [เครื่องคำนวณการผสมพันธุ์ Palworld](https://cratex.app/games/palworld/breeding?lang=th)
 
 ## 🐛 การรายงานปัญหา
 

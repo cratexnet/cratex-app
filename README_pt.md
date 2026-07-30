@@ -89,7 +89,7 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 - [Recorte de imagem](https://cratex.app/pt/image-cropper)
 - [Marca d'Água de Imagem](https://cratex.app/pt/image-watermarker)
 - [Mesclar imagens](https://cratex.app/pt/image-merger)
-- [Juntar capturas longas](https://cratex.app/pt/long-screenshot-stitcher)
+- [Juntar capturas longas](https://cratex.app/pt/screenshot-stitcher)
 - [Seletor de Cor de Imagem e Paleta](https://cratex.app/pt/image-color-picker)
 - [Limpador de Metadados de Imagem](https://cratex.app/pt/image-metadata-cleaner)
 - [Ocultar dados em imagens](https://cratex.app/pt/image-redactor)
@@ -97,6 +97,7 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 #### 📄 [Ferramentas de PDF](https://cratex.app/pt/cat/pdf)
 
 - [Imagens para PDF](https://cratex.app/pt/image-to-pdf)
+- [Unir PDF](https://cratex.app/pt/merge-pdf)
 - [PDF para imagens](https://cratex.app/pt/pdf-to-images)
 - [PDF para texto](https://cratex.app/pt/pdf-to-text)
 
@@ -130,12 +131,16 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 - [Conversor JSON ↔ CSV](https://cratex.app/pt/csv-json-converter)
 - [Decodificador JWT](https://cratex.app/pt/jwt-decoder)
 - [Teste de expressões regulares](https://cratex.app/pt/regex-tester)
-- [Tipo MIME](https://cratex.app/pt/mime-type)
+- [Tipo MIME](https://cratex.app/pt/mime-type-lookup)
 - [Códigos de status HTTP](https://cratex.app/pt/http-status)
 - [Conversor de unidades CSS](https://cratex.app/pt/css-unit-converter)
 - [Conversor de formatos de cor](https://cratex.app/pt/color-converter)
 - [Gerador Lorem](https://cratex.app/pt/lorem-generator)
 - [Analisador de Expressões Cron](https://cratex.app/pt/cron-parser)
+
+#### 🎮 [Ferramentas de jogos](https://cratex.app/pt/cat/games)
+
+- [Calculadora de reprodução de Palworld](https://cratex.app/games/palworld/breeding?lang=pt-BR)
 
 ## 🐛 Relatar problemas
 

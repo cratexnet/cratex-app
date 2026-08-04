@@ -98,8 +98,10 @@ CrateX.app — быстрая платформа браузерных инстр
 
 - [Изображения в PDF](https://cratex.app/ru/image-to-pdf)
 - [Объединить PDF](https://cratex.app/ru/merge-pdf)
+- [Разделить PDF](https://cratex.app/ru/split-pdf)
 - [PDF в изображения](https://cratex.app/ru/pdf-to-images)
 - [PDF в текст](https://cratex.app/ru/pdf-to-text)
+- [Упорядочить PDF](https://cratex.app/ru/organize-pdf)
 
 #### 🎬 [Медиа-инструменты](https://cratex.app/ru/cat/media)
 

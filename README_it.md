@@ -98,8 +98,10 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 
 - [Immagini in PDF](https://cratex.app/it/image-to-pdf)
 - [Unisci PDF](https://cratex.app/it/merge-pdf)
+- [Dividi PDF](https://cratex.app/it/split-pdf)
 - [PDF in immagini](https://cratex.app/it/pdf-to-images)
 - [PDF in testo](https://cratex.app/it/pdf-to-text)
+- [Organizza PDF](https://cratex.app/it/organize-pdf)
 
 #### 🎬 [Strumenti multimediali](https://cratex.app/it/cat/media)
 

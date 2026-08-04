@@ -98,8 +98,10 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 
 - [Gambar ke PDF](https://cratex.app/id/image-to-pdf)
 - [Gabungkan PDF](https://cratex.app/id/merge-pdf)
+- [Pisahkan PDF](https://cratex.app/id/split-pdf)
 - [PDF ke gambar](https://cratex.app/id/pdf-to-images)
 - [PDF ke teks](https://cratex.app/id/pdf-to-text)
+- [Atur PDF](https://cratex.app/id/organize-pdf)
 
 #### 🎬 [Alat Media](https://cratex.app/id/cat/media)
 

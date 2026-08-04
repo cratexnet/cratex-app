@@ -98,8 +98,10 @@ The website is still in rapid development. New tools will be launched continuous
 
 - [Image to PDF](https://cratex.app/en/image-to-pdf)
 - [Merge PDF](https://cratex.app/en/merge-pdf)
+- [Split PDF](https://cratex.app/en/split-pdf)
 - [PDF to Images](https://cratex.app/en/pdf-to-images)
 - [PDF to Text](https://cratex.app/en/pdf-to-text)
+- [Organize PDF](https://cratex.app/en/organize-pdf)
 
 #### 🎬 [Media Tools](https://cratex.app/en/cat/media)
 

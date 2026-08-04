@@ -98,8 +98,10 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 
 - [تحويل الصور إلى PDF](https://cratex.app/ar/image-to-pdf)
 - [دمج PDF](https://cratex.app/ar/merge-pdf)
+- [تقسيم PDF](https://cratex.app/ar/split-pdf)
 - [تحويل PDF إلى صور](https://cratex.app/ar/pdf-to-images)
 - [PDF إلى نص](https://cratex.app/ar/pdf-to-text)
+- [تنظيم PDF](https://cratex.app/ar/organize-pdf)
 
 #### 🎬 [أدوات الوسائط](https://cratex.app/ar/cat/media)
 

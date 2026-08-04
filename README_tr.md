@@ -98,8 +98,10 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 
 - [Görseli PDF yap](https://cratex.app/tr/image-to-pdf)
 - [PDF Birleştir](https://cratex.app/tr/merge-pdf)
+- [PDF Böl](https://cratex.app/tr/split-pdf)
 - [PDF'yi görsellere dönüştür](https://cratex.app/tr/pdf-to-images)
 - [PDF metne dönüştür](https://cratex.app/tr/pdf-to-text)
+- [PDF Düzenle](https://cratex.app/tr/organize-pdf)
 
 #### 🎬 [Medya araçları](https://cratex.app/tr/cat/media)
 

@@ -99,9 +99,10 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [इमेज से PDF](https://cratex.app/hi/image-to-pdf)
 - [PDF मर्ज करें](https://cratex.app/hi/merge-pdf)
 - [PDF बाँटें](https://cratex.app/hi/split-pdf)
+- [PDF व्यवस्थित करें](https://cratex.app/hi/organize-pdf)
+- [PDF पर वॉटरमार्क लगाएँ](https://cratex.app/hi/watermark-pdf)
 - [PDF से इमेज](https://cratex.app/hi/pdf-to-images)
 - [PDF से टेक्स्ट](https://cratex.app/hi/pdf-to-text)
-- [PDF व्यवस्थित करें](https://cratex.app/hi/organize-pdf)
 
 #### 🎬 [मीडिया टूल](https://cratex.app/hi/cat/media)
 

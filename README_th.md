@@ -99,9 +99,10 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [แปลงรูปภาพเป็น PDF](https://cratex.app/th/image-to-pdf)
 - [รวม PDF](https://cratex.app/th/merge-pdf)
 - [แยก PDF](https://cratex.app/th/split-pdf)
+- [จัดหน้า PDF](https://cratex.app/th/organize-pdf)
+- [ใส่ลายน้ำ PDF](https://cratex.app/th/watermark-pdf)
 - [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/pdf-to-images)
 - [PDF เป็นข้อความ](https://cratex.app/th/pdf-to-text)
-- [จัดหน้า PDF](https://cratex.app/th/organize-pdf)
 
 #### 🎬 [เครื่องมือสื่อ](https://cratex.app/th/cat/media)
 

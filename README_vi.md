@@ -99,9 +99,10 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Ảnh sang PDF](https://cratex.app/vi/image-to-pdf)
 - [Gộp PDF](https://cratex.app/vi/merge-pdf)
 - [Tách PDF](https://cratex.app/vi/split-pdf)
+- [Sắp xếp PDF](https://cratex.app/vi/organize-pdf)
+- [Thêm hình mờ vào PDF](https://cratex.app/vi/watermark-pdf)
 - [PDF sang ảnh](https://cratex.app/vi/pdf-to-images)
 - [PDF sang văn bản](https://cratex.app/vi/pdf-to-text)
-- [Sắp xếp PDF](https://cratex.app/vi/organize-pdf)
 
 #### 🎬 [Công cụ media](https://cratex.app/vi/cat/media)
 

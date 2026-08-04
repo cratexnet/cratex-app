@@ -99,9 +99,10 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [이미지를 PDF로 변환](https://cratex.app/ko/image-to-pdf)
 - [PDF 병합](https://cratex.app/ko/merge-pdf)
 - [PDF 분할](https://cratex.app/ko/split-pdf)
+- [PDF 정리](https://cratex.app/ko/organize-pdf)
+- [PDF 워터마크](https://cratex.app/ko/watermark-pdf)
 - [PDF 이미지 변환](https://cratex.app/ko/pdf-to-images)
 - [PDF 텍스트 변환](https://cratex.app/ko/pdf-to-text)
-- [PDF 정리](https://cratex.app/ko/organize-pdf)
 
 #### 🎬 [미디어 도구](https://cratex.app/ko/cat/media)
 

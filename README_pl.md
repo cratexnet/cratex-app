@@ -99,9 +99,10 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Obrazy do PDF](https://cratex.app/pl/image-to-pdf)
 - [Scal PDF](https://cratex.app/pl/merge-pdf)
 - [Podziel PDF](https://cratex.app/pl/split-pdf)
+- [Uporządkuj PDF](https://cratex.app/pl/organize-pdf)
+- [Dodaj znak wodny do PDF](https://cratex.app/pl/watermark-pdf)
 - [PDF na obrazy](https://cratex.app/pl/pdf-to-images)
 - [PDF na tekst](https://cratex.app/pl/pdf-to-text)
-- [Uporządkuj PDF](https://cratex.app/pl/organize-pdf)
 
 #### 🎬 [Narzędzia multimedialne](https://cratex.app/pl/cat/media)
 

@@ -99,9 +99,10 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [画像をPDFに変換](https://cratex.app/ja/image-to-pdf)
 - [PDFを結合](https://cratex.app/ja/merge-pdf)
 - [PDFを分割](https://cratex.app/ja/split-pdf)
+- [PDFを整理](https://cratex.app/ja/organize-pdf)
+- [PDFに透かしを追加](https://cratex.app/ja/watermark-pdf)
 - [PDFを画像に変換](https://cratex.app/ja/pdf-to-images)
 - [PDFをテキストに変換](https://cratex.app/ja/pdf-to-text)
-- [PDFを整理](https://cratex.app/ja/organize-pdf)
 
 #### 🎬 [メディアツール](https://cratex.app/ja/cat/media)
 

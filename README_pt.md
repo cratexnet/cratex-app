@@ -99,9 +99,10 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 - [Imagens para PDF](https://cratex.app/pt/image-to-pdf)
 - [Unir PDF](https://cratex.app/pt/merge-pdf)
 - [Dividir PDF](https://cratex.app/pt/split-pdf)
+- [Organizar PDF](https://cratex.app/pt/organize-pdf)
+- [Adicionar marca-d'água ao PDF](https://cratex.app/pt/watermark-pdf)
 - [PDF para imagens](https://cratex.app/pt/pdf-to-images)
 - [PDF para texto](https://cratex.app/pt/pdf-to-text)
-- [Organizar PDF](https://cratex.app/pt/organize-pdf)
 
 #### 🎬 [Ferramentas de mídia](https://cratex.app/pt/cat/media)
 

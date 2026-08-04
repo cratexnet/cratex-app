@@ -99,9 +99,10 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Afbeeldingen naar PDF](https://cratex.app/nl/image-to-pdf)
 - [PDF samenvoegen](https://cratex.app/nl/merge-pdf)
 - [PDF splitsen](https://cratex.app/nl/split-pdf)
+- [PDF ordenen](https://cratex.app/nl/organize-pdf)
+- [Watermerk aan PDF toevoegen](https://cratex.app/nl/watermark-pdf)
 - [PDF naar afbeeldingen](https://cratex.app/nl/pdf-to-images)
 - [PDF naar tekst](https://cratex.app/nl/pdf-to-text)
-- [PDF ordenen](https://cratex.app/nl/organize-pdf)
 
 #### 🎬 [Mediatools](https://cratex.app/nl/cat/media)
 

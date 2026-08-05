@@ -101,6 +101,7 @@ El sitio web aún está en rápido desarrollo. Nuevas herramientas se lanzarán 
 - [Dividir PDF](https://cratex.app/es/split-pdf)
 - [Organizar PDF](https://cratex.app/es/organize-pdf)
 - [Añadir una marca de agua a un PDF](https://cratex.app/es/watermark-pdf)
+- [Añadir números de página a un PDF](https://cratex.app/es/add-page-numbers-to-pdf)
 - [PDF a imágenes](https://cratex.app/es/pdf-to-images)
 - [PDF a texto](https://cratex.app/es/pdf-to-text)
 

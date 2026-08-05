@@ -101,6 +101,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [PDF splitsen](https://cratex.app/nl/split-pdf)
 - [PDF ordenen](https://cratex.app/nl/organize-pdf)
 - [Watermerk aan PDF toevoegen](https://cratex.app/nl/watermark-pdf)
+- [Paginanummers toevoegen aan PDF](https://cratex.app/nl/add-page-numbers-to-pdf)
 - [PDF naar afbeeldingen](https://cratex.app/nl/pdf-to-images)
 - [PDF naar tekst](https://cratex.app/nl/pdf-to-text)
 

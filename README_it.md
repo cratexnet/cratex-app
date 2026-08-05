@@ -101,6 +101,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [Dividi PDF](https://cratex.app/it/split-pdf)
 - [Organizza PDF](https://cratex.app/it/organize-pdf)
 - [Filigrana PDF](https://cratex.app/it/watermark-pdf)
+- [Aggiungi numeri di pagina a un PDF](https://cratex.app/it/add-page-numbers-to-pdf)
 - [PDF in immagini](https://cratex.app/it/pdf-to-images)
 - [PDF in testo](https://cratex.app/it/pdf-to-text)
 

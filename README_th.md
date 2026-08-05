@@ -101,6 +101,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [แยก PDF](https://cratex.app/th/split-pdf)
 - [จัดหน้า PDF](https://cratex.app/th/organize-pdf)
 - [ใส่ลายน้ำ PDF](https://cratex.app/th/watermark-pdf)
+- [เพิ่มเลขหน้าใน PDF](https://cratex.app/th/add-page-numbers-to-pdf)
 - [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/pdf-to-images)
 - [PDF เป็นข้อความ](https://cratex.app/th/pdf-to-text)
 

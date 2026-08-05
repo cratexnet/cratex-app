@@ -101,6 +101,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [PDF 分割](https://cratex.app/zh-TW/split-pdf)
 - [整理 PDF](https://cratex.app/zh-TW/organize-pdf)
 - [PDF 加浮水印](https://cratex.app/zh-TW/watermark-pdf)
+- [為 PDF 加入頁碼](https://cratex.app/zh-TW/add-page-numbers-to-pdf)
 - [PDF 轉圖片](https://cratex.app/zh-TW/pdf-to-images)
 - [PDF 轉文字](https://cratex.app/zh-TW/pdf-to-text)
 

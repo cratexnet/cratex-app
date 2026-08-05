@@ -101,6 +101,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Split PDF](https://cratex.app/en/split-pdf)
 - [Organize PDF](https://cratex.app/en/organize-pdf)
 - [Watermark PDF](https://cratex.app/en/watermark-pdf)
+- [Add Page Numbers to PDF](https://cratex.app/en/add-page-numbers-to-pdf)
 - [PDF to Images](https://cratex.app/en/pdf-to-images)
 - [PDF to Text](https://cratex.app/en/pdf-to-text)
 

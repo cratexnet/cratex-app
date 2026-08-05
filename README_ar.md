@@ -101,6 +101,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [تقسيم PDF](https://cratex.app/ar/split-pdf)
 - [تنظيم PDF](https://cratex.app/ar/organize-pdf)
 - [إضافة علامة مائية إلى PDF](https://cratex.app/ar/watermark-pdf)
+- [إضافة أرقام الصفحات إلى PDF](https://cratex.app/ar/add-page-numbers-to-pdf)
 - [تحويل PDF إلى صور](https://cratex.app/ar/pdf-to-images)
 - [PDF إلى نص](https://cratex.app/ar/pdf-to-text)
 

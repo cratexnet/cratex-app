@@ -101,6 +101,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Pisahkan PDF](https://cratex.app/id/split-pdf)
 - [Atur PDF](https://cratex.app/id/organize-pdf)
 - [Beri Tanda Air pada PDF](https://cratex.app/id/watermark-pdf)
+- [Tambahkan Nomor Halaman ke PDF](https://cratex.app/id/add-page-numbers-to-pdf)
 - [PDF ke gambar](https://cratex.app/id/pdf-to-images)
 - [PDF ke teks](https://cratex.app/id/pdf-to-text)
 

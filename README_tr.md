@@ -101,6 +101,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [PDF Böl](https://cratex.app/tr/split-pdf)
 - [PDF Düzenle](https://cratex.app/tr/organize-pdf)
 - [PDF'ye Filigran Ekle](https://cratex.app/tr/watermark-pdf)
+- [PDF’ye sayfa numaraları ekle](https://cratex.app/tr/add-page-numbers-to-pdf)
 - [PDF'yi görsellere dönüştür](https://cratex.app/tr/pdf-to-images)
 - [PDF metne dönüştür](https://cratex.app/tr/pdf-to-text)
 

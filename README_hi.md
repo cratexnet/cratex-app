@@ -102,6 +102,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [PDF व्यवस्थित करें](https://cratex.app/hi/organize-pdf)
 - [PDF पर वॉटरमार्क लगाएँ](https://cratex.app/hi/watermark-pdf)
 - [PDF पर हस्ताक्षर करें](https://cratex.app/hi/sign-pdf)
+- [PDF फ़ॉर्म भरें](https://cratex.app/hi/fill-pdf-forms)
 - [PDF में पृष्ठ संख्याएँ जोड़ें](https://cratex.app/hi/add-page-numbers-to-pdf)
 - [PDF से इमेज](https://cratex.app/hi/pdf-to-images)
 - [PDF से टेक्स्ट](https://cratex.app/hi/pdf-to-text)

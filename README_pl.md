@@ -102,6 +102,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Uporządkuj PDF](https://cratex.app/pl/organize-pdf)
 - [Dodaj znak wodny do PDF](https://cratex.app/pl/watermark-pdf)
 - [Podpisz PDF](https://cratex.app/pl/sign-pdf)
+- [Wypełnianie formularzy PDF](https://cratex.app/pl/fill-pdf-forms)
 - [Dodaj numery stron do PDF](https://cratex.app/pl/add-page-numbers-to-pdf)
 - [PDF na obrazy](https://cratex.app/pl/pdf-to-images)
 - [PDF na tekst](https://cratex.app/pl/pdf-to-text)

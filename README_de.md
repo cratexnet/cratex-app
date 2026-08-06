@@ -102,6 +102,7 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 - [PDF organisieren](https://cratex.app/de/organize-pdf)
 - [PDF mit Wasserzeichen versehen](https://cratex.app/de/watermark-pdf)
 - [PDF signieren](https://cratex.app/de/sign-pdf)
+- [PDF-Formulare ausfüllen](https://cratex.app/de/fill-pdf-forms)
 - [Seitenzahlen zu PDF hinzufügen](https://cratex.app/de/add-page-numbers-to-pdf)
 - [PDF in Bilder](https://cratex.app/de/pdf-to-images)
 - [PDF in Text](https://cratex.app/de/pdf-to-text)

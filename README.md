@@ -102,6 +102,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Organize PDF](https://cratex.app/en/organize-pdf)
 - [Watermark PDF](https://cratex.app/en/watermark-pdf)
 - [Sign PDF](https://cratex.app/en/sign-pdf)
+- [Fill PDF Forms](https://cratex.app/en/fill-pdf-forms)
 - [Add Page Numbers to PDF](https://cratex.app/en/add-page-numbers-to-pdf)
 - [PDF to Images](https://cratex.app/en/pdf-to-images)
 - [PDF to Text](https://cratex.app/en/pdf-to-text)

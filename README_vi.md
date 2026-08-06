@@ -102,6 +102,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Sắp xếp PDF](https://cratex.app/vi/organize-pdf)
 - [Thêm hình mờ vào PDF](https://cratex.app/vi/watermark-pdf)
 - [Ký PDF](https://cratex.app/vi/sign-pdf)
+- [Điền biểu mẫu PDF](https://cratex.app/vi/fill-pdf-forms)
 - [Thêm số trang vào PDF](https://cratex.app/vi/add-page-numbers-to-pdf)
 - [PDF sang ảnh](https://cratex.app/vi/pdf-to-images)
 - [PDF sang văn bản](https://cratex.app/vi/pdf-to-text)

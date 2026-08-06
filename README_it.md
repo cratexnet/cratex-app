@@ -102,6 +102,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [Organizza PDF](https://cratex.app/it/organize-pdf)
 - [Filigrana PDF](https://cratex.app/it/watermark-pdf)
 - [Firmare PDF](https://cratex.app/it/sign-pdf)
+- [Compila moduli PDF](https://cratex.app/it/fill-pdf-forms)
 - [Aggiungi numeri di pagina a un PDF](https://cratex.app/it/add-page-numbers-to-pdf)
 - [PDF in immagini](https://cratex.app/it/pdf-to-images)
 - [PDF in testo](https://cratex.app/it/pdf-to-text)

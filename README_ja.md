@@ -102,6 +102,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [PDFを整理](https://cratex.app/ja/organize-pdf)
 - [PDFに透かしを追加](https://cratex.app/ja/watermark-pdf)
 - [PDFに署名](https://cratex.app/ja/sign-pdf)
+- [PDFフォームに入力](https://cratex.app/ja/fill-pdf-forms)
 - [PDFにページ番号を追加](https://cratex.app/ja/add-page-numbers-to-pdf)
 - [PDFを画像に変換](https://cratex.app/ja/pdf-to-images)
 - [PDFをテキストに変換](https://cratex.app/ja/pdf-to-text)

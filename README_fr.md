@@ -102,6 +102,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Organiser un PDF](https://cratex.app/fr/organize-pdf)
 - [Ajouter un filigrane à un PDF](https://cratex.app/fr/watermark-pdf)
 - [Signer un PDF](https://cratex.app/fr/sign-pdf)
+- [Remplir des formulaires PDF](https://cratex.app/fr/fill-pdf-forms)
 - [Ajouter des numéros de page à un PDF](https://cratex.app/fr/add-page-numbers-to-pdf)
 - [PDF en images](https://cratex.app/fr/pdf-to-images)
 - [PDF en texte](https://cratex.app/fr/pdf-to-text)

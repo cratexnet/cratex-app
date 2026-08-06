@@ -102,6 +102,7 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 - [Organizar PDF](https://cratex.app/pt/organize-pdf)
 - [Adicionar marca-d'água ao PDF](https://cratex.app/pt/watermark-pdf)
 - [Assinar PDF](https://cratex.app/pt/sign-pdf)
+- [Preencher formulários PDF](https://cratex.app/pt/fill-pdf-forms)
 - [Adicionar números de página a PDF](https://cratex.app/pt/add-page-numbers-to-pdf)
 - [PDF para imagens](https://cratex.app/pt/pdf-to-images)
 - [PDF para texto](https://cratex.app/pt/pdf-to-text)

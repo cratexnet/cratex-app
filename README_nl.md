@@ -102,6 +102,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [PDF ordenen](https://cratex.app/nl/organize-pdf)
 - [Watermerk aan PDF toevoegen](https://cratex.app/nl/watermark-pdf)
 - [PDF ondertekenen](https://cratex.app/nl/sign-pdf)
+- [PDF-formulieren invullen](https://cratex.app/nl/fill-pdf-forms)
 - [Paginanummers toevoegen aan PDF](https://cratex.app/nl/add-page-numbers-to-pdf)
 - [PDF naar afbeeldingen](https://cratex.app/nl/pdf-to-images)
 - [PDF naar tekst](https://cratex.app/nl/pdf-to-text)

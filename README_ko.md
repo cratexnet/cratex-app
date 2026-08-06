@@ -102,6 +102,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [PDF 정리](https://cratex.app/ko/organize-pdf)
 - [PDF 워터마크](https://cratex.app/ko/watermark-pdf)
 - [PDF 서명](https://cratex.app/ko/sign-pdf)
+- [PDF 양식 작성](https://cratex.app/ko/fill-pdf-forms)
 - [PDF에 페이지 번호 추가](https://cratex.app/ko/add-page-numbers-to-pdf)
 - [PDF 이미지 변환](https://cratex.app/ko/pdf-to-images)
 - [PDF 텍스트 변환](https://cratex.app/ko/pdf-to-text)

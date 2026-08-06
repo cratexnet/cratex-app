@@ -101,6 +101,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Разделить PDF](https://cratex.app/ru/split-pdf)
 - [Упорядочить PDF](https://cratex.app/ru/organize-pdf)
 - [Добавить водяной знак в PDF](https://cratex.app/ru/watermark-pdf)
+- [Подписать PDF](https://cratex.app/ru/sign-pdf)
 - [Добавить номера страниц в PDF](https://cratex.app/ru/add-page-numbers-to-pdf)
 - [PDF в изображения](https://cratex.app/ru/pdf-to-images)
 - [PDF в текст](https://cratex.app/ru/pdf-to-text)

@@ -156,6 +156,8 @@ Jika Anda menemukan bug atau memiliki saran perbaikan, silakan kirim melalui met
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+Jangan laporkan kerentanan keamanan melalui Issues publik. Ikuti [Kebijakan Keamanan](https://github.com/cratexnet/cratex-app/security/policy) kami untuk melaporkannya secara privat.
+
 ### Format umpan balik
 
 Untuk membantu kami menyelesaikan masalah Anda dengan lebih baik, silakan kirimkan umpan balik dengan format berikut:

@@ -156,6 +156,8 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+セキュリティ脆弱性を公開 Issue で報告しないでください。非公開で報告するには、[セキュリティポリシー](https://github.com/cratexnet/cratex-app/security/policy)に従ってください。
+
 ### フィードバック形式
 
 問題をより良く解決するために、以下の形式でフィードバックを送信してください：

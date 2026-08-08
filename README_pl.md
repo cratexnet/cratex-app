@@ -156,6 +156,8 @@ Jeśli napotkasz błąd lub masz propozycje ulepszeń, zgłoś je za pomocą nas
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+Nie zgłaszaj luk w zabezpieczeniach w publicznych Issues. Postępuj zgodnie z naszą [polityką bezpieczeństwa](https://github.com/cratexnet/cratex-app/security/policy), aby zgłosić je prywatnie.
+
 ### Format zgłoszenia
 
 Aby lepiej pomóc w rozwiązaniu problemu, prosimy o przesłanie zgłoszenia w następującym formacie:

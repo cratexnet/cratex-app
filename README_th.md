@@ -156,6 +156,8 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+อย่ารายงานช่องโหว่ด้านความปลอดภัยผ่าน Issues สาธารณะ โปรดปฏิบัติตาม[นโยบายความปลอดภัย](https://github.com/cratexnet/cratex-app/security/policy)เพื่อรายงานเป็นการส่วนตัว
+
 ### รูปแบบการแจ้งปัญหา
 
 เพื่อช่วยแก้ไขปัญหาของคุณได้ดียิ่งขึ้น โปรดใช้รูปแบบต่อไปนี้:

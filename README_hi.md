@@ -156,6 +156,8 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+सुरक्षा कमज़ोरियों की रिपोर्ट सार्वजनिक Issues में न करें। निजी रूप से रिपोर्ट करने के लिए हमारी [सुरक्षा नीति](https://github.com/cratexnet/cratex-app/security/policy) का पालन करें।
+
 ### फ़ीडबैक फ़ॉर्मेट
 
 आपकी समस्या को बेहतर ढंग से हल करने में मदद के लिए, कृपया निम्न फ़ॉर्मेट का उपयोग करें:

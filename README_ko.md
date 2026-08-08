@@ -156,6 +156,8 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+보안 취약점을 공개 Issue로 신고하지 마세요. 비공개로 신고하려면 [보안 정책](https://github.com/cratexnet/cratex-app/security/policy)을 따라 주세요.
+
 ### 피드백 형식
 
 문제를 더 잘 해결할 수 있도록 다음 형식에 따라 피드백을 제출해 주세요:

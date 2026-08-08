@@ -156,6 +156,8 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+请勿在公开 Issue 中报告安全漏洞。请按照我们的[安全政策](https://github.com/cratexnet/cratex-app/security/policy)进行私下报告。
+
 ### 反馈格式
 
 为了更好地帮助您解决问题，请按照以下格式提交反馈：

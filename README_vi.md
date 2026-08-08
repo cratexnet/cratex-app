@@ -156,6 +156,8 @@ Nếu bạn gặp lỗi hoặc có đề xuất cải tiến, hãy gửi qua cá
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+Không báo cáo lỗ hổng bảo mật trong Issues công khai. Hãy làm theo [Chính sách bảo mật](https://github.com/cratexnet/cratex-app/security/policy) để báo cáo riêng tư.
+
 ### Định dạng phản hồi
 
 Để giúp chúng tôi giải quyết vấn đề của bạn tốt hơn, vui lòng sử dụng định dạng sau:

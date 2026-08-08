@@ -156,6 +156,8 @@ Bir hata ile karşılaşırsanız veya iyileştirme öneriniz varsa, lütfen aş
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+Güvenlik açıklarını herkese açık Issues üzerinden bildirmeyin. Özel olarak bildirmek için [Güvenlik Politikamızı](https://github.com/cratexnet/cratex-app/security/policy) izleyin.
+
 ### Geri bildirim formatı
 
 Sorununuzu daha iyi çözmemize yardımcı olmak için lütfen aşağıdaki formatı kullanın:

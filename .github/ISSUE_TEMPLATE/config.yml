@@ -3,6 +3,9 @@ contact_links:
   - name: Use CrateX.app online
     url: https://cratex.app/en?utm_source=github&utm_medium=issue_template&utm_campaign=cratex-app
     about: Open the live CrateX.app website.
+  - name: Report a security vulnerability
+    url: https://github.com/cratexnet/cratex-app/security/policy
+    about: Do not open a public Issue. Follow the private reporting instructions.
   - name: Join the CrateX.app Discord
     url: https://discord.gg/JWhE4TKsBN
     about: Ask quick questions, discuss workflows, and follow product updates.

@@ -156,6 +156,8 @@ Si vous rencontrez des problèmes ou avez des suggestions d'amélioration pendan
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+Ne signalez pas de vulnérabilités de sécurité dans des Issues publiques. Suivez notre [politique de sécurité](https://github.com/cratexnet/cratex-app/security/policy) pour les signaler en privé.
+
 ### Format de commentaires
 
 Pour mieux vous aider à résoudre les problèmes, veuillez soumettre des commentaires selon le format suivant :

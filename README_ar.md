@@ -156,6 +156,8 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+لا تنشر الثغرات الأمنية في Issues العامة. اتبع [سياسة الأمان](https://github.com/cratexnet/cratex-app/security/policy) للإبلاغ عنها بشكل خاص.
+
 ### تنسيق التغذية الراجعة
 
 لمساعدتكم بشكل أفضل في حل المشاكل، يرجى إرسال التغذية الراجعة وفقاً للتنسيق التالي:

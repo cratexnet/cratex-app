@@ -75,6 +75,9 @@ body:
         - Encoding & Conversion
         - Developer Tools
         - Image Tools
+        - PDF Tools
+        - Media Tools
+        - Game Tools
         - Not sure
     validations:
       required: true

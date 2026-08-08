@@ -156,6 +156,8 @@ Loop je tegen een bug aan of heb je ideeën voor verbeteringen? Maak dan een mel
 
 👉 [GitHub Issues](https://github.com/cratexnet/cratex-app/issues/new/choose)
 
+Meld beveiligingsproblemen niet in openbare Issues. Volg ons [beveiligingsbeleid](https://github.com/cratexnet/cratex-app/security/policy) om ze privé te melden.
+
 ### Feedbackformaat
 
 Om je beter te kunnen helpen, gebruik alsjeblieft het volgende format:

@@ -117,6 +117,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [M4A ke MP3](https://cratex.app/id/m4a-to-mp3)
 - [Pangkas Video](https://cratex.app/id/trim-video)
 - [Kompres Video](https://cratex.app/id/compress-video)
+- [Kompres Audio](https://cratex.app/id/audio-compressor)
 
 #### 🔄 [Enkode dan konversi](https://cratex.app/id/cat/encoding)
 

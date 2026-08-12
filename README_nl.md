@@ -117,6 +117,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [M4A naar MP3](https://cratex.app/nl/m4a-to-mp3)
 - [Video trimmen](https://cratex.app/nl/trim-video)
 - [Video comprimeren](https://cratex.app/nl/compress-video)
+- [Audio comprimeren](https://cratex.app/nl/audio-compressor)
 
 #### 🔄 [Codering en conversie](https://cratex.app/nl/cat/encoding)
 

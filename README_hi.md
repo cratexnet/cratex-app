@@ -117,6 +117,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [M4A से MP3](https://cratex.app/hi/m4a-to-mp3)
 - [वीडियो ट्रिम करें](https://cratex.app/hi/trim-video)
 - [वीडियो कंप्रेस करें](https://cratex.app/hi/compress-video)
+- [ऑडियो कंप्रेस करें](https://cratex.app/hi/audio-compressor)
 
 #### 🔄 [एनकोडिंग और कन्वर्ज़न](https://cratex.app/hi/cat/encoding)
 

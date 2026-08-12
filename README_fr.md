@@ -117,6 +117,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [M4A en MP3](https://cratex.app/fr/m4a-to-mp3)
 - [Rogner une vidéo](https://cratex.app/fr/trim-video)
 - [Compresser une vidéo](https://cratex.app/fr/compress-video)
+- [Compresser un audio](https://cratex.app/fr/audio-compressor)
 
 #### 🔄 [Encodage et conversion](https://cratex.app/fr/cat/encoding)
 

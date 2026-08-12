@@ -117,6 +117,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [M4A в MP3](https://cratex.app/ru/m4a-to-mp3)
 - [Обрезать видео](https://cratex.app/ru/trim-video)
 - [Сжать видео](https://cratex.app/ru/compress-video)
+- [Сжать аудио](https://cratex.app/ru/audio-compressor)
 
 #### 🔄 [Кодирование и преобразование](https://cratex.app/ru/cat/encoding)
 

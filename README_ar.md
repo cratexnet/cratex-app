@@ -117,6 +117,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [M4A إلى MP3](https://cratex.app/ar/m4a-to-mp3)
 - [قص الفيديو](https://cratex.app/ar/trim-video)
 - [ضغط الفيديو](https://cratex.app/ar/compress-video)
+- [ضغط الصوت](https://cratex.app/ar/audio-compressor)
 
 #### 🔄 [الترميز والتحويل](https://cratex.app/ar/cat/encoding)
 

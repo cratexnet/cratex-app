@@ -117,6 +117,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [M4A sang MP3](https://cratex.app/vi/m4a-to-mp3)
 - [Cắt video](https://cratex.app/vi/trim-video)
 - [Nén video](https://cratex.app/vi/compress-video)
+- [Nén âm thanh](https://cratex.app/vi/audio-compressor)
 
 #### 🔄 [Mã hóa và chuyển đổi](https://cratex.app/vi/cat/encoding)
 

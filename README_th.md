@@ -117,6 +117,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [M4A เป็น MP3](https://cratex.app/th/m4a-to-mp3)
 - [ตัดวิดีโอ](https://cratex.app/th/trim-video)
 - [บีบอัดวิดีโอ](https://cratex.app/th/compress-video)
+- [บีบอัดเสียง](https://cratex.app/th/audio-compressor)
 
 #### 🔄 [การเข้ารหัสและการแปลง](https://cratex.app/th/cat/encoding)
 

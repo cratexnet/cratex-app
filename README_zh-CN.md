@@ -117,6 +117,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [M4A 转 MP3](https://cratex.app/zh-CN/m4a-to-mp3)
 - [裁剪视频](https://cratex.app/zh-CN/trim-video)
 - [压缩视频](https://cratex.app/zh-CN/compress-video)
+- [压缩音频](https://cratex.app/zh-CN/audio-compressor)
 
 #### 🔄 [编码转换](https://cratex.app/zh-CN/cat/encoding)
 

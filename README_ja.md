@@ -117,6 +117,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [M4AをMP3に変換](https://cratex.app/ja/m4a-to-mp3)
 - [動画をトリミング](https://cratex.app/ja/trim-video)
 - [動画を圧縮](https://cratex.app/ja/compress-video)
+- [音声を圧縮](https://cratex.app/ja/audio-compressor)
 
 #### 🔄 [エンコード・変換](https://cratex.app/ja/cat/encoding)
 

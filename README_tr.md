@@ -117,6 +117,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [M4A MP3 dönüştürme](https://cratex.app/tr/m4a-to-mp3)
 - [Video Kırp](https://cratex.app/tr/trim-video)
 - [Video Sıkıştır](https://cratex.app/tr/compress-video)
+- [Ses Sıkıştır](https://cratex.app/tr/audio-compressor)
 
 #### 🔄 [Kodlama ve dönüştürme](https://cratex.app/tr/cat/encoding)
 

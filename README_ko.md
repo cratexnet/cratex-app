@@ -117,6 +117,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [M4A를 MP3로 변환](https://cratex.app/ko/m4a-to-mp3)
 - [동영상 자르기](https://cratex.app/ko/trim-video)
 - [동영상 압축](https://cratex.app/ko/compress-video)
+- [오디오 압축](https://cratex.app/ko/audio-compressor)
 
 #### 🔄 [인코딩/변환](https://cratex.app/ko/cat/encoding)
 

@@ -115,6 +115,8 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [오디오를 WAV로 변환](https://cratex.app/ko/audio-to-wav)
 - [동영상 프레임 추출](https://cratex.app/ko/video-frame-extractor)
 - [M4A를 MP3로 변환](https://cratex.app/ko/m4a-to-mp3)
+- [동영상 자르기](https://cratex.app/ko/trim-video)
+- [동영상 압축](https://cratex.app/ko/compress-video)
 
 #### 🔄 [인코딩/변환](https://cratex.app/ko/cat/encoding)
 
@@ -136,6 +138,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [JSON YAML 변환](https://cratex.app/ko/yaml-json-converter)
 - [JSON ↔ CSV 변환](https://cratex.app/ko/csv-json-converter)
 - [JWT 디코더](https://cratex.app/ko/jwt-decoder)
+- [JWT 서명 검증기](https://cratex.app/ko/jwt-verifier)
 - [정규식 테스트](https://cratex.app/ko/regex-tester)
 - [MIME 타입](https://cratex.app/ko/mime-type-lookup)
 - [HTTP 상태 코드](https://cratex.app/ko/http-status)

@@ -115,6 +115,8 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [音声をWAVに変換](https://cratex.app/ja/audio-to-wav)
 - [動画フレーム抽出](https://cratex.app/ja/video-frame-extractor)
 - [M4AをMP3に変換](https://cratex.app/ja/m4a-to-mp3)
+- [動画をトリミング](https://cratex.app/ja/trim-video)
+- [動画を圧縮](https://cratex.app/ja/compress-video)
 
 #### 🔄 [エンコード・変換](https://cratex.app/ja/cat/encoding)
 
@@ -136,6 +138,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [JSON YAML 変換](https://cratex.app/ja/yaml-json-converter)
 - [JSON ↔ CSV 変換](https://cratex.app/ja/csv-json-converter)
 - [JWT デコーダー](https://cratex.app/ja/jwt-decoder)
+- [JWT 署名検証](https://cratex.app/ja/jwt-verifier)
 - [正規表現テスト](https://cratex.app/ja/regex-tester)
 - [MIME タイプ](https://cratex.app/ja/mime-type-lookup)
 - [HTTP ステータスコード](https://cratex.app/ja/http-status)

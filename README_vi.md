@@ -115,6 +115,8 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Audio sang WAV](https://cratex.app/vi/audio-to-wav)
 - [Trích xuất khung hình video](https://cratex.app/vi/video-frame-extractor)
 - [M4A sang MP3](https://cratex.app/vi/m4a-to-mp3)
+- [Cắt video](https://cratex.app/vi/trim-video)
+- [Nén video](https://cratex.app/vi/compress-video)
 
 #### 🔄 [Mã hóa và chuyển đổi](https://cratex.app/vi/cat/encoding)
 
@@ -136,6 +138,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Bộ chuyển đổi JSON ↔ YAML](https://cratex.app/vi/yaml-json-converter)
 - [Bộ chuyển đổi JSON ↔ CSV](https://cratex.app/vi/csv-json-converter)
 - [Giải mã JWT](https://cratex.app/vi/jwt-decoder)
+- [Trình xác minh chữ ký JWT](https://cratex.app/vi/jwt-verifier)
 - [Kiểm tra Regex](https://cratex.app/vi/regex-tester)
 - [Loại MIME](https://cratex.app/vi/mime-type-lookup)
 - [Mã trạng thái HTTP](https://cratex.app/vi/http-status)

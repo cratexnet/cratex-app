@@ -115,6 +115,8 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Audio ke WAV](https://cratex.app/id/audio-to-wav)
 - [Ekstrak Frame Video](https://cratex.app/id/video-frame-extractor)
 - [M4A ke MP3](https://cratex.app/id/m4a-to-mp3)
+- [Pangkas Video](https://cratex.app/id/trim-video)
+- [Kompres Video](https://cratex.app/id/compress-video)
 
 #### 🔄 [Enkode dan konversi](https://cratex.app/id/cat/encoding)
 
@@ -136,6 +138,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Konverter JSON ↔ YAML](https://cratex.app/id/yaml-json-converter)
 - [Konverter JSON ↔ CSV](https://cratex.app/id/csv-json-converter)
 - [Decoder JWT](https://cratex.app/id/jwt-decoder)
+- [Verifikator Tanda Tangan JWT](https://cratex.app/id/jwt-verifier)
 - [Penguji Regex](https://cratex.app/id/regex-tester)
 - [Tipe MIME](https://cratex.app/id/mime-type-lookup)
 - [Kode Status HTTP](https://cratex.app/id/http-status)

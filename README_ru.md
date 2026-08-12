@@ -115,6 +115,8 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Аудио в WAV](https://cratex.app/ru/audio-to-wav)
 - [Извлечь кадр из видео](https://cratex.app/ru/video-frame-extractor)
 - [M4A в MP3](https://cratex.app/ru/m4a-to-mp3)
+- [Обрезать видео](https://cratex.app/ru/trim-video)
+- [Сжать видео](https://cratex.app/ru/compress-video)
 
 #### 🔄 [Кодирование и преобразование](https://cratex.app/ru/cat/encoding)
 
@@ -136,6 +138,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Конвертер JSON ↔ YAML](https://cratex.app/ru/yaml-json-converter)
 - [Конвертер JSON ↔ CSV](https://cratex.app/ru/csv-json-converter)
 - [Декодер JWT](https://cratex.app/ru/jwt-decoder)
+- [Проверка подписи JWT](https://cratex.app/ru/jwt-verifier)
 - [Проверка регулярных выражений](https://cratex.app/ru/regex-tester)
 - [MIME-тип](https://cratex.app/ru/mime-type-lookup)
 - [Коды статуса HTTP](https://cratex.app/ru/http-status)

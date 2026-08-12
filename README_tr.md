@@ -115,6 +115,8 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Sesi WAV'a dönüştür](https://cratex.app/tr/audio-to-wav)
 - [Videodan kare çıkar](https://cratex.app/tr/video-frame-extractor)
 - [M4A MP3 dönüştürme](https://cratex.app/tr/m4a-to-mp3)
+- [Video Kırp](https://cratex.app/tr/trim-video)
+- [Video Sıkıştır](https://cratex.app/tr/compress-video)
 
 #### 🔄 [Kodlama ve dönüştürme](https://cratex.app/tr/cat/encoding)
 
@@ -136,6 +138,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [JSON ↔ YAML Dönüştürücü](https://cratex.app/tr/yaml-json-converter)
 - [JSON ↔ CSV Dönüştürücü](https://cratex.app/tr/csv-json-converter)
 - [JWT Çözücü](https://cratex.app/tr/jwt-decoder)
+- [JWT İmza Doğrulayıcı](https://cratex.app/tr/jwt-verifier)
 - [Regex Testi](https://cratex.app/tr/regex-tester)
 - [MIME Türü](https://cratex.app/tr/mime-type-lookup)
 - [HTTP Durum Kodları](https://cratex.app/tr/http-status)

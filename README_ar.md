@@ -115,6 +115,8 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [تحويل الصوت إلى WAV](https://cratex.app/ar/audio-to-wav)
 - [استخراج إطار من الفيديو](https://cratex.app/ar/video-frame-extractor)
 - [M4A إلى MP3](https://cratex.app/ar/m4a-to-mp3)
+- [قص الفيديو](https://cratex.app/ar/trim-video)
+- [ضغط الفيديو](https://cratex.app/ar/compress-video)
 
 #### 🔄 [الترميز والتحويل](https://cratex.app/ar/cat/encoding)
 
@@ -136,6 +138,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [محول JSON ↔ YAML](https://cratex.app/ar/yaml-json-converter)
 - [محول JSON ↔ CSV](https://cratex.app/ar/csv-json-converter)
 - [فك ترميز JWT](https://cratex.app/ar/jwt-decoder)
+- [مدقق توقيع JWT](https://cratex.app/ar/jwt-verifier)
 - [اختبار التعبيرات النمطية](https://cratex.app/ar/regex-tester)
 - [نوع MIME](https://cratex.app/ar/mime-type-lookup)
 - [رموز حالة HTTP](https://cratex.app/ar/http-status)

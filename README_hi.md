@@ -115,6 +115,8 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [ऑडियो को WAV में बदलें](https://cratex.app/hi/audio-to-wav)
 - [वीडियो फ्रेम निकालें](https://cratex.app/hi/video-frame-extractor)
 - [M4A से MP3](https://cratex.app/hi/m4a-to-mp3)
+- [वीडियो ट्रिम करें](https://cratex.app/hi/trim-video)
+- [वीडियो कंप्रेस करें](https://cratex.app/hi/compress-video)
 
 #### 🔄 [एनकोडिंग और कन्वर्ज़न](https://cratex.app/hi/cat/encoding)
 
@@ -136,6 +138,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [JSON ↔ YAML कन्वर्टर](https://cratex.app/hi/yaml-json-converter)
 - [JSON ↔ CSV कन्वर्टर](https://cratex.app/hi/csv-json-converter)
 - [JWT डिकोडर](https://cratex.app/hi/jwt-decoder)
+- [JWT हस्ताक्षर सत्यापक](https://cratex.app/hi/jwt-verifier)
 - [रेगेक्स टेस्टर](https://cratex.app/hi/regex-tester)
 - [MIME टाइप](https://cratex.app/hi/mime-type-lookup)
 - [HTTP स्थिति कोड](https://cratex.app/hi/http-status)

@@ -115,6 +115,8 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 - [Áudio para WAV](https://cratex.app/pt/audio-to-wav)
 - [Extrair quadro de vídeo](https://cratex.app/pt/video-frame-extractor)
 - [M4A para MP3](https://cratex.app/pt/m4a-to-mp3)
+- [Aparar vídeo](https://cratex.app/pt/trim-video)
+- [Comprimir vídeo](https://cratex.app/pt/compress-video)
 
 #### 🔄 [Codificação e conversão](https://cratex.app/pt/cat/encoding)
 
@@ -136,6 +138,7 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 - [Conversor JSON ↔ YAML](https://cratex.app/pt/yaml-json-converter)
 - [Conversor JSON ↔ CSV](https://cratex.app/pt/csv-json-converter)
 - [Decodificador JWT](https://cratex.app/pt/jwt-decoder)
+- [Verificador de assinatura JWT](https://cratex.app/pt/jwt-verifier)
 - [Teste de expressões regulares](https://cratex.app/pt/regex-tester)
 - [Tipo MIME](https://cratex.app/pt/mime-type-lookup)
 - [Códigos de status HTTP](https://cratex.app/pt/http-status)

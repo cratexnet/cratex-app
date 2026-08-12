@@ -115,6 +115,8 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [แปลงเสียงเป็น WAV](https://cratex.app/th/audio-to-wav)
 - [ดึงเฟรมวิดีโอ](https://cratex.app/th/video-frame-extractor)
 - [M4A เป็น MP3](https://cratex.app/th/m4a-to-mp3)
+- [ตัดวิดีโอ](https://cratex.app/th/trim-video)
+- [บีบอัดวิดีโอ](https://cratex.app/th/compress-video)
 
 #### 🔄 [การเข้ารหัสและการแปลง](https://cratex.app/th/cat/encoding)
 
@@ -136,6 +138,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวแปลง JSON ↔ YAML](https://cratex.app/th/yaml-json-converter)
 - [ตัวแปลง JSON ↔ CSV](https://cratex.app/th/csv-json-converter)
 - [ตัวถอดรหัส JWT](https://cratex.app/th/jwt-decoder)
+- [เครื่องมือตรวจสอบลายเซ็น JWT](https://cratex.app/th/jwt-verifier)
 - [ทดสอบ Regex](https://cratex.app/th/regex-tester)
 - [ประเภท MIME](https://cratex.app/th/mime-type-lookup)
 - [รหัสสถานะ HTTP](https://cratex.app/th/http-status)

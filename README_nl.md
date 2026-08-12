@@ -115,6 +115,8 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Audio naar WAV](https://cratex.app/nl/audio-to-wav)
 - [Videoframe extraheren](https://cratex.app/nl/video-frame-extractor)
 - [M4A naar MP3](https://cratex.app/nl/m4a-to-mp3)
+- [Video trimmen](https://cratex.app/nl/trim-video)
+- [Video comprimeren](https://cratex.app/nl/compress-video)
 
 #### 🔄 [Codering en conversie](https://cratex.app/nl/cat/encoding)
 
@@ -136,6 +138,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [JSON ↔ YAML-converter](https://cratex.app/nl/yaml-json-converter)
 - [JSON ↔ CSV-converter](https://cratex.app/nl/csv-json-converter)
 - [JWT-decoder](https://cratex.app/nl/jwt-decoder)
+- [JWT-handtekeningverificatie](https://cratex.app/nl/jwt-verifier)
 - [Regex testen](https://cratex.app/nl/regex-tester)
 - [MIME-type](https://cratex.app/nl/mime-type-lookup)
 - [HTTP-statuscodes](https://cratex.app/nl/http-status)

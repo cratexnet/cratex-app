@@ -115,6 +115,8 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [音訊轉 WAV](https://cratex.app/zh-TW/audio-to-wav)
 - [影片幀擷取](https://cratex.app/zh-TW/video-frame-extractor)
 - [M4A 轉 MP3](https://cratex.app/zh-TW/m4a-to-mp3)
+- [裁剪影片](https://cratex.app/zh-TW/trim-video)
+- [壓縮影片](https://cratex.app/zh-TW/compress-video)
 
 #### 🔄 [編碼轉換](https://cratex.app/zh-TW/cat/encoding)
 
@@ -136,6 +138,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [JSON ↔ YAML 互轉](https://cratex.app/zh-TW/yaml-json-converter)
 - [JSON ↔ CSV 互轉](https://cratex.app/zh-TW/csv-json-converter)
 - [JWT 解碼](https://cratex.app/zh-TW/jwt-decoder)
+- [JWT 簽章驗證](https://cratex.app/zh-TW/jwt-verifier)
 - [正規表示式測試](https://cratex.app/zh-TW/regex-tester)
 - [MIME 類型](https://cratex.app/zh-TW/mime-type-lookup)
 - [HTTP 狀態碼](https://cratex.app/zh-TW/http-status)

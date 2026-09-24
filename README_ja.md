@@ -61,6 +61,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [日付計算機](https://cratex.app/ja/date-calculator)
 - [時間計算機](https://cratex.app/ja/time-duration-calculator)
 - [タイムスタンプ変換](https://cratex.app/ja/timestamp-converter)
+- [タイムゾーン変換](https://cratex.app/ja/time-zone-converter)
 - [世界時計](https://cratex.app/ja/world-clock)
 - [乱数生成](https://cratex.app/ja/random-number-generator)
 - [ランダム抽選](https://cratex.app/ja/random-picker)
@@ -147,6 +148,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [カラー変換](https://cratex.app/ja/color-converter)
 - [Lorem ジェネレーター](https://cratex.app/ja/lorem-generator)
 - [Cron 式パーサー](https://cratex.app/ja/cron-parser)
+- [Cron 式ジェネレーター](https://cratex.app/ja/cron-generator)
 
 #### 🎮 [ゲームツール](https://cratex.app/ja/cat/games)
 
@@ -239,7 +241,7 @@ GitHub の使用が不便な場合は、[support@cratex.app](mailto:support@crat
 
 追加してほしいツール、まだ使いにくい既存ツール、日常の作業で簡単にしたい小さなニーズがあれば、コミュニティでお知らせください。
 
-- [Discord に参加](https://discord.gg/JWhE4TKsBN)して、コミュニティでの相談、簡単な質問、製品アップデートを確認できます。
+- [Discord に参加](https://discord.gg/jxK47yvTJv)して、コミュニティでの相談、簡単な質問、製品アップデートを確認できます。
 - [X で CrateX.app をフォロー](https://x.com/cratexnet)して、リリースノートやお知らせを受け取れます。
 
 ## 🤝 私たちの約束

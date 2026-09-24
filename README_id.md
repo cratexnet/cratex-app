@@ -61,6 +61,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Kalkulator tanggal](https://cratex.app/id/date-calculator)
 - [Kalkulator durasi waktu](https://cratex.app/id/time-duration-calculator)
 - [Konverter Timestamp](https://cratex.app/id/timestamp-converter)
+- [Konverter Zona Waktu](https://cratex.app/id/time-zone-converter)
 - [Jam Dunia](https://cratex.app/id/world-clock)
 - [Generator angka acak](https://cratex.app/id/random-number-generator)
 - [Undian acak](https://cratex.app/id/random-picker)
@@ -147,6 +148,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Konverter Warna](https://cratex.app/id/color-converter)
 - [Generator Lorem Ipsum](https://cratex.app/id/lorem-generator)
 - [Parser Cron](https://cratex.app/id/cron-parser)
+- [Generator Ekspresi Cron](https://cratex.app/id/cron-generator)
 
 #### 🎮 [Alat game](https://cratex.app/id/cat/games)
 
@@ -239,7 +241,7 @@ Harap cantumkan jenis masalah dan berikan informasi detail dalam email.
 
 Jika ada alat yang ingin Anda tambahkan, alat yang masih kurang nyaman digunakan, atau kebutuhan kecil dalam alur kerja yang layak disederhanakan, beri tahu kami di komunitas.
 
-- [Bergabung dengan Discord kami](https://discord.gg/JWhE4TKsBN) untuk diskusi komunitas, pertanyaan singkat, dan pembaruan produk.
+- [Bergabung dengan Discord kami](https://discord.gg/jxK47yvTJv) untuk diskusi komunitas, pertanyaan singkat, dan pembaruan produk.
 - [Ikuti CrateX.app di X](https://x.com/cratexnet) untuk catatan rilis dan pengumuman.
 
 ## 🤝 Komitmen kami

@@ -61,6 +61,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [حاسبة التاريخ](https://cratex.app/ar/date-calculator)
 - [حاسبة مدة الوقت](https://cratex.app/ar/time-duration-calculator)
 - [محول الطابع الزمني](https://cratex.app/ar/timestamp-converter)
+- [محوّل المناطق الزمنية](https://cratex.app/ar/time-zone-converter)
 - [الساعة العالمية](https://cratex.app/ar/world-clock)
 - [مولد الأرقام العشوائية](https://cratex.app/ar/random-number-generator)
 - [سحب عشوائي](https://cratex.app/ar/random-picker)
@@ -147,6 +148,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [محول صيغ الألوان](https://cratex.app/ar/color-converter)
 - [مولد لوريم إيبسوم](https://cratex.app/ar/lorem-generator)
 - [محلل تعبيرات Cron](https://cratex.app/ar/cron-parser)
+- [منشئ تعبيرات Cron](https://cratex.app/ar/cron-generator)
 
 #### 🎮 [Game Tools](https://cratex.app/ar/cat/games)
 
@@ -239,7 +241,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 
 إذا كانت لديكم أداة ترغبون في إضافتها، أو أداة حالية ليست سلسة بما يكفي، أو حاجة صغيرة في سير العمل تستحق التبسيط، فأخبرونا في المجتمع.
 
-- [انضموا إلى Discord الخاص بنا](https://discord.gg/JWhE4TKsBN) للمناقشات المجتمعية والأسئلة السريعة وتحديثات المنتج.
+- [انضموا إلى Discord الخاص بنا](https://discord.gg/jxK47yvTJv) للمناقشات المجتمعية والأسئلة السريعة وتحديثات المنتج.
 - [تابعوا CrateX.app على X](https://x.com/cratexnet) للحصول على ملاحظات الإصدارات والإعلانات.
 
 ## 🤝 التزامنا

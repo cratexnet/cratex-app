@@ -61,6 +61,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [日期計算器](https://cratex.app/zh-TW/date-calculator)
 - [時間間隔計算器](https://cratex.app/zh-TW/time-duration-calculator)
 - [時間戳記轉換](https://cratex.app/zh-TW/timestamp-converter)
+- [時區轉換器](https://cratex.app/zh-TW/time-zone-converter)
 - [世界時鐘](https://cratex.app/zh-TW/world-clock)
 - [隨機數產生器](https://cratex.app/zh-TW/random-number-generator)
 - [隨機抽籤](https://cratex.app/zh-TW/random-picker)
@@ -147,6 +148,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [顏色格式轉換](https://cratex.app/zh-TW/color-converter)
 - [Lorem 產生器](https://cratex.app/zh-TW/lorem-generator)
 - [Cron 表達式解析](https://cratex.app/zh-TW/cron-parser)
+- [Cron 表達式產生器](https://cratex.app/zh-TW/cron-generator)
 
 #### 🎮 [遊戲工具](https://cratex.app/zh-TW/cat/games)
 
@@ -239,7 +241,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 
 如果您有想要新增的工具、覺得某個工具還不夠順手，或希望分享日常工作流程中的小需求，歡迎在社群裡告訴我們。
 
-- [加入我們的 Discord](https://discord.gg/JWhE4TKsBN)，參與社群討論、快速提問並取得產品動態。
+- [加入我們的 Discord](https://discord.gg/jxK47yvTJv)，參與社群討論、快速提問並取得產品動態。
 - [在 X 上關注 CrateX.app](https://x.com/cratexnet)，取得發布說明和公告。
 
 ## 🤝 我們的承諾

@@ -61,6 +61,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Калькулятор дат](https://cratex.app/ru/date-calculator)
 - [Калькулятор длительности](https://cratex.app/ru/time-duration-calculator)
 - [Конвертер временных меток](https://cratex.app/ru/timestamp-converter)
+- [Конвертер часовых поясов](https://cratex.app/ru/time-zone-converter)
 - [Мировые часы](https://cratex.app/ru/world-clock)
 - [Генератор случайных чисел](https://cratex.app/ru/random-number-generator)
 - [Случайный выбор](https://cratex.app/ru/random-picker)
@@ -147,6 +148,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Конвертер цветовых форматов](https://cratex.app/ru/color-converter)
 - [Генератор Lorem](https://cratex.app/ru/lorem-generator)
 - [Парсер выражений Cron](https://cratex.app/ru/cron-parser)
+- [Генератор выражений Cron](https://cratex.app/ru/cron-generator)
 
 #### 🎮 [Игровые инструменты](https://cratex.app/ru/cat/games)
 
@@ -239,7 +241,7 @@ CrateX.app — быстрая платформа браузерных инстр
 
 Если вам нужен новый инструмент, существующий инструмент пока недостаточно удобен, или есть небольшой рабочий сценарий, который можно упростить, расскажите нам об этом в сообществе.
 
-- [Присоединяйтесь к нашему Discord](https://discord.gg/JWhE4TKsBN) для обсуждений в сообществе, коротких вопросов и новостей продукта.
+- [Присоединяйтесь к нашему Discord](https://discord.gg/jxK47yvTJv) для обсуждений в сообществе, коротких вопросов и новостей продукта.
 - [Подписывайтесь на CrateX.app в X](https://x.com/cratexnet), чтобы получать заметки о релизах и объявления.
 
 ## 🤝 Наши обязательства

@@ -61,6 +61,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [तिथि कैलकुलेटर](https://cratex.app/hi/date-calculator)
 - [समय अवधि कैलकुलेटर](https://cratex.app/hi/time-duration-calculator)
 - [टाइमस्टैम्प परिवर्तक](https://cratex.app/hi/timestamp-converter)
+- [समय क्षेत्र परिवर्तक](https://cratex.app/hi/time-zone-converter)
 - [वर्ल्ड क्लॉक](https://cratex.app/hi/world-clock)
 - [रैंडम नंबर जनरेटर](https://cratex.app/hi/random-number-generator)
 - [यादृच्छिक चयन](https://cratex.app/hi/random-picker)
@@ -147,6 +148,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [रंग प्रारूप परिवर्तक](https://cratex.app/hi/color-converter)
 - [Lorem जनरेटर](https://cratex.app/hi/lorem-generator)
 - [Cron एक्सप्रेशन पार्सर](https://cratex.app/hi/cron-parser)
+- [Cron एक्सप्रेशन जेनरेटर](https://cratex.app/hi/cron-generator)
 
 #### 🎮 [Game Tools](https://cratex.app/hi/cat/games)
 
@@ -239,7 +241,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 
 यदि आप कोई नया टूल चाहते हैं, कोई मौजूदा टूल पर्याप्त सहज नहीं लगता, या आपके दैनिक कार्यप्रवाह की कोई छोटी जरूरत सरल की जा सकती है, तो समुदाय में हमें बताएं।
 
-- समुदाय चर्चा, छोटे सवालों और उत्पाद अपडेट के लिए [हमारे Discord से जुड़ें](https://discord.gg/JWhE4TKsBN)।
+- समुदाय चर्चा, छोटे सवालों और उत्पाद अपडेट के लिए [हमारे Discord से जुड़ें](https://discord.gg/jxK47yvTJv)।
 - रिलीज़ नोट्स और घोषणाओं के लिए [X पर CrateX.app को फ़ॉलो करें](https://x.com/cratexnet)।
 
 ## 🤝 हमारी प्रतिबद्धता

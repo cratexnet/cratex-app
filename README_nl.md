@@ -61,6 +61,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Datumcalculator](https://cratex.app/nl/date-calculator)
 - [Tijdsduurcalculator](https://cratex.app/nl/time-duration-calculator)
 - [Tijdstempelconverter](https://cratex.app/nl/timestamp-converter)
+- [Tijdzoneconverter](https://cratex.app/nl/time-zone-converter)
 - [Wereldklok](https://cratex.app/nl/world-clock)
 - [Willekeurige getallengenerator](https://cratex.app/nl/random-number-generator)
 - [Willekeurige trekking](https://cratex.app/nl/random-picker)
@@ -147,6 +148,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Kleurconverter](https://cratex.app/nl/color-converter)
 - [Lorem-generator](https://cratex.app/nl/lorem-generator)
 - [Cron-parser](https://cratex.app/nl/cron-parser)
+- [Cron-expressiegenerator](https://cratex.app/nl/cron-generator)
 
 #### 🎮 [Game Tools](https://cratex.app/nl/cat/games)
 
@@ -239,7 +241,7 @@ Vermeld het type probleem en geef gedetailleerde informatie in de e-mail.
 
 Als je een nieuwe tool mist, een bestaande tool nog niet prettig genoeg vindt, of een kleine behoefte in je workflow ziet die eenvoudiger kan, vertel het ons in de community.
 
-- [Word lid van onze Discord](https://discord.gg/JWhE4TKsBN) voor communitygesprekken, korte vragen en productupdates.
+- [Word lid van onze Discord](https://discord.gg/jxK47yvTJv) voor communitygesprekken, korte vragen en productupdates.
 - [Volg CrateX.app op X](https://x.com/cratexnet) voor release notes en aankondigingen.
 
 ## 🤝 Onze belofte

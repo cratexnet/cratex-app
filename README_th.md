@@ -61,6 +61,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [เครื่องคำนวณวันที่](https://cratex.app/th/date-calculator)
 - [เครื่องคำนวณระยะเวลา](https://cratex.app/th/time-duration-calculator)
 - [ตัวแปลงตราประทับเวลา](https://cratex.app/th/timestamp-converter)
+- [ตัวแปลงเขตเวลา](https://cratex.app/th/time-zone-converter)
 - [นาฬิกาโลก](https://cratex.app/th/world-clock)
 - [เครื่องสร้างตัวเลขสุ่ม](https://cratex.app/th/random-number-generator)
 - [สุ่มจับรายชื่อ](https://cratex.app/th/random-picker)
@@ -147,6 +148,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวแปลงสี](https://cratex.app/th/color-converter)
 - [เครื่องสร้างข้อความ Lorem](https://cratex.app/th/lorem-generator)
 - [ตัววิเคราะห์นิพจน์ Cron](https://cratex.app/th/cron-parser)
+- [เครื่องมือสร้างนิพจน์ Cron](https://cratex.app/th/cron-generator)
 
 #### 🎮 [เครื่องมือเกม](https://cratex.app/th/cat/games)
 
@@ -239,7 +241,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 
 หากมีเครื่องมือที่อยากให้เพิ่ม เครื่องมือเดิมที่ยังใช้งานไม่สะดวกพอ หรือความต้องการเล็ก ๆ ในขั้นตอนการทำงานที่ควรทำให้ง่ายขึ้น บอกเราได้ในชุมชน
 
-- [เข้าร่วม Discord ของเรา](https://discord.gg/JWhE4TKsBN) เพื่อพูดคุยในชุมชน ถามคำถามสั้น ๆ และติดตามข่าวสารผลิตภัณฑ์
+- [เข้าร่วม Discord ของเรา](https://discord.gg/jxK47yvTJv) เพื่อพูดคุยในชุมชน ถามคำถามสั้น ๆ และติดตามข่าวสารผลิตภัณฑ์
 - [ติดตาม CrateX.app บน X](https://x.com/cratexnet) เพื่อรับบันทึกการปล่อยเวอร์ชันและประกาศต่าง ๆ
 
 ## 🤝 คำมั่นสัญญาของเรา

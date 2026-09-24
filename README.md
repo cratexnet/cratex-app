@@ -61,6 +61,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Date Calculator](https://cratex.app/en/date-calculator)
 - [Time Duration Calculator](https://cratex.app/en/time-duration-calculator)
 - [Timestamp Converter](https://cratex.app/en/timestamp-converter)
+- [Time Zone Converter](https://cratex.app/en/time-zone-converter)
 - [World Clock](https://cratex.app/en/world-clock)
 - [Random Number Generator](https://cratex.app/en/random-number-generator)
 - [Random Picker](https://cratex.app/en/random-picker)
@@ -147,6 +148,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Color Converter](https://cratex.app/en/color-converter)
 - [Lorem Generator](https://cratex.app/en/lorem-generator)
 - [Cron Expression Parser](https://cratex.app/en/cron-parser)
+- [Cron Expression Generator](https://cratex.app/en/cron-generator)
 
 #### 🎮 [Game Tools](https://cratex.app/en/cat/games)
 
@@ -239,7 +241,7 @@ Please indicate the issue type and provide detailed information in the email.
 
 If you have a tool you want added, an existing tool that feels awkward, or a small workflow need worth simplifying, tell us in the community.
 
-- [Join our Discord](https://discord.gg/JWhE4TKsBN) for community discussions, quick questions, and product updates.
+- [Join our Discord](https://discord.gg/jxK47yvTJv) for community discussions, quick questions, and product updates.
 - [Follow CrateX.app on X](https://x.com/cratexnet) for release notes and announcements.
 
 ## 🤝 Our Commitment

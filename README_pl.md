@@ -61,6 +61,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Kalkulator dat](https://cratex.app/pl/date-calculator)
 - [Kalkulator czasu trwania](https://cratex.app/pl/time-duration-calculator)
 - [Konwerter znaczników czasu](https://cratex.app/pl/timestamp-converter)
+- [Konwerter stref czasowych](https://cratex.app/pl/time-zone-converter)
 - [Zegar światowy](https://cratex.app/pl/world-clock)
 - [Generator liczb losowych](https://cratex.app/pl/random-number-generator)
 - [Losowanie](https://cratex.app/pl/random-picker)
@@ -147,6 +148,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - [Konwerter kolorów](https://cratex.app/pl/color-converter)
 - [Generator Lorem Ipsum](https://cratex.app/pl/lorem-generator)
 - [Parser wyrażeń Cron](https://cratex.app/pl/cron-parser)
+- [Generator wyrażeń Cron](https://cratex.app/pl/cron-generator)
 
 #### 🎮 [Narzędzia do gier](https://cratex.app/pl/cat/games)
 
@@ -239,7 +241,7 @@ Podaj rodzaj problemu i szczegółowe informacje w e-mailu.
 
 Jeśli brakuje Ci nowego narzędzia, obecne narzędzie nie działa jeszcze wystarczająco wygodnie albo widzisz małą potrzebę w codziennym przepływie pracy, opowiedz nam o tym w społeczności.
 
-- [Dołącz do naszego Discorda](https://discord.gg/JWhE4TKsBN), aby brać udział w dyskusjach społeczności, zadawać krótkie pytania i śledzić aktualizacje produktu.
+- [Dołącz do naszego Discorda](https://discord.gg/jxK47yvTJv), aby brać udział w dyskusjach społeczności, zadawać krótkie pytania i śledzić aktualizacje produktu.
 - [Obserwuj CrateX.app na X](https://x.com/cratexnet), aby otrzymywać informacje o wydaniach i ogłoszenia.
 
 ## 🤝 Nasze zobowiązanie

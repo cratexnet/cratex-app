@@ -61,6 +61,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Máy tính ngày](https://cratex.app/vi/date-calculator)
 - [Máy tính thời lượng](https://cratex.app/vi/time-duration-calculator)
 - [Bộ chuyển đổi dấu thời gian](https://cratex.app/vi/timestamp-converter)
+- [Bộ chuyển đổi múi giờ](https://cratex.app/vi/time-zone-converter)
 - [Đồng hồ thế giới](https://cratex.app/vi/world-clock)
 - [Trình tạo số ngẫu nhiên](https://cratex.app/vi/random-number-generator)
 - [Bốc thăm ngẫu nhiên](https://cratex.app/vi/random-picker)
@@ -147,6 +148,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Bộ chuyển đổi màu](https://cratex.app/vi/color-converter)
 - [Trình tạo Lorem Ipsum](https://cratex.app/vi/lorem-generator)
 - [Trình phân tích biểu thức Cron](https://cratex.app/vi/cron-parser)
+- [Trình tạo biểu thức Cron](https://cratex.app/vi/cron-generator)
 
 #### 🎮 [Công cụ trò chơi](https://cratex.app/vi/cat/games)
 
@@ -239,7 +241,7 @@ Vui lòng nêu loại vấn đề và cung cấp thông tin chi tiết trong ema
 
 Nếu bạn muốn đề xuất công cụ mới, thấy công cụ hiện có chưa đủ thuận tiện, hoặc có một nhu cầu nhỏ trong quy trình hằng ngày đáng được đơn giản hóa, hãy chia sẻ với chúng tôi trong cộng đồng.
 
-- [Tham gia Discord của chúng tôi](https://discord.gg/JWhE4TKsBN) để thảo luận cộng đồng, đặt câu hỏi nhanh và theo dõi cập nhật sản phẩm.
+- [Tham gia Discord của chúng tôi](https://discord.gg/jxK47yvTJv) để thảo luận cộng đồng, đặt câu hỏi nhanh và theo dõi cập nhật sản phẩm.
 - [Theo dõi CrateX.app trên X](https://x.com/cratexnet) để nhận ghi chú phát hành và thông báo.
 
 ## 🤝 Cam kết của chúng tôi

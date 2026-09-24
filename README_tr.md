@@ -61,6 +61,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Tarih hesaplayıcı](https://cratex.app/tr/date-calculator)
 - [Süre hesaplayıcı](https://cratex.app/tr/time-duration-calculator)
 - [Zaman Damgası Dönüştürücü](https://cratex.app/tr/timestamp-converter)
+- [Saat Dilimi Dönüştürücü](https://cratex.app/tr/time-zone-converter)
 - [Dünya Saati](https://cratex.app/tr/world-clock)
 - [Rastgele sayı üreteci](https://cratex.app/tr/random-number-generator)
 - [Rastgele çekiliş](https://cratex.app/tr/random-picker)
@@ -147,6 +148,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Renk Dönüştürücü](https://cratex.app/tr/color-converter)
 - [Lorem Metin Üreteci](https://cratex.app/tr/lorem-generator)
 - [Cron İfadesi Ayrıştırıcı](https://cratex.app/tr/cron-parser)
+- [Cron İfadesi Oluşturucu](https://cratex.app/tr/cron-generator)
 
 #### 🎮 [Oyun Araçları](https://cratex.app/tr/cat/games)
 
@@ -239,7 +241,7 @@ E-postada sorun türünü belirtin ve ayrıntılı bilgi sağlayın.
 
 Eklenmesini istediğiniz bir araç, yeterince kullanışlı bulmadığınız mevcut bir araç ya da sadeleştirilebilecek küçük bir iş akışı ihtiyacı varsa, toplulukta bize anlatın.
 
-- Topluluk sohbetleri, kısa sorular ve ürün güncellemeleri için [Discord'umuza katılın](https://discord.gg/JWhE4TKsBN).
+- Topluluk sohbetleri, kısa sorular ve ürün güncellemeleri için [Discord'umuza katılın](https://discord.gg/jxK47yvTJv).
 - Sürüm notları ve duyurular için [CrateX.app'i X'te takip edin](https://x.com/cratexnet).
 
 ## 🤝 Taahhüdümüz

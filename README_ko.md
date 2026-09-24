@@ -61,6 +61,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [날짜 계산기](https://cratex.app/ko/date-calculator)
 - [시간 계산기](https://cratex.app/ko/time-duration-calculator)
 - [타임스탬프 변환기](https://cratex.app/ko/timestamp-converter)
+- [시간대 변환기](https://cratex.app/ko/time-zone-converter)
 - [세계 시계](https://cratex.app/ko/world-clock)
 - [난수 생성기](https://cratex.app/ko/random-number-generator)
 - [무작위 추첨](https://cratex.app/ko/random-picker)
@@ -147,6 +148,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [색상 변환기](https://cratex.app/ko/color-converter)
 - [Lorem 생성기](https://cratex.app/ko/lorem-generator)
 - [Cron 표현식 파서](https://cratex.app/ko/cron-parser)
+- [Cron 표현식 생성기](https://cratex.app/ko/cron-generator)
 
 #### 🎮 [게임 도구](https://cratex.app/ko/cat/games)
 
@@ -239,7 +241,7 @@ GitHub를 사용하기 불편하시면 [support@cratex.app](mailto:support@crate
 
 추가되었으면 하는 도구, 아직 사용하기 불편한 기존 도구, 더 단순해질 수 있는 일상 작업 흐름의 작은 필요가 있다면 커뮤니티에서 알려 주세요.
 
-- [Discord에 참여](https://discord.gg/JWhE4TKsBN)해 커뮤니티 토론, 간단한 질문, 제품 업데이트를 확인하세요.
+- [Discord에 참여](https://discord.gg/jxK47yvTJv)해 커뮤니티 토론, 간단한 질문, 제품 업데이트를 확인하세요.
 - [X에서 CrateX.app 팔로우](https://x.com/cratexnet)로 릴리스 노트와 공지를 받아보세요.
 
 ## 🤝 저희의 약속

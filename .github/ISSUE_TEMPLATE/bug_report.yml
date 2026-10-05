@@ -41,7 +41,7 @@ body:
     attributes:
       label: Tool or page
       description: Paste the CrateX.app URL or name the tool/page where the problem appears.
-      placeholder: https://cratex.app/en/json-formatter
+      placeholder: https://cratex.app/tools/json-formatter
     validations:
       required: true
   - type: textarea

@@ -41,7 +41,7 @@ body:
     attributes:
       label: Related tool or page
       description: Paste a CrateX.app URL or name the closest existing tool/page.
-      placeholder: https://cratex.app/en/image-compressor
+      placeholder: https://cratex.app/tools/image-compressor
     validations:
       required: false
   - type: textarea

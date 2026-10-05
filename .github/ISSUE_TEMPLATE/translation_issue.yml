@@ -40,7 +40,7 @@ body:
     attributes:
       label: Page or tool
       description: Paste the CrateX.app URL or name the page/tool.
-      placeholder: https://cratex.app/zh-CN/text-counter
+      placeholder: https://cratex.app/zh-hans/tools/text-counter
     validations:
       required: true
   - type: textarea

@@ -9,9 +9,11 @@
 - [Cookie ポリシー](https://cratex.app/ja/cookie-policy)
 - [利用規約](https://cratex.app/ja/terms)
 
+英語ページは `/en` のないルート URL を使用し、簡体字中国語と繁体字中国語はそれぞれ `/zh-hans` と `/zh-hant` を使用します。README の翻訳は、すべてのツールがその言語で公開されていることを意味しません。リンクは公開済みのページを指し、ツールの翻訳がない場合は英語ページを使用します。
+
 ## 🌍 言語
 
-[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | 日本語 | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [繁体中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | 日本語 | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## CrateX.app について
 

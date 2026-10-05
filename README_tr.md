@@ -9,9 +9,11 @@
 - [Çerez politikası](https://cratex.app/cookie-policy)
 - [Hizmet şartları](https://cratex.app/terms)
 
+İngilizce sayfalar `/en` içermeyen kök URL’yi kullanır; basitleştirilmiş ve geleneksel Çince `/zh-hans` ve `/zh-hant` kullanır. README çevirisi her aracın o dilde yayımlandığı anlamına gelmez: bağlantılar yayımlanmış sayfalara gider ve araç çevirisi yoksa İngilizce kullanılır.
+
 ## 🌍 Dil
 
-[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | Türkçe | [العربية](README_ar.md)
+[English](README.md) | [繁体中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | Türkçe | [العربية](README_ar.md)
 
 ## CrateX.app hakkında
 

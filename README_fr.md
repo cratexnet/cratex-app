@@ -9,9 +9,11 @@
 - [Politique de cookies](https://cratex.app/fr/cookie-policy)
 - [Conditions d'utilisation](https://cratex.app/fr/terms)
 
+Les pages anglaises utilisent la racine sans `/en` ; le chinois simplifié et traditionnel utilisent `/zh-hans` et `/zh-hant`. Un README traduit ne signifie pas que chaque outil est publié dans cette langue : les liens pointent vers des pages publiées et utilisent l’anglais lorsqu’une traduction de l’outil n’est pas disponible.
+
 ## 🌍 Langue
 
-[English](README.md) | [正體中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | Français | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
+[English](README.md) | [繁体中文](README_zh-TW.md) | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [ไทย](README_th.md) | [Bahasa Indonesia](README_id.md) | [Tiếng Việt](README_vi.md) | [हिन्दी](README_hi.md) | Français | [Deutsch](README_de.md) | [Español](README_es.md) | [Italiano](README_it.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Türkçe](README_tr.md) | [العربية](README_ar.md)
 
 ## À propos de CrateX.app
 

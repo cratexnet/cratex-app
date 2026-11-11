@@ -49,7 +49,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 
 ### 🛠️ 도구 카테고리 (지속적으로 추가/개선 중)
 
-#### 🛠️ [일상 도구](https://cratex.app/ko/cat/utils)
+#### 🛠️ [일상 도구](https://cratex.app/ko/categories/utils)
 
 - [비밀번호 생성기](https://cratex.app/ko/tools/password-generator)
 - [QR 코드 생성기](https://cratex.app/ko/tools/qr-generator)
@@ -68,7 +68,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [주사위 굴리기](https://cratex.app/ko/tools/dice-roller)
 - [동전 던지기](https://cratex.app/ko/tools/coin-flip)
 
-#### 📝 [텍스트 도구](https://cratex.app/ko/cat/text)
+#### 📝 [텍스트 도구](https://cratex.app/ko/categories/text)
 
 - [텍스트 카운터](https://cratex.app/ko/tools/text-counter)
 - [스마트 텍스트 클리너](https://cratex.app/ko/tools/text-formatter)
@@ -81,7 +81,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [슬러그 생성기](https://cratex.app/ko/tools/slug-generator)
 - [Markdown 변환기](https://cratex.app/ko/tools/markdown-converter)
 
-#### 🖼️ [이미지 도구](https://cratex.app/ko/cat/image)
+#### 🖼️ [이미지 도구](https://cratex.app/ko/categories/image)
 
 - [이미지 형식 변환기](https://cratex.app/ko/tools/image-converter)
 - [이미지 텍스트 추출](https://cratex.app/ko/tools/image-to-text)
@@ -95,7 +95,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [이미지 메타데이터 보기 및 정리](https://cratex.app/ko/tools/image-metadata-cleaner)
 - [이미지 개인정보 가리기](https://cratex.app/ko/tools/image-redactor)
 
-#### 📄 [PDF 도구](https://cratex.app/ko/cat/pdf)
+#### 📄 [PDF 도구](https://cratex.app/ko/categories/pdf)
 
 - [이미지를 PDF로 변환](https://cratex.app/ko/tools/image-to-pdf)
 - [PDF 병합](https://cratex.app/ko/tools/merge-pdf)
@@ -108,7 +108,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [PDF 이미지 변환](https://cratex.app/ko/tools/pdf-to-images)
 - [PDF 텍스트 변환](https://cratex.app/ko/tools/pdf-to-text)
 
-#### 🎬 [오디오 및 비디오 도구](https://cratex.app/ko/cat/media)
+#### 🎬 [오디오 및 비디오 도구](https://cratex.app/ko/categories/media)
 
 - [동영상에서 오디오 추출](https://cratex.app/ko/tools/extract-audio-from-video)
 - [동영상 음소거](https://cratex.app/ko/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [동영상 압축](https://cratex.app/ko/tools/compress-video)
 - [오디오 압축](https://cratex.app/ko/tools/audio-compressor)
 
-#### 💻 [개발자 도구](https://cratex.app/ko/cat/dev)
+#### 💻 [개발자 도구](https://cratex.app/ko/categories/dev)
 
 - [해시 생성 및 검증](https://cratex.app/ko/tools/hash-checksum)
 - [UUID 생성기](https://cratex.app/ko/tools/uuid-generator)
@@ -149,7 +149,7 @@ CrateX.app은 개발자, 디자이너, 크리에이터와 일상적인 워크플
 - [Cron 표현식 파서](https://cratex.app/ko/tools/cron-parser)
 - [Cron 표현식 생성기](https://cratex.app/ko/tools/cron-generator)
 
-#### 🎮 [게임 도우미](https://cratex.app/ko/cat/games)
+#### 🎮 [게임 도우미](https://cratex.app/ko/categories/games)
 
 - [Palworld 교배 계산기](https://cratex.app/games/palworld/breeding?lang=ko)
 

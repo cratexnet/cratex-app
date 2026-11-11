@@ -49,7 +49,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 
 ### 🛠️ Categorie di strumenti (in continuo miglioramento)
 
-#### 🛠️ [Strumenti quotidiani](https://cratex.app/it/cat/utils)
+#### 🛠️ [Strumenti quotidiani](https://cratex.app/it/categories/utils)
 
 - [Generatore di password](https://cratex.app/it/tools/password-generator)
 - [Generatore di codici QR](https://cratex.app/it/tools/qr-generator)
@@ -68,7 +68,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [Lancia dadi](https://cratex.app/it/tools/dice-roller)
 - [Lancio della moneta](https://cratex.app/it/tools/coin-flip)
 
-#### 📝 [Strumenti di testo](https://cratex.app/it/cat/text)
+#### 📝 [Strumenti di testo](https://cratex.app/it/categories/text)
 
 - [Contatore di testo](https://cratex.app/it/tools/text-counter)
 - [Formattatore di testo](https://cratex.app/it/tools/text-formatter)
@@ -81,7 +81,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [Generatore di slug](https://cratex.app/it/tools/slug-generator)
 - [Convertitore Markdown](https://cratex.app/it/tools/markdown-converter)
 
-#### 🖼️ [Immagini](https://cratex.app/it/cat/image)
+#### 🖼️ [Immagini](https://cratex.app/it/categories/image)
 
 - [Conversione formato immagine](https://cratex.app/it/tools/image-converter)
 - [Da immagine a testo](https://cratex.app/it/tools/image-to-text)
@@ -95,7 +95,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [Visualizza e rimuovi i metadati delle immagini](https://cratex.app/it/tools/image-metadata-cleaner)
 - [Oscuramento immagini](https://cratex.app/it/tools/image-redactor)
 
-#### 📄 [Strumenti PDF](https://cratex.app/it/cat/pdf)
+#### 📄 [Strumenti PDF](https://cratex.app/it/categories/pdf)
 
 - [Immagini in PDF](https://cratex.app/it/tools/image-to-pdf)
 - [Unisci PDF](https://cratex.app/it/tools/merge-pdf)
@@ -108,7 +108,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [PDF in immagini](https://cratex.app/it/tools/pdf-to-images)
 - [PDF in testo](https://cratex.app/it/tools/pdf-to-text)
 
-#### 🎬 [Strumenti audio e video](https://cratex.app/it/cat/media)
+#### 🎬 [Strumenti audio e video](https://cratex.app/it/categories/media)
 
 - [Estrai audio da video](https://cratex.app/it/tools/extract-audio-from-video)
 - [Silenziare video](https://cratex.app/it/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [Comprimi video](https://cratex.app/it/tools/compress-video)
 - [Comprimi audio](https://cratex.app/it/tools/audio-compressor)
 
-#### 💻 [Sviluppo](https://cratex.app/it/cat/dev)
+#### 💻 [Sviluppo](https://cratex.app/it/categories/dev)
 
 - [Generatore e verificatore di hash](https://cratex.app/it/tools/hash-checksum)
 - [Generatore UUID](https://cratex.app/it/tools/uuid-generator)
@@ -149,7 +149,7 @@ Il sito è ancora in rapido sviluppo. Nuovi strumenti verranno lanciati continua
 - [Analizzatore Cron](https://cratex.app/it/tools/cron-parser)
 - [Generatore di espressioni Cron](https://cratex.app/it/tools/cron-generator)
 
-#### 🎮 [Aiuti per i giochi](https://cratex.app/it/cat/games)
+#### 🎮 [Aiuti per i giochi](https://cratex.app/it/categories/games)
 
 - [Calcolatore di allevamento Palworld](https://cratex.app/games/palworld/breeding?lang=it)
 

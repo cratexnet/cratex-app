@@ -49,7 +49,7 @@ The website is still in rapid development. New tools will be launched continuous
 
 ### 🛠️ Tool Categories (Continuously Adding/Improving)
 
-#### 🛠️ [Everyday Tools](https://cratex.app/cat/utils)
+#### 🛠️ [Everyday Tools](https://cratex.app/categories/utils)
 
 - [Password Generator](https://cratex.app/tools/password-generator)
 - [QR Code Generator](https://cratex.app/tools/qr-generator)
@@ -68,7 +68,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Dice Roller](https://cratex.app/tools/dice-roller)
 - [Coin Flip](https://cratex.app/tools/coin-flip)
 
-#### 📝 [Text Tools](https://cratex.app/cat/text)
+#### 📝 [Text Tools](https://cratex.app/categories/text)
 
 - [Text Counter](https://cratex.app/tools/text-counter)
 - [Text Formatter](https://cratex.app/tools/text-formatter)
@@ -81,7 +81,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Slug Generator](https://cratex.app/tools/slug-generator)
 - [Markdown Converter](https://cratex.app/tools/markdown-converter)
 
-#### 🖼️ [Image Tools](https://cratex.app/cat/image)
+#### 🖼️ [Image Tools](https://cratex.app/categories/image)
 
 - [Image Format Converter](https://cratex.app/tools/image-converter)
 - [Image to Text](https://cratex.app/tools/image-to-text)
@@ -95,7 +95,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Image Metadata Cleaner](https://cratex.app/tools/image-metadata-cleaner)
 - [Image Redactor](https://cratex.app/tools/image-redactor)
 
-#### 📄 [PDF Tools](https://cratex.app/cat/pdf)
+#### 📄 [PDF Tools](https://cratex.app/categories/pdf)
 
 - [Image to PDF](https://cratex.app/tools/image-to-pdf)
 - [Merge PDF](https://cratex.app/tools/merge-pdf)
@@ -108,7 +108,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [PDF to Images](https://cratex.app/tools/pdf-to-images)
 - [PDF to Text](https://cratex.app/tools/pdf-to-text)
 
-#### 🎬 [Audio & Video Tools](https://cratex.app/cat/media)
+#### 🎬 [Audio & Video Tools](https://cratex.app/categories/media)
 
 - [Extract Audio from Video](https://cratex.app/tools/extract-audio-from-video)
 - [Mute Video](https://cratex.app/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Compress Video](https://cratex.app/tools/compress-video)
 - [Compress Audio](https://cratex.app/tools/audio-compressor)
 
-#### 💻 [Developer Tools](https://cratex.app/cat/dev)
+#### 💻 [Developer Tools](https://cratex.app/categories/dev)
 
 - [Hash Generator & Checker](https://cratex.app/tools/hash-checksum)
 - [UUID Generator](https://cratex.app/tools/uuid-generator)
@@ -149,7 +149,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Cron Expression Parser](https://cratex.app/tools/cron-parser)
 - [Cron Expression Generator](https://cratex.app/tools/cron-generator)
 
-#### 🎮 [Game Helpers](https://cratex.app/cat/games)
+#### 🎮 [Game Helpers](https://cratex.app/categories/games)
 
 - [Palworld Breeding Calculator](https://cratex.app/games/palworld/breeding?lang=en)
 

@@ -49,7 +49,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 
 ### 🛠️ Nhóm công cụ (được bổ sung và cải thiện liên tục)
 
-#### 🛠️ [Công cụ hằng ngày](https://cratex.app/vi/cat/utils)
+#### 🛠️ [Công cụ hằng ngày](https://cratex.app/vi/categories/utils)
 
 - [Trình tạo mật khẩu](https://cratex.app/vi/tools/password-generator)
 - [Trình tạo mã QR](https://cratex.app/vi/tools/qr-generator)
@@ -68,7 +68,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Tung xúc xắc](https://cratex.app/vi/tools/dice-roller)
 - [Tung đồng xu](https://cratex.app/vi/tools/coin-flip)
 
-#### 📝 [Công cụ văn bản](https://cratex.app/vi/cat/text)
+#### 📝 [Công cụ văn bản](https://cratex.app/vi/categories/text)
 
 - [Bộ đếm văn bản](https://cratex.app/vi/tools/text-counter)
 - [Trình định dạng văn bản](https://cratex.app/vi/tools/text-formatter)
@@ -81,7 +81,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Trình tạo slug](https://cratex.app/vi/tools/slug-generator)
 - [Bộ chuyển đổi Markdown](https://cratex.app/vi/tools/markdown-converter)
 
-#### 🖼️ [Công cụ hình ảnh](https://cratex.app/vi/cat/image)
+#### 🖼️ [Công cụ hình ảnh](https://cratex.app/vi/categories/image)
 
 - [Chuyển đổi định dạng ảnh](https://cratex.app/vi/tools/image-converter)
 - [Chuyển ảnh thành văn bản](https://cratex.app/vi/tools/image-to-text)
@@ -95,7 +95,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Xem và xóa metadata ảnh](https://cratex.app/vi/tools/image-metadata-cleaner)
 - [Che thông tin riêng tư trên ảnh](https://cratex.app/vi/tools/image-redactor)
 
-#### 📄 [Công cụ PDF](https://cratex.app/vi/cat/pdf)
+#### 📄 [Công cụ PDF](https://cratex.app/vi/categories/pdf)
 
 - [Ảnh sang PDF](https://cratex.app/vi/tools/image-to-pdf)
 - [Gộp PDF](https://cratex.app/vi/tools/merge-pdf)
@@ -108,7 +108,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [PDF sang ảnh](https://cratex.app/vi/tools/pdf-to-images)
 - [PDF sang văn bản](https://cratex.app/vi/tools/pdf-to-text)
 
-#### 🎬 [Công cụ âm thanh và video](https://cratex.app/vi/cat/media)
+#### 🎬 [Công cụ âm thanh và video](https://cratex.app/vi/categories/media)
 
 - [Tách âm thanh từ video](https://cratex.app/vi/tools/extract-audio-from-video)
 - [Tắt tiếng video](https://cratex.app/vi/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Nén video](https://cratex.app/vi/tools/compress-video)
 - [Nén âm thanh](https://cratex.app/vi/tools/audio-compressor)
 
-#### 💻 [Công cụ cho lập trình viên](https://cratex.app/vi/cat/dev)
+#### 💻 [Công cụ cho lập trình viên](https://cratex.app/vi/categories/dev)
 
 - [Tạo và kiểm tra Hash](https://cratex.app/vi/tools/hash-checksum)
 - [Trình tạo UUID](https://cratex.app/vi/tools/uuid-generator)
@@ -149,7 +149,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - [Trình phân tích biểu thức Cron](https://cratex.app/vi/tools/cron-parser)
 - [Trình tạo biểu thức Cron](https://cratex.app/vi/tools/cron-generator)
 
-#### 🎮 [Hỗ trợ trò chơi](https://cratex.app/vi/cat/games)
+#### 🎮 [Hỗ trợ trò chơi](https://cratex.app/vi/categories/games)
 
 - [Công cụ tính phối giống Palworld](https://cratex.app/games/palworld/breeding?lang=vi)
 

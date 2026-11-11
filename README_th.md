@@ -49,7 +49,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 
 ### 🛠️ หมวดหมู่เครื่องมือ (เพิ่ม/ปรับปรุงอย่างต่อเนื่อง)
 
-#### 🛠️ [เครื่องมือประจำวัน](https://cratex.app/th/cat/utils)
+#### 🛠️ [เครื่องมือประจำวัน](https://cratex.app/th/categories/utils)
 
 - [ตัวสร้างรหัสผ่าน](https://cratex.app/th/tools/password-generator)
 - [ตัวสร้างคิวอาร์โค้ด](https://cratex.app/th/tools/qr-generator)
@@ -68,7 +68,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ทอยลูกเต๋า](https://cratex.app/th/tools/dice-roller)
 - [โยนเหรียญ](https://cratex.app/th/tools/coin-flip)
 
-#### 📝 [เครื่องมือข้อความ](https://cratex.app/th/cat/text)
+#### 📝 [เครื่องมือข้อความ](https://cratex.app/th/categories/text)
 
 - [ตัวนับข้อความ](https://cratex.app/th/tools/text-counter)
 - [จัดรูปแบบข้อความ](https://cratex.app/th/tools/text-formatter)
@@ -81,7 +81,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวสร้าง slug](https://cratex.app/th/tools/slug-generator)
 - [ตัวแปลง Markdown](https://cratex.app/th/tools/markdown-converter)
 
-#### 🖼️ [เครื่องมือรูปภาพ](https://cratex.app/th/cat/image)
+#### 🖼️ [เครื่องมือรูปภาพ](https://cratex.app/th/categories/image)
 
 - [แปลงฟอร์แมตรูปภาพ](https://cratex.app/th/tools/image-converter)
 - [แปลงรูปภาพเป็นข้อความ](https://cratex.app/th/tools/image-to-text)
@@ -95,7 +95,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ดูและล้างข้อมูลเมตาของรูปภาพ](https://cratex.app/th/tools/image-metadata-cleaner)
 - [ปิดบังข้อมูลส่วนตัวบนรูปภาพ](https://cratex.app/th/tools/image-redactor)
 
-#### 📄 [เครื่องมือ PDF](https://cratex.app/th/cat/pdf)
+#### 📄 [เครื่องมือ PDF](https://cratex.app/th/categories/pdf)
 
 - [แปลงรูปภาพเป็น PDF](https://cratex.app/th/tools/image-to-pdf)
 - [รวม PDF](https://cratex.app/th/tools/merge-pdf)
@@ -108,7 +108,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/tools/pdf-to-images)
 - [PDF เป็นข้อความ](https://cratex.app/th/tools/pdf-to-text)
 
-#### 🎬 [เครื่องมือเสียงและวิดีโอ](https://cratex.app/th/cat/media)
+#### 🎬 [เครื่องมือเสียงและวิดีโอ](https://cratex.app/th/categories/media)
 
 - [แยกเสียงจากวิดีโอ](https://cratex.app/th/tools/extract-audio-from-video)
 - [ปิดเสียงวิดีโอ](https://cratex.app/th/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [บีบอัดวิดีโอ](https://cratex.app/th/tools/compress-video)
 - [บีบอัดเสียง](https://cratex.app/th/tools/audio-compressor)
 
-#### 💻 [เครื่องมือสำหรับนักพัฒนา](https://cratex.app/th/cat/dev)
+#### 💻 [เครื่องมือสำหรับนักพัฒนา](https://cratex.app/th/categories/dev)
 
 - [สร้างและตรวจสอบแฮช](https://cratex.app/th/tools/hash-checksum)
 - [ตัวสร้าง UUID](https://cratex.app/th/tools/uuid-generator)
@@ -149,7 +149,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัววิเคราะห์นิพจน์ Cron](https://cratex.app/th/tools/cron-parser)
 - [เครื่องมือสร้างนิพจน์ Cron](https://cratex.app/th/tools/cron-generator)
 
-#### 🎮 [ตัวช่วยเกม](https://cratex.app/th/cat/games)
+#### 🎮 [ตัวช่วยเกม](https://cratex.app/th/categories/games)
 
 - [เครื่องคำนวณการผสมพันธุ์ Palworld](https://cratex.app/games/palworld/breeding?lang=th)
 

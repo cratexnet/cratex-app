@@ -49,7 +49,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 
 ### 🛠️ 工具分类（持续添加/改进中）
 
-#### 🛠️ [日常工具](https://cratex.app/zh-hans/cat/utils)
+#### 🛠️ [日常工具](https://cratex.app/zh-hans/categories/utils)
 
 - [密码生成器](https://cratex.app/zh-hans/tools/password-generator)
 - [二维码生成器](https://cratex.app/zh-hans/tools/qr-generator)
@@ -68,7 +68,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [掷骰子](https://cratex.app/zh-hans/tools/dice-roller)
 - [抛硬币](https://cratex.app/zh-hans/tools/coin-flip)
 
-#### 📝 [文本工具](https://cratex.app/zh-hans/cat/text)
+#### 📝 [文本工具](https://cratex.app/zh-hans/categories/text)
 
 - [文本计数](https://cratex.app/zh-hans/tools/text-counter)
 - [文本格式化](https://cratex.app/zh-hans/tools/text-formatter)
@@ -81,7 +81,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [Slug 生成器](https://cratex.app/zh-hans/tools/slug-generator)
 - [Markdown 转换](https://cratex.app/zh-hans/tools/markdown-converter)
 
-#### 🖼️ [图片工具](https://cratex.app/zh-hans/cat/image)
+#### 🖼️ [图片工具](https://cratex.app/zh-hans/categories/image)
 
 - [图片格式转换](https://cratex.app/zh-hans/tools/image-converter)
 - [图片转文字](https://cratex.app/zh-hans/tools/image-to-text)
@@ -95,7 +95,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [图片元数据查看与清理](https://cratex.app/zh-hans/tools/image-metadata-cleaner)
 - [图片隐私打码](https://cratex.app/zh-hans/tools/image-redactor)
 
-#### 📄 [PDF 工具](https://cratex.app/zh-hans/cat/pdf)
+#### 📄 [PDF 工具](https://cratex.app/zh-hans/categories/pdf)
 
 - [图片转 PDF](https://cratex.app/zh-hans/tools/image-to-pdf)
 - [PDF 合并](https://cratex.app/zh-hans/tools/merge-pdf)
@@ -108,7 +108,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [PDF 转图片](https://cratex.app/zh-hans/tools/pdf-to-images)
 - [PDF 转文本](https://cratex.app/zh-hans/tools/pdf-to-text)
 
-#### 🎬 [音视频工具](https://cratex.app/zh-hans/cat/media)
+#### 🎬 [音视频工具](https://cratex.app/zh-hans/categories/media)
 
 - [从视频提取音频](https://cratex.app/zh-hans/tools/extract-audio-from-video)
 - [移除视频声音](https://cratex.app/zh-hans/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [压缩视频](https://cratex.app/zh-hans/tools/compress-video)
 - [压缩音频](https://cratex.app/zh-hans/tools/audio-compressor)
 
-#### 💻 [开发工具](https://cratex.app/zh-hans/cat/dev)
+#### 💻 [开发工具](https://cratex.app/zh-hans/categories/dev)
 
 - [哈希生成与校验](https://cratex.app/zh-hans/tools/hash-checksum)
 - [UUID 生成器](https://cratex.app/zh-hans/tools/uuid-generator)
@@ -149,7 +149,7 @@ CrateX.app 是一个快速的浏览器端工具平台，面向开发者、设计
 - [Cron 表达式解析](https://cratex.app/zh-hans/tools/cron-parser)
 - [Cron 表达式生成器](https://cratex.app/zh-hans/tools/cron-generator)
 
-#### 🎮 [游戏辅助](https://cratex.app/zh-hans/cat/games)
+#### 🎮 [游戏辅助](https://cratex.app/zh-hans/categories/games)
 
 - [幻兽帕鲁配种计算器](https://cratex.app/games/palworld/breeding?lang=zh-hans)
 

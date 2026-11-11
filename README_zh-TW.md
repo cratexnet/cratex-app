@@ -49,7 +49,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 
 ### 🛠️ 工具分類（持續新增/改進中）
 
-#### 🛠️ [日常工具](https://cratex.app/zh-hant/cat/utils)
+#### 🛠️ [日常工具](https://cratex.app/zh-hant/categories/utils)
 
 - [密碼產生器](https://cratex.app/zh-hant/tools/password-generator)
 - [QR Code 產生器](https://cratex.app/zh-hant/tools/qr-generator)
@@ -68,7 +68,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [擲骰子](https://cratex.app/zh-hant/tools/dice-roller)
 - [拋硬幣](https://cratex.app/zh-hant/tools/coin-flip)
 
-#### 📝 [文字工具](https://cratex.app/zh-hant/cat/text)
+#### 📝 [文字工具](https://cratex.app/zh-hant/categories/text)
 
 - [文字計數](https://cratex.app/zh-hant/tools/text-counter)
 - [文字格式化](https://cratex.app/zh-hant/tools/text-formatter)
@@ -81,7 +81,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [Slug 產生器](https://cratex.app/zh-hant/tools/slug-generator)
 - [Markdown 轉換](https://cratex.app/zh-hant/tools/markdown-converter)
 
-#### 🖼️ [圖片工具](https://cratex.app/zh-hant/cat/image)
+#### 🖼️ [圖片工具](https://cratex.app/zh-hant/categories/image)
 
 - [圖片格式轉換](https://cratex.app/zh-hant/tools/image-converter)
 - [圖片轉文字](https://cratex.app/zh-hant/tools/image-to-text)
@@ -95,7 +95,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [圖片中繼資料查看與清理](https://cratex.app/zh-hant/tools/image-metadata-cleaner)
 - [圖片隱私打碼](https://cratex.app/zh-hant/tools/image-redactor)
 
-#### 📄 [PDF 工具](https://cratex.app/zh-hant/cat/pdf)
+#### 📄 [PDF 工具](https://cratex.app/zh-hant/categories/pdf)
 
 - [圖片轉 PDF](https://cratex.app/zh-hant/tools/image-to-pdf)
 - [PDF 合併](https://cratex.app/zh-hant/tools/merge-pdf)
@@ -108,7 +108,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [PDF 轉圖片](https://cratex.app/zh-hant/tools/pdf-to-images)
 - [PDF 轉文字](https://cratex.app/zh-hant/tools/pdf-to-text)
 
-#### 🎬 [音訊與影片工具](https://cratex.app/zh-hant/cat/media)
+#### 🎬 [音訊與影片工具](https://cratex.app/zh-hant/categories/media)
 
 - [從影片提取音訊](https://cratex.app/zh-hant/tools/extract-audio-from-video)
 - [移除影片聲音](https://cratex.app/zh-hant/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [壓縮影片](https://cratex.app/zh-hant/tools/compress-video)
 - [壓縮音訊](https://cratex.app/zh-hant/tools/audio-compressor)
 
-#### 💻 [開發工具](https://cratex.app/zh-hant/cat/dev)
+#### 💻 [開發工具](https://cratex.app/zh-hant/categories/dev)
 
 - [雜湊產生與校驗](https://cratex.app/zh-hant/tools/hash-checksum)
 - [UUID 產生器](https://cratex.app/zh-hant/tools/uuid-generator)
@@ -149,7 +149,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - [Cron 表達式解析](https://cratex.app/zh-hant/tools/cron-parser)
 - [Cron 表達式產生器](https://cratex.app/zh-hant/tools/cron-generator)
 
-#### 🎮 [遊戲輔助](https://cratex.app/zh-hant/cat/games)
+#### 🎮 [遊戲輔助](https://cratex.app/zh-hant/categories/games)
 
 - [幻獸帕魯配種計算器](https://cratex.app/games/palworld/breeding?lang=zh-hant)
 

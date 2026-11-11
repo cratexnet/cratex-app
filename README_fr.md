@@ -49,7 +49,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 
 ### 🛠️ Catégories d'outils (Ajout/Amélioration continus)
 
-#### 🛠️ [Outils du quotidien](https://cratex.app/fr/cat/utils)
+#### 🛠️ [Outils du quotidien](https://cratex.app/fr/categories/utils)
 
 - [Générateur de mots de passe](https://cratex.app/fr/tools/password-generator)
 - [Générateur de QR code](https://cratex.app/fr/tools/qr-generator)
@@ -68,7 +68,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Lancer de dés](https://cratex.app/fr/tools/dice-roller)
 - [Pile ou face](https://cratex.app/fr/tools/coin-flip)
 
-#### 📝 [Outils de texte](https://cratex.app/fr/cat/text)
+#### 📝 [Outils de texte](https://cratex.app/fr/categories/text)
 
 - [Compteur de Texte](https://cratex.app/fr/tools/text-counter)
 - [Formateur de texte](https://cratex.app/fr/tools/text-formatter)
@@ -81,7 +81,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Générateur de slug](https://cratex.app/fr/tools/slug-generator)
 - [Convertisseur Markdown](https://cratex.app/fr/tools/markdown-converter)
 
-#### 🖼️ [Outils d'image](https://cratex.app/fr/cat/image)
+#### 🖼️ [Outils d'image](https://cratex.app/fr/categories/image)
 
 - [Convertisseur de formats d’image](https://cratex.app/fr/tools/image-converter)
 - [Image en texte](https://cratex.app/fr/tools/image-to-text)
@@ -95,7 +95,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Voir et supprimer les métadonnées d'image](https://cratex.app/fr/tools/image-metadata-cleaner)
 - [Caviardage d’images](https://cratex.app/fr/tools/image-redactor)
 
-#### 📄 [Outils PDF](https://cratex.app/fr/cat/pdf)
+#### 📄 [Outils PDF](https://cratex.app/fr/categories/pdf)
 
 - [Images en PDF](https://cratex.app/fr/tools/image-to-pdf)
 - [Fusionner des PDF](https://cratex.app/fr/tools/merge-pdf)
@@ -108,7 +108,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [PDF en images](https://cratex.app/fr/tools/pdf-to-images)
 - [PDF en texte](https://cratex.app/fr/tools/pdf-to-text)
 
-#### 🎬 [Outils audio et vidéo](https://cratex.app/fr/cat/media)
+#### 🎬 [Outils audio et vidéo](https://cratex.app/fr/categories/media)
 
 - [Extraire l’audio d’une vidéo](https://cratex.app/fr/tools/extract-audio-from-video)
 - [Couper le son vidéo](https://cratex.app/fr/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Compresser une vidéo](https://cratex.app/fr/tools/compress-video)
 - [Compresser un audio](https://cratex.app/fr/tools/audio-compressor)
 
-#### 💻 [Développement](https://cratex.app/fr/cat/dev)
+#### 💻 [Développement](https://cratex.app/fr/categories/dev)
 
 - [Générateur et vérificateur de hash](https://cratex.app/fr/tools/hash-checksum)
 - [Générateur UUID](https://cratex.app/fr/tools/uuid-generator)
@@ -149,7 +149,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Analyseur d'expressions Cron](https://cratex.app/fr/tools/cron-parser)
 - [Générateur d’expressions Cron](https://cratex.app/fr/tools/cron-generator)
 
-#### 🎮 [Aides de jeu](https://cratex.app/fr/cat/games)
+#### 🎮 [Aides de jeu](https://cratex.app/fr/categories/games)
 
 - [Calculateur d'élevage Palworld](https://cratex.app/games/palworld/breeding?lang=fr)
 

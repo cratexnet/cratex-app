@@ -49,7 +49,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 
 ### 🛠️ Kategori alat (terus ditambah dan ditingkatkan)
 
-#### 🛠️ [Alat sehari-hari](https://cratex.app/id/cat/utils)
+#### 🛠️ [Alat sehari-hari](https://cratex.app/id/categories/utils)
 
 - [Generator Kata Sandi](https://cratex.app/id/tools/password-generator)
 - [Generator Kode QR](https://cratex.app/id/tools/qr-generator)
@@ -68,7 +68,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Lempar dadu](https://cratex.app/id/tools/dice-roller)
 - [Lempar koin](https://cratex.app/id/tools/coin-flip)
 
-#### 📝 [Alat teks](https://cratex.app/id/cat/text)
+#### 📝 [Alat teks](https://cratex.app/id/categories/text)
 
 - [Penghitung Teks](https://cratex.app/id/tools/text-counter)
 - [Pemformat Teks](https://cratex.app/id/tools/text-formatter)
@@ -81,7 +81,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Generator Slug](https://cratex.app/id/tools/slug-generator)
 - [Konverter Markdown](https://cratex.app/id/tools/markdown-converter)
 
-#### 🖼️ [Alat Gambar](https://cratex.app/id/cat/image)
+#### 🖼️ [Alat Gambar](https://cratex.app/id/categories/image)
 
 - [Konversi Format Gambar](https://cratex.app/id/tools/image-converter)
 - [Gambar ke Teks](https://cratex.app/id/tools/image-to-text)
@@ -95,7 +95,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Pembersih Metadata Gambar Lokal](https://cratex.app/id/tools/image-metadata-cleaner)
 - [Penyamaran Privasi Gambar](https://cratex.app/id/tools/image-redactor)
 
-#### 📄 [Alat PDF](https://cratex.app/id/cat/pdf)
+#### 📄 [Alat PDF](https://cratex.app/id/categories/pdf)
 
 - [Gambar ke PDF](https://cratex.app/id/tools/image-to-pdf)
 - [Gabungkan PDF](https://cratex.app/id/tools/merge-pdf)
@@ -108,7 +108,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [PDF ke gambar](https://cratex.app/id/tools/pdf-to-images)
 - [PDF ke teks](https://cratex.app/id/tools/pdf-to-text)
 
-#### 🎬 [Alat audio dan video](https://cratex.app/id/cat/media)
+#### 🎬 [Alat audio dan video](https://cratex.app/id/categories/media)
 
 - [Ekstrak Audio dari Video](https://cratex.app/id/tools/extract-audio-from-video)
 - [Bisukan Video](https://cratex.app/id/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Kompres Video](https://cratex.app/id/tools/compress-video)
 - [Kompres Audio](https://cratex.app/id/tools/audio-compressor)
 
-#### 💻 [Alat Pengembang](https://cratex.app/id/cat/dev)
+#### 💻 [Alat Pengembang](https://cratex.app/id/categories/dev)
 
 - [Pembuat dan Pemeriksa Hash](https://cratex.app/id/tools/hash-checksum)
 - [Generator UUID](https://cratex.app/id/tools/uuid-generator)
@@ -149,7 +149,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Parser Cron](https://cratex.app/id/tools/cron-parser)
 - [Generator Ekspresi Cron](https://cratex.app/id/tools/cron-generator)
 
-#### 🎮 [Pembantu game](https://cratex.app/id/cat/games)
+#### 🎮 [Pembantu game](https://cratex.app/id/categories/games)
 
 - [Kalkulator Pembiakan Palworld](https://cratex.app/games/palworld/breeding?lang=id)
 

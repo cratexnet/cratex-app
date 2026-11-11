@@ -49,7 +49,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 
 ### 🛠️ Toolcategorieën (worden continu uitgebreid en verbeterd)
 
-#### 🛠️ [Dagelijkse tools](https://cratex.app/nl/cat/utils)
+#### 🛠️ [Dagelijkse tools](https://cratex.app/nl/categories/utils)
 
 - [Wachtwoordgenerator](https://cratex.app/nl/tools/password-generator)
 - [QR-codegenerator](https://cratex.app/nl/tools/qr-generator)
@@ -68,7 +68,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Dobbelstenen rollen](https://cratex.app/nl/tools/dice-roller)
 - [Munt opgooien](https://cratex.app/nl/tools/coin-flip)
 
-#### 📝 [Teksttools](https://cratex.app/nl/cat/text)
+#### 📝 [Teksttools](https://cratex.app/nl/categories/text)
 
 - [Tekstteller](https://cratex.app/nl/tools/text-counter)
 - [Tekstformatter](https://cratex.app/nl/tools/text-formatter)
@@ -81,7 +81,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Slug-generator](https://cratex.app/nl/tools/slug-generator)
 - [Markdown-converter](https://cratex.app/nl/tools/markdown-converter)
 
-#### 🖼️ [Afbeeldingstools](https://cratex.app/nl/cat/image)
+#### 🖼️ [Afbeeldingstools](https://cratex.app/nl/categories/image)
 
 - [Afbeeldingsformaat converteren](https://cratex.app/nl/tools/image-converter)
 - [Afbeelding naar tekst](https://cratex.app/nl/tools/image-to-text)
@@ -95,7 +95,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Afbeelding Metadata Reiniger](https://cratex.app/nl/tools/image-metadata-cleaner)
 - [Afbeeldingen maskeren](https://cratex.app/nl/tools/image-redactor)
 
-#### 📄 [PDF-tools](https://cratex.app/nl/cat/pdf)
+#### 📄 [PDF-tools](https://cratex.app/nl/categories/pdf)
 
 - [Afbeeldingen naar PDF](https://cratex.app/nl/tools/image-to-pdf)
 - [PDF samenvoegen](https://cratex.app/nl/tools/merge-pdf)
@@ -108,7 +108,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [PDF naar afbeeldingen](https://cratex.app/nl/tools/pdf-to-images)
 - [PDF naar tekst](https://cratex.app/nl/tools/pdf-to-text)
 
-#### 🎬 [Audio- en videotools](https://cratex.app/nl/cat/media)
+#### 🎬 [Audio- en videotools](https://cratex.app/nl/categories/media)
 
 - [Audio uit video halen](https://cratex.app/nl/tools/extract-audio-from-video)
 - [Video dempen](https://cratex.app/nl/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Video comprimeren](https://cratex.app/nl/tools/compress-video)
 - [Audio comprimeren](https://cratex.app/nl/tools/audio-compressor)
 
-#### 💻 [Ontwikkeltools](https://cratex.app/nl/cat/dev)
+#### 💻 [Ontwikkeltools](https://cratex.app/nl/categories/dev)
 
 - [Hashgenerator en hashchecker](https://cratex.app/nl/tools/hash-checksum)
 - [UUID-generator](https://cratex.app/nl/tools/uuid-generator)
@@ -149,7 +149,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Cron-parser](https://cratex.app/nl/tools/cron-parser)
 - [Cron-expressiegenerator](https://cratex.app/nl/tools/cron-generator)
 
-#### 🎮 [Gamehulpen](https://cratex.app/nl/cat/games)
+#### 🎮 [Gamehulpen](https://cratex.app/nl/categories/games)
 
 - [Palworld-fokcalculator](https://cratex.app/games/palworld/breeding?lang=en)
 

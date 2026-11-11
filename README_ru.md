@@ -49,7 +49,7 @@ CrateX.app — быстрая платформа браузерных инстр
 
 ### 🛠️ Категории инструментов (Постоянное добавление/улучшение)
 
-#### 🛠️ [Повседневные инструменты](https://cratex.app/ru/cat/utils)
+#### 🛠️ [Повседневные инструменты](https://cratex.app/ru/categories/utils)
 
 - [Генератор паролей](https://cratex.app/ru/tools/password-generator)
 - [Генератор QR-кодов](https://cratex.app/ru/tools/qr-generator)
@@ -68,7 +68,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Бросить кости](https://cratex.app/ru/tools/dice-roller)
 - [Подбросить монету](https://cratex.app/ru/tools/coin-flip)
 
-#### 📝 [Инструменты для текста](https://cratex.app/ru/cat/text)
+#### 📝 [Инструменты для текста](https://cratex.app/ru/categories/text)
 
 - [Счётчик текста](https://cratex.app/ru/tools/text-counter)
 - [Форматирование текста](https://cratex.app/ru/tools/text-formatter)
@@ -81,7 +81,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Генератор slug](https://cratex.app/ru/tools/slug-generator)
 - [Конвертер Markdown](https://cratex.app/ru/tools/markdown-converter)
 
-#### 🖼️ [Инструменты изображений](https://cratex.app/ru/cat/image)
+#### 🖼️ [Инструменты изображений](https://cratex.app/ru/categories/image)
 
 - [конвертер форматов изображений](https://cratex.app/ru/tools/image-converter)
 - [Текст с изображения](https://cratex.app/ru/tools/image-to-text)
@@ -95,7 +95,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Просмотр и очистка метаданных изображений](https://cratex.app/ru/tools/image-metadata-cleaner)
 - [Скрытие приватных данных на изображениях](https://cratex.app/ru/tools/image-redactor)
 
-#### 📄 [Инструменты PDF](https://cratex.app/ru/cat/pdf)
+#### 📄 [Инструменты PDF](https://cratex.app/ru/categories/pdf)
 
 - [Изображения в PDF](https://cratex.app/ru/tools/image-to-pdf)
 - [Объединить PDF](https://cratex.app/ru/tools/merge-pdf)
@@ -108,7 +108,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [PDF в изображения](https://cratex.app/ru/tools/pdf-to-images)
 - [PDF в текст](https://cratex.app/ru/tools/pdf-to-text)
 
-#### 🎬 [Инструменты для аудио и видео](https://cratex.app/ru/cat/media)
+#### 🎬 [Инструменты для аудио и видео](https://cratex.app/ru/categories/media)
 
 - [Извлечь аудио из видео](https://cratex.app/ru/tools/extract-audio-from-video)
 - [Отключить звук видео](https://cratex.app/ru/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Сжать видео](https://cratex.app/ru/tools/compress-video)
 - [Сжать аудио](https://cratex.app/ru/tools/audio-compressor)
 
-#### 💻 [Инструменты разработчика](https://cratex.app/ru/cat/dev)
+#### 💻 [Инструменты разработчика](https://cratex.app/ru/categories/dev)
 
 - [Генератор и проверка хэша](https://cratex.app/ru/tools/hash-checksum)
 - [Генератор UUID](https://cratex.app/ru/tools/uuid-generator)
@@ -149,7 +149,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Парсер выражений Cron](https://cratex.app/ru/tools/cron-parser)
 - [Генератор выражений Cron](https://cratex.app/ru/tools/cron-generator)
 
-#### 🎮 [Помощники для игр](https://cratex.app/ru/cat/games)
+#### 🎮 [Помощники для игр](https://cratex.app/ru/categories/games)
 
 - [Калькулятор разведения Palworld](https://cratex.app/games/palworld/breeding?lang=ru)
 

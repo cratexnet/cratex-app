@@ -49,7 +49,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 
 ### 🛠️ ツールカテゴリー（継続的に追加/改善中）
 
-#### 🛠️ [日常ツール](https://cratex.app/ja/cat/utils)
+#### 🛠️ [日常ツール](https://cratex.app/ja/categories/utils)
 
 - [パスワードジェネレーター](https://cratex.app/ja/tools/password-generator)
 - [QR コードジェネレーター](https://cratex.app/ja/tools/qr-generator)
@@ -68,7 +68,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [サイコロを振る](https://cratex.app/ja/tools/dice-roller)
 - [コイントス](https://cratex.app/ja/tools/coin-flip)
 
-#### 📝 [テキストツール](https://cratex.app/ja/cat/text)
+#### 📝 [テキストツール](https://cratex.app/ja/categories/text)
 
 - [テキストカウンター](https://cratex.app/ja/tools/text-counter)
 - [スマートテキストクリーナー](https://cratex.app/ja/tools/text-formatter)
@@ -81,7 +81,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [スラッグ生成ツール](https://cratex.app/ja/tools/slug-generator)
 - [Markdown 変換](https://cratex.app/ja/tools/markdown-converter)
 
-#### 🖼️ [画像ツール](https://cratex.app/ja/cat/image)
+#### 🖼️ [画像ツール](https://cratex.app/ja/categories/image)
 
 - [画像形式コンバーター](https://cratex.app/ja/tools/image-converter)
 - [画像テキスト化](https://cratex.app/ja/tools/image-to-text)
@@ -95,7 +95,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [画像メタデータ閲覧と削除](https://cratex.app/ja/tools/image-metadata-cleaner)
 - [画像プライバシーマスキング](https://cratex.app/ja/tools/image-redactor)
 
-#### 📄 [PDFツール](https://cratex.app/ja/cat/pdf)
+#### 📄 [PDFツール](https://cratex.app/ja/categories/pdf)
 
 - [画像をPDFに変換](https://cratex.app/ja/tools/image-to-pdf)
 - [PDFを結合](https://cratex.app/ja/tools/merge-pdf)
@@ -108,7 +108,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [PDFを画像に変換](https://cratex.app/ja/tools/pdf-to-images)
 - [PDFをテキストに変換](https://cratex.app/ja/tools/pdf-to-text)
 
-#### 🎬 [音声・動画ツール](https://cratex.app/ja/cat/media)
+#### 🎬 [音声・動画ツール](https://cratex.app/ja/categories/media)
 
 - [動画から音声を抽出](https://cratex.app/ja/tools/extract-audio-from-video)
 - [動画をミュート](https://cratex.app/ja/tools/remove-audio-from-video)
@@ -120,7 +120,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [動画を圧縮](https://cratex.app/ja/tools/compress-video)
 - [音声を圧縮](https://cratex.app/ja/tools/audio-compressor)
 
-#### 💻 [開発者ツール](https://cratex.app/ja/cat/dev)
+#### 💻 [開発者ツール](https://cratex.app/ja/categories/dev)
 
 - [ハッシュ生成と検証](https://cratex.app/ja/tools/hash-checksum)
 - [UUIDジェネレーター](https://cratex.app/ja/tools/uuid-generator)
@@ -149,7 +149,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [Cron 式パーサー](https://cratex.app/ja/tools/cron-parser)
 - [Cron 式ジェネレーター](https://cratex.app/ja/tools/cron-generator)
 
-#### 🎮 [ゲーム補助](https://cratex.app/ja/cat/games)
+#### 🎮 [ゲーム補助](https://cratex.app/ja/categories/games)
 
 - [Palworld 配合計算ツール](https://cratex.app/games/palworld/breeding?lang=ja)
 

@@ -49,11 +49,9 @@ CrateX.app — быстрая платформа браузерных инстр
 
 ### 🛠️ Категории инструментов (Постоянное добавление/улучшение)
 
-#### 🛠️ [Утилиты](https://cratex.app/ru/cat/utils)
+#### 🛠️ [Повседневные инструменты](https://cratex.app/ru/cat/utils)
 
 - [Генератор паролей](https://cratex.app/ru/tools/password-generator)
-- [Генератор и проверка хэша](https://cratex.app/ru/tools/hash-checksum)
-- [Генератор UUID](https://cratex.app/ru/tools/uuid-generator)
 - [Генератор QR-кодов](https://cratex.app/ru/tools/qr-generator)
 - [QR-декодер](https://cratex.app/ru/tools/qr-decoder)
 - [Распознавание штрих-кода](https://cratex.app/ru/tools/barcode-decoder)
@@ -70,7 +68,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Бросить кости](https://cratex.app/ru/tools/dice-roller)
 - [Подбросить монету](https://cratex.app/ru/tools/coin-flip)
 
-#### 📝 [Обработка текста](https://cratex.app/ru/cat/text)
+#### 📝 [Инструменты для текста](https://cratex.app/ru/cat/text)
 
 - [Счётчик текста](https://cratex.app/ru/tools/text-counter)
 - [Форматирование текста](https://cratex.app/ru/tools/text-formatter)
@@ -110,7 +108,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [PDF в изображения](https://cratex.app/ru/tools/pdf-to-images)
 - [PDF в текст](https://cratex.app/ru/tools/pdf-to-text)
 
-#### 🎬 [Медиа-инструменты](https://cratex.app/ru/cat/media)
+#### 🎬 [Инструменты для аудио и видео](https://cratex.app/ru/cat/media)
 
 - [Извлечь аудио из видео](https://cratex.app/ru/tools/extract-audio-from-video)
 - [Отключить звук видео](https://cratex.app/ru/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Сжать видео](https://cratex.app/ru/tools/compress-video)
 - [Сжать аудио](https://cratex.app/ru/tools/audio-compressor)
 
-#### 🔄 [Кодирование и преобразование](https://cratex.app/ru/cat/encoding)
+#### 💻 [Инструменты разработчика](https://cratex.app/ru/cat/dev)
 
+- [Генератор и проверка хэша](https://cratex.app/ru/tools/hash-checksum)
+- [Генератор UUID](https://cratex.app/ru/tools/uuid-generator)
 - [Кодирование/декодирование URL](https://cratex.app/ru/tools/url-encoder)
 - [Парсер URL](https://cratex.app/ru/tools/url-parser)
 - [Base64 кодирование/декодирование](https://cratex.app/ru/tools/base64-encoder)
@@ -133,9 +133,6 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Нормализация Unicode](https://cratex.app/ru/tools/unicode-normalizer)
 - [Конвертер ASCII](https://cratex.app/ru/tools/ascii-converter)
 - [Конвертер систем счисления](https://cratex.app/ru/tools/base-converter)
-
-#### 💻 [Инструменты разработчика](https://cratex.app/ru/cat/dev)
-
 - [Форматирование и проверка JSON](https://cratex.app/ru/tools/json-formatter)
 - [Исправление и проверка JSON](https://cratex.app/ru/tools/json-repair)
 - [JSON в TypeScript](https://cratex.app/ru/tools/json-to-typescript)
@@ -152,7 +149,7 @@ CrateX.app — быстрая платформа браузерных инстр
 - [Парсер выражений Cron](https://cratex.app/ru/tools/cron-parser)
 - [Генератор выражений Cron](https://cratex.app/ru/tools/cron-generator)
 
-#### 🎮 [Игровые инструменты](https://cratex.app/ru/cat/games)
+#### 🎮 [Помощники для игр](https://cratex.app/ru/cat/games)
 
 - [Калькулятор разведения Palworld](https://cratex.app/games/palworld/breeding?lang=ru)
 

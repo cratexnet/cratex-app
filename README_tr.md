@@ -49,11 +49,9 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 
 ### 🛠️ Araç kategorileri (sürekli ekleniyor ve geliştiriliyor)
 
-#### 🛠️ [Yardımcı araçlar](https://cratex.app/tr/cat/utils)
+#### 🛠️ [Günlük araçlar](https://cratex.app/tr/cat/utils)
 
 - [Parola Üreteci](https://cratex.app/tr/tools/password-generator)
-- [Hash Oluşturucu ve Denetleyici](https://cratex.app/tr/tools/hash-checksum)
-- [UUID Üreteci](https://cratex.app/tr/tools/uuid-generator)
 - [QR Kod Üreteci](https://cratex.app/tr/tools/qr-generator)
 - [QR Kod Çözücü](https://cratex.app/tr/tools/qr-decoder)
 - [Barkod tanıma](https://cratex.app/tr/tools/barcode-decoder)
@@ -83,7 +81,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Slug Oluşturucu](https://cratex.app/tr/tools/slug-generator)
 - [Markdown Dönüştürücü](https://cratex.app/tr/tools/markdown-converter)
 
-#### 🖼️ [Görsel araçlar](https://cratex.app/tr/cat/image)
+#### 🖼️ [Görsel araçları](https://cratex.app/tr/cat/image)
 
 - [Görsel Format Dönüştürme](https://cratex.app/tr/tools/image-converter)
 - [Görüntüden Metne](https://cratex.app/tr/tools/image-to-text)
@@ -110,7 +108,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [PDF'yi görsellere dönüştür](https://cratex.app/tr/tools/pdf-to-images)
 - [PDF metne dönüştür](https://cratex.app/tr/tools/pdf-to-text)
 
-#### 🎬 [Medya araçları](https://cratex.app/tr/cat/media)
+#### 🎬 [Ses ve video araçları](https://cratex.app/tr/cat/media)
 
 - [Videodan ses çıkar](https://cratex.app/tr/tools/extract-audio-from-video)
 - [Videoyu sessize al](https://cratex.app/tr/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Video Sıkıştır](https://cratex.app/tr/tools/compress-video)
 - [Ses Sıkıştır](https://cratex.app/tr/tools/audio-compressor)
 
-#### 🔄 [Kodlama ve dönüştürme](https://cratex.app/tr/cat/encoding)
+#### 💻 [Geliştirici araçları](https://cratex.app/tr/cat/dev)
 
+- [Hash Oluşturucu ve Denetleyici](https://cratex.app/tr/tools/hash-checksum)
+- [UUID Üreteci](https://cratex.app/tr/tools/uuid-generator)
 - [URL Kodla/Çöz](https://cratex.app/tr/tools/url-encoder)
 - [URL Ayrıştırıcı](https://cratex.app/tr/tools/url-parser)
 - [Base64 Kodla/Çöz](https://cratex.app/tr/tools/base64-encoder)
@@ -133,9 +133,6 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Unicode Normalleştirici](https://cratex.app/tr/tools/unicode-normalizer)
 - [ASCII Dönüştürücü](https://cratex.app/tr/tools/ascii-converter)
 - [Taban Dönüştürücü](https://cratex.app/tr/tools/base-converter)
-
-#### 💻 [Geliştirici araçları](https://cratex.app/tr/cat/dev)
-
 - [JSON Biçimlendirme ve Doğrulama](https://cratex.app/tr/tools/json-formatter)
 - [JSON onarma ve inceleme](https://cratex.app/tr/tools/json-repair)
 - [JSON'dan TypeScript'e](https://cratex.app/tr/tools/json-to-typescript)
@@ -152,7 +149,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - [Cron İfadesi Ayrıştırıcı](https://cratex.app/tr/tools/cron-parser)
 - [Cron İfadesi Oluşturucu](https://cratex.app/tr/tools/cron-generator)
 
-#### 🎮 [Oyun Araçları](https://cratex.app/tr/cat/games)
+#### 🎮 [Oyun yardımcıları](https://cratex.app/tr/cat/games)
 
 - [Palworld Yetiştirme Hesaplayıcısı](https://cratex.app/games/palworld/breeding?lang=tr)
 

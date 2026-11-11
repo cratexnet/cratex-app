@@ -49,11 +49,9 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 
 ### 🛠️ Toolcategorieën (worden continu uitgebreid en verbeterd)
 
-#### 🛠️ [Hulpprogramma's](https://cratex.app/nl/cat/utils)
+#### 🛠️ [Dagelijkse tools](https://cratex.app/nl/cat/utils)
 
 - [Wachtwoordgenerator](https://cratex.app/nl/tools/password-generator)
-- [Hashgenerator en hashchecker](https://cratex.app/nl/tools/hash-checksum)
-- [UUID-generator](https://cratex.app/nl/tools/uuid-generator)
 - [QR-codegenerator](https://cratex.app/nl/tools/qr-generator)
 - [QR-decoder](https://cratex.app/nl/tools/qr-decoder)
 - [Herkenning van streepjescodes](https://cratex.app/nl/tools/barcode-decoder)
@@ -70,7 +68,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Dobbelstenen rollen](https://cratex.app/nl/tools/dice-roller)
 - [Munt opgooien](https://cratex.app/nl/tools/coin-flip)
 
-#### 📝 [Tekstverwerking](https://cratex.app/nl/cat/text)
+#### 📝 [Teksttools](https://cratex.app/nl/cat/text)
 
 - [Tekstteller](https://cratex.app/nl/tools/text-counter)
 - [Tekstformatter](https://cratex.app/nl/tools/text-formatter)
@@ -110,7 +108,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [PDF naar afbeeldingen](https://cratex.app/nl/tools/pdf-to-images)
 - [PDF naar tekst](https://cratex.app/nl/tools/pdf-to-text)
 
-#### 🎬 [Mediatools](https://cratex.app/nl/cat/media)
+#### 🎬 [Audio- en videotools](https://cratex.app/nl/cat/media)
 
 - [Audio uit video halen](https://cratex.app/nl/tools/extract-audio-from-video)
 - [Video dempen](https://cratex.app/nl/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Video comprimeren](https://cratex.app/nl/tools/compress-video)
 - [Audio comprimeren](https://cratex.app/nl/tools/audio-compressor)
 
-#### 🔄 [Codering en conversie](https://cratex.app/nl/cat/encoding)
+#### 💻 [Ontwikkeltools](https://cratex.app/nl/cat/dev)
 
+- [Hashgenerator en hashchecker](https://cratex.app/nl/tools/hash-checksum)
+- [UUID-generator](https://cratex.app/nl/tools/uuid-generator)
 - [URL coderen/decoderen](https://cratex.app/nl/tools/url-encoder)
 - [URL-parser](https://cratex.app/nl/tools/url-parser)
 - [Base64 coderen/decoderen](https://cratex.app/nl/tools/base64-encoder)
@@ -133,9 +133,6 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Unicode-normalisator](https://cratex.app/nl/tools/unicode-normalizer)
 - [ASCII-converter](https://cratex.app/nl/tools/ascii-converter)
 - [Grondtalconverter](https://cratex.app/nl/tools/base-converter)
-
-#### 💻 [Tools voor ontwikkelaars](https://cratex.app/nl/cat/dev)
-
 - [JSON formatteren en valideren](https://cratex.app/nl/tools/json-formatter)
 - [JSON repareren en controleren](https://cratex.app/nl/tools/json-repair)
 - [JSON naar TypeScript](https://cratex.app/nl/tools/json-to-typescript)
@@ -152,7 +149,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - [Cron-parser](https://cratex.app/nl/tools/cron-parser)
 - [Cron-expressiegenerator](https://cratex.app/nl/tools/cron-generator)
 
-#### 🎮 [Game Tools](https://cratex.app/nl/cat/games)
+#### 🎮 [Gamehulpen](https://cratex.app/nl/cat/games)
 
 - [Palworld-fokcalculator](https://cratex.app/games/palworld/breeding?lang=en)
 

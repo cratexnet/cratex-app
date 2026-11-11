@@ -49,11 +49,9 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 
 ### 🛠️ หมวดหมู่เครื่องมือ (เพิ่ม/ปรับปรุงอย่างต่อเนื่อง)
 
-#### 🛠️ [เครื่องมืออรรถประโยชน์](https://cratex.app/th/cat/utils)
+#### 🛠️ [เครื่องมือประจำวัน](https://cratex.app/th/cat/utils)
 
 - [ตัวสร้างรหัสผ่าน](https://cratex.app/th/tools/password-generator)
-- [สร้างและตรวจสอบแฮช](https://cratex.app/th/tools/hash-checksum)
-- [ตัวสร้าง UUID](https://cratex.app/th/tools/uuid-generator)
 - [ตัวสร้างคิวอาร์โค้ด](https://cratex.app/th/tools/qr-generator)
 - [เครื่องถอดรหัส QR](https://cratex.app/th/tools/qr-decoder)
 - [การรับรู้บาร์โค้ด](https://cratex.app/th/tools/barcode-decoder)
@@ -110,7 +108,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [แปลง PDF เป็นรูปภาพ](https://cratex.app/th/tools/pdf-to-images)
 - [PDF เป็นข้อความ](https://cratex.app/th/tools/pdf-to-text)
 
-#### 🎬 [เครื่องมือสื่อ](https://cratex.app/th/cat/media)
+#### 🎬 [เครื่องมือเสียงและวิดีโอ](https://cratex.app/th/cat/media)
 
 - [แยกเสียงจากวิดีโอ](https://cratex.app/th/tools/extract-audio-from-video)
 - [ปิดเสียงวิดีโอ](https://cratex.app/th/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [บีบอัดวิดีโอ](https://cratex.app/th/tools/compress-video)
 - [บีบอัดเสียง](https://cratex.app/th/tools/audio-compressor)
 
-#### 🔄 [การเข้ารหัสและการแปลง](https://cratex.app/th/cat/encoding)
+#### 💻 [เครื่องมือสำหรับนักพัฒนา](https://cratex.app/th/cat/dev)
 
+- [สร้างและตรวจสอบแฮช](https://cratex.app/th/tools/hash-checksum)
+- [ตัวสร้าง UUID](https://cratex.app/th/tools/uuid-generator)
 - [เข้ารหัส/ถอดรหัส URL](https://cratex.app/th/tools/url-encoder)
 - [ตัวแยกวิเคราะห์ URL](https://cratex.app/th/tools/url-parser)
 - [เข้ารหัส/ถอดรหัส Base64](https://cratex.app/th/tools/base64-encoder)
@@ -133,9 +133,6 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัวปรับมาตรฐาน Unicode](https://cratex.app/th/tools/unicode-normalizer)
 - [ตัวแปลง ASCII](https://cratex.app/th/tools/ascii-converter)
 - [ตัวแปลงฐานตัวเลข](https://cratex.app/th/tools/base-converter)
-
-#### 💻 [เครื่องมือสำหรับนักพัฒนา](https://cratex.app/th/cat/dev)
-
 - [จัดรูปแบบและตรวจสอบ JSON](https://cratex.app/th/tools/json-formatter)
 - [ซ่อมและตรวจ JSON](https://cratex.app/th/tools/json-repair)
 - [JSON เป็น TypeScript](https://cratex.app/th/tools/json-to-typescript)
@@ -152,7 +149,7 @@ CrateX.app เป็นแพลตฟอร์มเครื่องมือ
 - [ตัววิเคราะห์นิพจน์ Cron](https://cratex.app/th/tools/cron-parser)
 - [เครื่องมือสร้างนิพจน์ Cron](https://cratex.app/th/tools/cron-generator)
 
-#### 🎮 [เครื่องมือเกม](https://cratex.app/th/cat/games)
+#### 🎮 [ตัวช่วยเกม](https://cratex.app/th/cat/games)
 
 - [เครื่องคำนวณการผสมพันธุ์ Palworld](https://cratex.app/games/palworld/breeding?lang=th)
 

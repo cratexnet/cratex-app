@@ -49,11 +49,9 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 
 ### 🛠️ ツールカテゴリー（継続的に追加/改善中）
 
-#### 🛠️ [ユーティリティ](https://cratex.app/ja/cat/utils)
+#### 🛠️ [日常ツール](https://cratex.app/ja/cat/utils)
 
 - [パスワードジェネレーター](https://cratex.app/ja/tools/password-generator)
-- [ハッシュ生成と検証](https://cratex.app/ja/tools/hash-checksum)
-- [UUIDジェネレーター](https://cratex.app/ja/tools/uuid-generator)
 - [QR コードジェネレーター](https://cratex.app/ja/tools/qr-generator)
 - [QR デコーダー](https://cratex.app/ja/tools/qr-decoder)
 - [バーコード認識](https://cratex.app/ja/tools/barcode-decoder)
@@ -70,7 +68,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [サイコロを振る](https://cratex.app/ja/tools/dice-roller)
 - [コイントス](https://cratex.app/ja/tools/coin-flip)
 
-#### 📝 [テキスト処理](https://cratex.app/ja/cat/text)
+#### 📝 [テキストツール](https://cratex.app/ja/cat/text)
 
 - [テキストカウンター](https://cratex.app/ja/tools/text-counter)
 - [スマートテキストクリーナー](https://cratex.app/ja/tools/text-formatter)
@@ -110,7 +108,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [PDFを画像に変換](https://cratex.app/ja/tools/pdf-to-images)
 - [PDFをテキストに変換](https://cratex.app/ja/tools/pdf-to-text)
 
-#### 🎬 [メディアツール](https://cratex.app/ja/cat/media)
+#### 🎬 [音声・動画ツール](https://cratex.app/ja/cat/media)
 
 - [動画から音声を抽出](https://cratex.app/ja/tools/extract-audio-from-video)
 - [動画をミュート](https://cratex.app/ja/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [動画を圧縮](https://cratex.app/ja/tools/compress-video)
 - [音声を圧縮](https://cratex.app/ja/tools/audio-compressor)
 
-#### 🔄 [エンコード・変換](https://cratex.app/ja/cat/encoding)
+#### 💻 [開発者ツール](https://cratex.app/ja/cat/dev)
 
+- [ハッシュ生成と検証](https://cratex.app/ja/tools/hash-checksum)
+- [UUIDジェネレーター](https://cratex.app/ja/tools/uuid-generator)
 - [URL エンコード/デコード](https://cratex.app/ja/tools/url-encoder)
 - [URL 解析](https://cratex.app/ja/tools/url-parser)
 - [Base64 エンコード/デコード](https://cratex.app/ja/tools/base64-encoder)
@@ -133,9 +133,6 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [Unicode正規化](https://cratex.app/ja/tools/unicode-normalizer)
 - [ASCII コンバーター](https://cratex.app/ja/tools/ascii-converter)
 - [基数変換](https://cratex.app/ja/tools/base-converter)
-
-#### 💻 [開発者ツール](https://cratex.app/ja/cat/dev)
-
 - [JSON 整形と検証](https://cratex.app/ja/tools/json-formatter)
 - [JSON 修復と検査](https://cratex.app/ja/tools/json-repair)
 - [JSON から TypeScript](https://cratex.app/ja/tools/json-to-typescript)
@@ -152,7 +149,7 @@ CrateX.app は、開発者、デザイナー、クリエイター、日常のワ
 - [Cron 式パーサー](https://cratex.app/ja/tools/cron-parser)
 - [Cron 式ジェネレーター](https://cratex.app/ja/tools/cron-generator)
 
-#### 🎮 [ゲームツール](https://cratex.app/ja/cat/games)
+#### 🎮 [ゲーム補助](https://cratex.app/ja/cat/games)
 
 - [Palworld 配合計算ツール](https://cratex.app/games/palworld/breeding?lang=ja)
 

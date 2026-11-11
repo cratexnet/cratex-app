@@ -49,11 +49,9 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 
 ### 🛠️ Catégories d'outils (Ajout/Amélioration continus)
 
-#### 🛠️ [Outils utilitaires](https://cratex.app/fr/cat/utils)
+#### 🛠️ [Outils du quotidien](https://cratex.app/fr/cat/utils)
 
 - [Générateur de mots de passe](https://cratex.app/fr/tools/password-generator)
-- [Générateur et vérificateur de hash](https://cratex.app/fr/tools/hash-checksum)
-- [Générateur UUID](https://cratex.app/fr/tools/uuid-generator)
 - [Générateur de QR code](https://cratex.app/fr/tools/qr-generator)
 - [Décodeur QR](https://cratex.app/fr/tools/qr-decoder)
 - [Reconnaissance de codes-barres](https://cratex.app/fr/tools/barcode-decoder)
@@ -70,7 +68,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Lancer de dés](https://cratex.app/fr/tools/dice-roller)
 - [Pile ou face](https://cratex.app/fr/tools/coin-flip)
 
-#### 📝 [Traitement de texte](https://cratex.app/fr/cat/text)
+#### 📝 [Outils de texte](https://cratex.app/fr/cat/text)
 
 - [Compteur de Texte](https://cratex.app/fr/tools/text-counter)
 - [Formateur de texte](https://cratex.app/fr/tools/text-formatter)
@@ -83,7 +81,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Générateur de slug](https://cratex.app/fr/tools/slug-generator)
 - [Convertisseur Markdown](https://cratex.app/fr/tools/markdown-converter)
 
-#### 🖼️ [Outils d’image](https://cratex.app/fr/cat/image)
+#### 🖼️ [Outils d'image](https://cratex.app/fr/cat/image)
 
 - [Convertisseur de formats d’image](https://cratex.app/fr/tools/image-converter)
 - [Image en texte](https://cratex.app/fr/tools/image-to-text)
@@ -110,7 +108,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [PDF en images](https://cratex.app/fr/tools/pdf-to-images)
 - [PDF en texte](https://cratex.app/fr/tools/pdf-to-text)
 
-#### 🎬 [Outils média](https://cratex.app/fr/cat/media)
+#### 🎬 [Outils audio et vidéo](https://cratex.app/fr/cat/media)
 
 - [Extraire l’audio d’une vidéo](https://cratex.app/fr/tools/extract-audio-from-video)
 - [Couper le son vidéo](https://cratex.app/fr/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Compresser une vidéo](https://cratex.app/fr/tools/compress-video)
 - [Compresser un audio](https://cratex.app/fr/tools/audio-compressor)
 
-#### 🔄 [Encodage et conversion](https://cratex.app/fr/cat/encoding)
+#### 💻 [Développement](https://cratex.app/fr/cat/dev)
 
+- [Générateur et vérificateur de hash](https://cratex.app/fr/tools/hash-checksum)
+- [Générateur UUID](https://cratex.app/fr/tools/uuid-generator)
 - [Encodage/Décodage d’URL](https://cratex.app/fr/tools/url-encoder)
 - [Analyseur d’URL](https://cratex.app/fr/tools/url-parser)
 - [Encodage/Décodage Base64](https://cratex.app/fr/tools/base64-encoder)
@@ -133,9 +133,6 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Normaliseur Unicode](https://cratex.app/fr/tools/unicode-normalizer)
 - [Convertisseur ASCII](https://cratex.app/fr/tools/ascii-converter)
 - [Convertisseur de base](https://cratex.app/fr/tools/base-converter)
-
-#### 💻 [Outils développeur](https://cratex.app/fr/cat/dev)
-
 - [Formatage et validation JSON](https://cratex.app/fr/tools/json-formatter)
 - [Réparation et inspection JSON](https://cratex.app/fr/tools/json-repair)
 - [JSON vers TypeScript](https://cratex.app/fr/tools/json-to-typescript)
@@ -152,7 +149,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - [Analyseur d'expressions Cron](https://cratex.app/fr/tools/cron-parser)
 - [Générateur d’expressions Cron](https://cratex.app/fr/tools/cron-generator)
 
-#### 🎮 [Outils de jeu](https://cratex.app/fr/cat/games)
+#### 🎮 [Aides de jeu](https://cratex.app/fr/cat/games)
 
 - [Calculateur d'élevage Palworld](https://cratex.app/games/palworld/breeding?lang=fr)
 

@@ -49,11 +49,9 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 
 ### 🛠️ टूल श्रेणियाँ (लगातार जोड़ी और बेहतर की जा रही हैं)
 
-#### 🛠️ [यूटिलिटी टूल्स](https://cratex.app/hi/cat/utils)
+#### 🛠️ [रोज़मर्रा के टूल](https://cratex.app/hi/cat/utils)
 
 - [पासवर्ड जनरेटर](https://cratex.app/hi/tools/password-generator)
-- [हैश जनरेटर और चेकर](https://cratex.app/hi/tools/hash-checksum)
-- [UUID जनरेटर](https://cratex.app/hi/tools/uuid-generator)
 - [QR कोड जनरेटर](https://cratex.app/hi/tools/qr-generator)
 - [क्यूआर डिकोडर](https://cratex.app/hi/tools/qr-decoder)
 - [बारकोड पहचान](https://cratex.app/hi/tools/barcode-decoder)
@@ -70,7 +68,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [पासा फेंकें](https://cratex.app/hi/tools/dice-roller)
 - [सिक्का उछालें](https://cratex.app/hi/tools/coin-flip)
 
-#### 📝 [टेक्स्ट प्रोसेसिंग](https://cratex.app/hi/cat/text)
+#### 📝 [टेक्स्ट टूल](https://cratex.app/hi/cat/text)
 
 - [टेक्स्ट काउंटर](https://cratex.app/hi/tools/text-counter)
 - [टेक्स्ट फ़ॉर्मैटर](https://cratex.app/hi/tools/text-formatter)
@@ -110,7 +108,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [PDF से इमेज](https://cratex.app/hi/tools/pdf-to-images)
 - [PDF से टेक्स्ट](https://cratex.app/hi/tools/pdf-to-text)
 
-#### 🎬 [मीडिया टूल](https://cratex.app/hi/cat/media)
+#### 🎬 [ऑडियो और वीडियो टूल](https://cratex.app/hi/cat/media)
 
 - [वीडियो से ऑडियो निकालें](https://cratex.app/hi/tools/extract-audio-from-video)
 - [वीडियो म्यूट करें](https://cratex.app/hi/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [वीडियो कंप्रेस करें](https://cratex.app/hi/tools/compress-video)
 - [ऑडियो कंप्रेस करें](https://cratex.app/hi/tools/audio-compressor)
 
-#### 🔄 [एनकोडिंग और कन्वर्ज़न](https://cratex.app/hi/cat/encoding)
+#### 💻 [डेवलपर टूल्स](https://cratex.app/hi/cat/dev)
 
+- [हैश जनरेटर और चेकर](https://cratex.app/hi/tools/hash-checksum)
+- [UUID जनरेटर](https://cratex.app/hi/tools/uuid-generator)
 - [URL एनकोड/डीकोड](https://cratex.app/hi/tools/url-encoder)
 - [URL पार्सर](https://cratex.app/hi/tools/url-parser)
 - [Base64 एनकोड/डीकोड](https://cratex.app/hi/tools/base64-encoder)
@@ -133,9 +133,6 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [यूनिकोड नॉर्मलाइज़र](https://cratex.app/hi/tools/unicode-normalizer)
 - [ASCII परिवर्तक](https://cratex.app/hi/tools/ascii-converter)
 - [आधार (बेस) परिवर्तक](https://cratex.app/hi/tools/base-converter)
-
-#### 💻 [डेवलपर टूल्स](https://cratex.app/hi/cat/dev)
-
 - [JSON फ़ॉर्मैट व वैलिडेशन](https://cratex.app/hi/tools/json-formatter)
 - [JSON सुधार और जांच](https://cratex.app/hi/tools/json-repair)
 - [JSON से TypeScript](https://cratex.app/hi/tools/json-to-typescript)
@@ -152,7 +149,7 @@ CrateX.app डेवलपर, डिज़ाइनर, क्रिएटर �
 - [Cron एक्सप्रेशन पार्सर](https://cratex.app/hi/tools/cron-parser)
 - [Cron एक्सप्रेशन जेनरेटर](https://cratex.app/hi/tools/cron-generator)
 
-#### 🎮 [Game Tools](https://cratex.app/hi/cat/games)
+#### 🎮 [गेम सहायक](https://cratex.app/hi/cat/games)
 
 - [Palworld प्रजनन कैलकुलेटर](https://cratex.app/games/palworld/breeding?lang=en)
 

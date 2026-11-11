@@ -49,11 +49,9 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 
 ### 🛠️ فئات الأدوات (إضافة/تحسين مستمر)
 
-#### 🛠️ [أدوات مساعدة](https://cratex.app/ar/cat/utils)
+#### 🛠️ [أدوات يومية](https://cratex.app/ar/cat/utils)
 
 - [مولد كلمات المرور](https://cratex.app/ar/tools/password-generator)
-- [مولد ومدقق التجزئة](https://cratex.app/ar/tools/hash-checksum)
-- [مولد UUID](https://cratex.app/ar/tools/uuid-generator)
 - [مولّد رمز QR](https://cratex.app/ar/tools/qr-generator)
 - [فك رموز الاستجابة السريعة](https://cratex.app/ar/tools/qr-decoder)
 - [التعرف على الباركود](https://cratex.app/ar/tools/barcode-decoder)
@@ -70,7 +68,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [رمي النرد](https://cratex.app/ar/tools/dice-roller)
 - [رمي العملة](https://cratex.app/ar/tools/coin-flip)
 
-#### 📝 [معالجة النص](https://cratex.app/ar/cat/text)
+#### 📝 [أدوات النصوص](https://cratex.app/ar/cat/text)
 
 - [عداد النصوص](https://cratex.app/ar/tools/text-counter)
 - [منسّق النص](https://cratex.app/ar/tools/text-formatter)
@@ -83,7 +81,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [مولد Slug](https://cratex.app/ar/tools/slug-generator)
 - [محول Markdown](https://cratex.app/ar/tools/markdown-converter)
 
-#### 🖼️ [أدوات الصورة](https://cratex.app/ar/cat/image)
+#### 🖼️ [أدوات الصور](https://cratex.app/ar/cat/image)
 
 - [تحويل صيغ الصور](https://cratex.app/ar/tools/image-converter)
 - [استخراج النص من الصور](https://cratex.app/ar/tools/image-to-text)
@@ -110,7 +108,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [تحويل PDF إلى صور](https://cratex.app/ar/tools/pdf-to-images)
 - [PDF إلى نص](https://cratex.app/ar/tools/pdf-to-text)
 
-#### 🎬 [أدوات الوسائط](https://cratex.app/ar/cat/media)
+#### 🎬 [أدوات الصوت والفيديو](https://cratex.app/ar/cat/media)
 
 - [استخراج الصوت من الفيديو](https://cratex.app/ar/tools/extract-audio-from-video)
 - [كتم الفيديو](https://cratex.app/ar/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [ضغط الفيديو](https://cratex.app/ar/tools/compress-video)
 - [ضغط الصوت](https://cratex.app/ar/tools/audio-compressor)
 
-#### 🔄 [الترميز والتحويل](https://cratex.app/ar/cat/encoding)
+#### 💻 [أدوات التطوير](https://cratex.app/ar/cat/dev)
 
+- [مولد ومدقق التجزئة](https://cratex.app/ar/tools/hash-checksum)
+- [مولد UUID](https://cratex.app/ar/tools/uuid-generator)
 - [ترميز/فك ترميز عناوين URL](https://cratex.app/ar/tools/url-encoder)
 - [محلل عناوين URL](https://cratex.app/ar/tools/url-parser)
 - [Base64 ترميز/فك الترميز](https://cratex.app/ar/tools/base64-encoder)
@@ -133,9 +133,6 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [تطبيع Unicode](https://cratex.app/ar/tools/unicode-normalizer)
 - [محوّل ASCII](https://cratex.app/ar/tools/ascii-converter)
 - [محول الأنظمة العددية](https://cratex.app/ar/tools/base-converter)
-
-#### 💻 [أدوات المطور](https://cratex.app/ar/cat/dev)
-
 - [تنسيق JSON والتحقق منه](https://cratex.app/ar/tools/json-formatter)
 - [إصلاح JSON وفحصه](https://cratex.app/ar/tools/json-repair)
 - [JSON إلى TypeScript](https://cratex.app/ar/tools/json-to-typescript)
@@ -152,7 +149,7 @@ CrateX.app منصة أدوات سريعة تعمل في المتصفح للمط�
 - [محلل تعبيرات Cron](https://cratex.app/ar/tools/cron-parser)
 - [منشئ تعبيرات Cron](https://cratex.app/ar/tools/cron-generator)
 
-#### 🎮 [Game Tools](https://cratex.app/ar/cat/games)
+#### 🎮 [مساعدات الألعاب](https://cratex.app/ar/cat/games)
 
 - [حاسبة تربية Palworld](https://cratex.app/games/palworld/breeding?lang=en)
 

@@ -49,11 +49,9 @@ The website is still in rapid development. New tools will be launched continuous
 
 ### 🛠️ Tool Categories (Continuously Adding/Improving)
 
-#### 🛠️ [Utility Tools](https://cratex.app/cat/utils)
+#### 🛠️ [Everyday Tools](https://cratex.app/cat/utils)
 
 - [Password Generator](https://cratex.app/tools/password-generator)
-- [Hash Generator & Checker](https://cratex.app/tools/hash-checksum)
-- [UUID Generator](https://cratex.app/tools/uuid-generator)
 - [QR Code Generator](https://cratex.app/tools/qr-generator)
 - [QR Decoder](https://cratex.app/tools/qr-decoder)
 - [Barcode Decoder](https://cratex.app/tools/barcode-decoder)
@@ -70,7 +68,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Dice Roller](https://cratex.app/tools/dice-roller)
 - [Coin Flip](https://cratex.app/tools/coin-flip)
 
-#### 📝 [Text Processing](https://cratex.app/cat/text)
+#### 📝 [Text Tools](https://cratex.app/cat/text)
 
 - [Text Counter](https://cratex.app/tools/text-counter)
 - [Text Formatter](https://cratex.app/tools/text-formatter)
@@ -110,7 +108,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [PDF to Images](https://cratex.app/tools/pdf-to-images)
 - [PDF to Text](https://cratex.app/tools/pdf-to-text)
 
-#### 🎬 [Media Tools](https://cratex.app/cat/media)
+#### 🎬 [Audio & Video Tools](https://cratex.app/cat/media)
 
 - [Extract Audio from Video](https://cratex.app/tools/extract-audio-from-video)
 - [Mute Video](https://cratex.app/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ The website is still in rapid development. New tools will be launched continuous
 - [Compress Video](https://cratex.app/tools/compress-video)
 - [Compress Audio](https://cratex.app/tools/audio-compressor)
 
-#### 🔄 [Encoding & Conversion](https://cratex.app/cat/encoding)
+#### 💻 [Developer Tools](https://cratex.app/cat/dev)
 
+- [Hash Generator & Checker](https://cratex.app/tools/hash-checksum)
+- [UUID Generator](https://cratex.app/tools/uuid-generator)
 - [URL Encode/Decode](https://cratex.app/tools/url-encoder)
 - [URL Parser](https://cratex.app/tools/url-parser)
 - [Base64 Encode/Decode](https://cratex.app/tools/base64-encoder)
@@ -133,9 +133,6 @@ The website is still in rapid development. New tools will be launched continuous
 - [Unicode Normalizer](https://cratex.app/tools/unicode-normalizer)
 - [ASCII Converter](https://cratex.app/tools/ascii-converter)
 - [Base Converter](https://cratex.app/tools/base-converter)
-
-#### 💻 [Developer Tools](https://cratex.app/cat/dev)
-
 - [JSON Formatter & Validator](https://cratex.app/tools/json-formatter)
 - [JSON Repair & Inspector](https://cratex.app/tools/json-repair)
 - [JSON to TypeScript](https://cratex.app/tools/json-to-typescript)
@@ -152,7 +149,7 @@ The website is still in rapid development. New tools will be launched continuous
 - [Cron Expression Parser](https://cratex.app/tools/cron-parser)
 - [Cron Expression Generator](https://cratex.app/tools/cron-generator)
 
-#### 🎮 [Game Tools](https://cratex.app/cat/games)
+#### 🎮 [Game Helpers](https://cratex.app/cat/games)
 
 - [Palworld Breeding Calculator](https://cratex.app/games/palworld/breeding?lang=en)
 

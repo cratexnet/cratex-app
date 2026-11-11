@@ -49,11 +49,9 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 
 ### 🛠️ Kategori alat (terus ditambah dan ditingkatkan)
 
-#### 🛠️ [Alat utilitas](https://cratex.app/id/cat/utils)
+#### 🛠️ [Alat sehari-hari](https://cratex.app/id/cat/utils)
 
 - [Generator Kata Sandi](https://cratex.app/id/tools/password-generator)
-- [Pembuat dan Pemeriksa Hash](https://cratex.app/id/tools/hash-checksum)
-- [Generator UUID](https://cratex.app/id/tools/uuid-generator)
 - [Generator Kode QR](https://cratex.app/id/tools/qr-generator)
 - [Dekoder QR](https://cratex.app/id/tools/qr-decoder)
 - [Pengenalan kode batang](https://cratex.app/id/tools/barcode-decoder)
@@ -70,7 +68,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Lempar dadu](https://cratex.app/id/tools/dice-roller)
 - [Lempar koin](https://cratex.app/id/tools/coin-flip)
 
-#### 📝 [Pemrosesan teks](https://cratex.app/id/cat/text)
+#### 📝 [Alat teks](https://cratex.app/id/cat/text)
 
 - [Penghitung Teks](https://cratex.app/id/tools/text-counter)
 - [Pemformat Teks](https://cratex.app/id/tools/text-formatter)
@@ -83,7 +81,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Generator Slug](https://cratex.app/id/tools/slug-generator)
 - [Konverter Markdown](https://cratex.app/id/tools/markdown-converter)
 
-#### 🖼️ [Alat gambar](https://cratex.app/id/cat/image)
+#### 🖼️ [Alat Gambar](https://cratex.app/id/cat/image)
 
 - [Konversi Format Gambar](https://cratex.app/id/tools/image-converter)
 - [Gambar ke Teks](https://cratex.app/id/tools/image-to-text)
@@ -110,7 +108,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [PDF ke gambar](https://cratex.app/id/tools/pdf-to-images)
 - [PDF ke teks](https://cratex.app/id/tools/pdf-to-text)
 
-#### 🎬 [Alat Media](https://cratex.app/id/cat/media)
+#### 🎬 [Alat audio dan video](https://cratex.app/id/cat/media)
 
 - [Ekstrak Audio dari Video](https://cratex.app/id/tools/extract-audio-from-video)
 - [Bisukan Video](https://cratex.app/id/tools/remove-audio-from-video)
@@ -122,8 +120,10 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Kompres Video](https://cratex.app/id/tools/compress-video)
 - [Kompres Audio](https://cratex.app/id/tools/audio-compressor)
 
-#### 🔄 [Enkode dan konversi](https://cratex.app/id/cat/encoding)
+#### 💻 [Alat Pengembang](https://cratex.app/id/cat/dev)
 
+- [Pembuat dan Pemeriksa Hash](https://cratex.app/id/tools/hash-checksum)
+- [Generator UUID](https://cratex.app/id/tools/uuid-generator)
 - [Enkode/Dekode URL](https://cratex.app/id/tools/url-encoder)
 - [Parser URL](https://cratex.app/id/tools/url-parser)
 - [Enkode/Dekode Base64](https://cratex.app/id/tools/base64-encoder)
@@ -133,9 +133,6 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Penormal Unicode](https://cratex.app/id/tools/unicode-normalizer)
 - [Konverter ASCII](https://cratex.app/id/tools/ascii-converter)
 - [Konverter Basis](https://cratex.app/id/tools/base-converter)
-
-#### 💻 [Alat pengembang](https://cratex.app/id/cat/dev)
-
 - [Format & Validasi JSON](https://cratex.app/id/tools/json-formatter)
 - [Perbaiki dan periksa JSON](https://cratex.app/id/tools/json-repair)
 - [JSON ke TypeScript](https://cratex.app/id/tools/json-to-typescript)
@@ -152,7 +149,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - [Parser Cron](https://cratex.app/id/tools/cron-parser)
 - [Generator Ekspresi Cron](https://cratex.app/id/tools/cron-generator)
 
-#### 🎮 [Alat game](https://cratex.app/id/cat/games)
+#### 🎮 [Pembantu game](https://cratex.app/id/cat/games)
 
 - [Kalkulator Pembiakan Palworld](https://cratex.app/games/palworld/breeding?lang=id)
 

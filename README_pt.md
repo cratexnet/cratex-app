@@ -45,7 +45,7 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 - A maioria das ferramentas pode ser usada sem login. O login serve principalmente para restaurar benefícios pagos, gerenciar assinaturas e usar WebDAV Sync.
 - Contas pagas recebem limites mais altos de tamanho de entrada, tamanho de arquivo, processamento em lote e prévias complexas, além de uma experiência sem anúncios.
 - WebDAV Sync grava no seu próprio armazenamento. Guarde sua chave de recuperação com segurança; a CrateX.app não consegue recuperar dados remotos de sincronização criptografada depois que a chave é perdida.
-- Por padrão, a sincronização cobre idioma, tema, favoritos, ferramentas recentes, configurações de ferramentas e uma pequena quantidade de dados de uso auditados. Ela não sincroniza API keys, arquivos enviados, entradas temporárias da página atual ou resultados gerados.
+- Ao ativar o WebDAV Sync, as preferências do site (como idioma e tema), os favoritos e as ferramentas usadas recentemente ficam selecionados por padrão. Configurações de ferramentas, entradas, arquivos e resultados gerados não são sincronizados por padrão. Configurações de ferramentas, rascunhos e anexos compatíveis exigem sua seleção explícita para serem sincronizados.
 
 ### 🛠️ Categorias de ferramentas (Adicionando/Melhorando continuamente)
 
@@ -97,8 +97,11 @@ O site ainda está em rápido desenvolvimento. Novas ferramentas serão lançada
 
 #### 📄 [Ferramentas de PDF](https://cratex.app/pt/categories/pdf)
 
+A compressão de PDF ocorre localmente no navegador, com três níveis de qualidade e tamanho-alvo opcional; atingir a meta não é garantido. A compressão de imagens tem perdas, mas o texto e as camadas de OCR existentes são preservados. Arquivos e resultados ficam apenas na sessão atual do navegador. Guarde o original e confira o resultado baixado.
+
 - [Imagens para PDF](https://cratex.app/pt/tools/image-to-pdf)
 - [Unir PDF](https://cratex.app/pt/tools/merge-pdf)
+- [Comprimir PDF](https://cratex.app/tools/compress-pdf)
 - [Dividir PDF](https://cratex.app/pt/tools/split-pdf)
 - [Organizar PDF](https://cratex.app/pt/tools/organize-pdf)
 - [Adicionar marca-d'água ao PDF](https://cratex.app/pt/tools/watermark-pdf)

@@ -45,7 +45,7 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 - Z większości narzędzi można korzystać bez logowania. Logowanie służy głównie do przywracania płatnych uprawnień, zarządzania subskrypcjami i używania WebDAV Sync.
 - Płatne konta otrzymują wyższe limity długości danych wejściowych, rozmiaru plików, przetwarzania wsadowego i złożonych podglądów, a także brak reklam.
 - WebDAV Sync zapisuje dane w Twojej własnej przestrzeni. Przechowuj klucz odzyskiwania w bezpiecznym miejscu; CrateX.app nie może odzyskać zdalnych zaszyfrowanych danych synchronizacji po utracie klucza.
-- Domyślnie synchronizowane są język, motyw, ulubione, ostatnio używane narzędzia, ustawienia narzędzi i niewielka ilość audytowanych danych użycia. Klucze API, przesłane pliki, tymczasowe dane wejściowe na bieżącej stronie i wygenerowane wyniki nie są synchronizowane.
+- Po włączeniu WebDAV Sync domyślnie wybrane są preferencje witryny (np. język i motyw), ulubione oraz ostatnio używane narzędzia. Ustawienia narzędzi, dane wejściowe, pliki i wygenerowane wyniki nie są domyślnie synchronizowane. Synchronizacja obsługiwanych ustawień narzędzi, wersji roboczych i załączników wymaga Twojego wyraźnego wyboru.
 
 ### 🛠️ Kategorie narzędzi (ciągle rozwijane i ulepszane)
 
@@ -97,8 +97,11 @@ Strona jest wciąż w fazie aktywnego rozwoju. Nowe narzędzia będą stale doda
 
 #### 📄 [Narzędzia PDF](https://cratex.app/pl/categories/pdf)
 
+Kompresja PDF odbywa się lokalnie w przeglądarce, z trzema poziomami jakości i opcjonalnym rozmiarem docelowym; osiągnięcie celu nie jest gwarantowane. Kompresja obrazów jest stratna, ale tekst i istniejące warstwy OCR zostają zachowane. Pliki i wyniki pozostają tylko w bieżącej sesji przeglądarki. Zachowaj oryginał i sprawdź pobrany wynik.
+
 - [Obrazy do PDF](https://cratex.app/pl/tools/image-to-pdf)
 - [Scal PDF](https://cratex.app/pl/tools/merge-pdf)
+- [Kompresja PDF](https://cratex.app/tools/compress-pdf)
 - [Podziel PDF](https://cratex.app/pl/tools/split-pdf)
 - [Uporządkuj PDF](https://cratex.app/pl/tools/organize-pdf)
 - [Dodaj znak wodny do PDF](https://cratex.app/pl/tools/watermark-pdf)

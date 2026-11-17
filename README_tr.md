@@ -45,7 +45,7 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 - Araçların çoğu oturum açmadan kullanılabilir. Oturum açma esas olarak ücretli hakları geri yüklemek, abonelikleri yönetmek ve WebDAV Sync kullanmak içindir.
 - Ücretli hesaplar giriş uzunluğu, dosya boyutu, toplu işleme ve karmaşık önizlemeler için daha yüksek limitler ve reklamsız deneyim elde eder.
 - WebDAV Sync kendi depolamanıza yazar. Kurtarma anahtarınızı güvenli saklayın; anahtar kaybolursa CrateX.app uzaktaki şifreli senkronizasyon verilerini kurtaramaz.
-- Varsayılan olarak dil, tema, favoriler, son kullanılan araçlar, araç ayarları ve denetlenmiş az miktarda kullanım verisi senkronize edilir. API anahtarları, yüklenen dosyalar, mevcut sayfadaki geçici girişler veya oluşturulan sonuçlar senkronize edilmez.
+- WebDAV Sync etkinleştirildiğinde site tercihleri (dil ve tema gibi), favoriler ve son kullanılan araçlar varsayılan olarak seçilir. Araç ayarları, girdiler, dosyalar ve oluşturulan sonuçlar varsayılan olarak senkronize edilmez. Desteklenen araç ayarlarının, taslakların ve eklerin senkronize edilmesi için bunları açıkça seçmeniz gerekir.
 
 ### 🛠️ Araç kategorileri (sürekli ekleniyor ve geliştiriliyor)
 
@@ -97,8 +97,11 @@ Web sitesi hâlâ aktif geliştirme aşamasındadır. Yeni araçlar sürekli ekl
 
 #### 📄 [PDF araçları](https://cratex.app/tr/categories/pdf)
 
+PDF sıkıştırma, üç kalite düzeyi ve isteğe bağlı hedef boyutla tarayıcıda yerel olarak yapılır; hedefe ulaşma garantisi yoktur. Görsel sıkıştırma kayıplıdır, ancak metin ve mevcut OCR katmanları korunur. Dosyalar ve sonuçlar yalnızca geçerli tarayıcı oturumunda kalır. Özgün dosyayı saklayın ve indirilen sonucu kontrol edin.
+
 - [Görseli PDF yap](https://cratex.app/tr/tools/image-to-pdf)
 - [PDF Birleştir](https://cratex.app/tr/tools/merge-pdf)
+- [PDF sıkıştır](https://cratex.app/tools/compress-pdf)
 - [PDF Böl](https://cratex.app/tr/tools/split-pdf)
 - [PDF Düzenle](https://cratex.app/tr/tools/organize-pdf)
 - [PDF'ye Filigran Ekle](https://cratex.app/tr/tools/watermark-pdf)

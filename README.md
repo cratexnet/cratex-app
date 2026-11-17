@@ -45,7 +45,7 @@ The website is still in rapid development. New tools will be launched continuous
 - Most tools can be used without signing in. Sign-in is mainly for restoring paid entitlements, managing subscriptions, and using WebDAV Sync.
 - Paid accounts get higher limits for input length, file size, batch processing, and complex previews, plus an ad-free experience.
 - WebDAV Sync writes to your own storage. Keep your recovery key safe; CrateX.app cannot recover remote encrypted sync data after the key is lost.
-- By default, sync covers language, theme, favorites, recent tools, tool settings, and a small set of audited usage data. It does not sync API keys, uploaded files, temporary input on the current page, or generated results.
+- After you enable WebDAV Sync, site preferences (such as language and theme), favorites, and recently used tools are selected by default. Tool settings, inputs, files, and generated results are not synced by default. Supported tool settings, drafts, and attachments require your explicit selection to be synced.
 
 ### 🛠️ Tool Categories (Continuously Adding/Improving)
 
@@ -97,8 +97,11 @@ The website is still in rapid development. New tools will be launched continuous
 
 #### 📄 [PDF Tools](https://cratex.app/categories/pdf)
 
+PDF compression runs locally in your browser, with three quality presets and an optional target size; reaching the target is not guaranteed. Image compression is lossy, while text and existing OCR layers are preserved. Files and results stay only in the current browser session. Keep the original and check the downloaded result.
+
 - [Image to PDF](https://cratex.app/tools/image-to-pdf)
 - [Merge PDF](https://cratex.app/tools/merge-pdf)
+- [Compress PDF](https://cratex.app/tools/compress-pdf)
 - [Split PDF](https://cratex.app/tools/split-pdf)
 - [Organize PDF](https://cratex.app/tools/organize-pdf)
 - [Watermark PDF](https://cratex.app/tools/watermark-pdf)

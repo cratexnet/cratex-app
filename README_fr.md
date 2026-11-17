@@ -45,7 +45,7 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 - La plupart des outils peuvent être utilisés sans connexion. La connexion sert surtout à restaurer les avantages payants, gérer les abonnements et utiliser WebDAV Sync.
 - Les comptes payants bénéficient de limites plus élevées pour la longueur de saisie, la taille des fichiers, le traitement par lots et les aperçus complexes, ainsi que d'une expérience sans publicité.
 - WebDAV Sync écrit dans votre propre stockage. Conservez votre clé de récupération en lieu sûr ; CrateX.app ne peut pas récupérer les données de synchronisation distantes chiffrées si cette clé est perdue.
-- Par défaut, la synchronisation couvre la langue, le thème, les favoris, les outils récents, les paramètres d'outils et une petite quantité de données d'utilisation auditées. Elle ne synchronise pas les clés API, les fichiers téléversés, les saisies temporaires de la page actuelle ni les résultats générés.
+- Une fois WebDAV Sync activé, les préférences du site (comme la langue et le thème), les favoris et les outils récemment utilisés sont sélectionnés par défaut. Les paramètres des outils, les saisies, les fichiers et les résultats générés ne sont pas synchronisés par défaut. Les paramètres d’outils, brouillons et pièces jointes pris en charge ne sont synchronisés que si vous les sélectionnez explicitement.
 
 ### 🛠️ Catégories d'outils (Ajout/Amélioration continus)
 
@@ -97,8 +97,11 @@ Le site web est encore en développement rapide. De nouveaux outils seront lanc�
 
 #### 📄 [Outils PDF](https://cratex.app/fr/categories/pdf)
 
+La compression PDF s’effectue localement dans le navigateur, avec trois niveaux de qualité et une taille cible facultative ; atteindre la cible n’est pas garanti. La compression des images est avec perte, mais le texte et les couches OCR existantes sont conservés. Les fichiers et résultats restent uniquement dans la session actuelle du navigateur. Conservez l’original et vérifiez le résultat téléchargé.
+
 - [Images en PDF](https://cratex.app/fr/tools/image-to-pdf)
 - [Fusionner des PDF](https://cratex.app/fr/tools/merge-pdf)
+- [Compresser un PDF](https://cratex.app/tools/compress-pdf)
 - [Diviser un PDF](https://cratex.app/fr/tools/split-pdf)
 - [Organiser un PDF](https://cratex.app/fr/tools/organize-pdf)
 - [Ajouter un filigrane à un PDF](https://cratex.app/fr/tools/watermark-pdf)

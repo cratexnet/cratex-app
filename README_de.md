@@ -45,7 +45,7 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 - Die meisten Tools können ohne Anmeldung genutzt werden. Die Anmeldung dient hauptsächlich dazu, bezahlte Vorteile wiederherzustellen, Abonnements zu verwalten und WebDAV Sync zu verwenden.
 - Bezahlte Konten erhalten höhere Grenzen für Eingabelänge, Dateigröße, Stapelverarbeitung und komplexe Vorschauen sowie eine werbefreie Nutzung.
 - WebDAV Sync schreibt in Ihren eigenen Speicher. Bewahren Sie Ihren Wiederherstellungsschlüssel sicher auf; CrateX.app kann entfernte verschlüsselte Synchronisierungsdaten nach Verlust des Schlüssels nicht wiederherstellen.
-- Standardmäßig synchronisiert werden Sprache, Design, Favoriten, zuletzt verwendete Tools, Tool-Einstellungen und eine kleine Menge geprüfter Nutzungsdaten. API-Schlüssel, hochgeladene Dateien, temporäre Eingaben auf der aktuellen Seite und generierte Ergebnisse werden nicht synchronisiert.
+- Nach dem Aktivieren von WebDAV Sync sind Website-Einstellungen (wie Sprache und Design), Favoriten und zuletzt verwendete Tools standardmäßig ausgewählt. Tool-Einstellungen, Eingaben, Dateien und erzeugte Ergebnisse werden standardmäßig nicht synchronisiert. Unterstützte Tool-Einstellungen, Entwürfe und Anhänge werden nur nach Ihrer ausdrücklichen Auswahl synchronisiert.
 
 ### 🛠️ Tool-Kategorien (Kontinuierliche Ergänzung/Verbesserung)
 
@@ -97,8 +97,11 @@ Die Website befindet sich noch in rascher Entwicklung. Neue Tools werden kontinu
 
 #### 📄 [PDF-Tools](https://cratex.app/de/categories/pdf)
 
+PDFs werden lokal im Browser komprimiert, mit drei Qualitätsstufen und optionaler Zielgröße. Das Erreichen der Zielgröße ist nicht garantiert. Die Bildkomprimierung ist verlustbehaftet; Text und vorhandene OCR-Ebenen bleiben erhalten. Dateien und Ergebnisse bleiben nur in der aktuellen Browsersitzung. Bewahren Sie das Original auf und prüfen Sie das heruntergeladene Ergebnis.
+
 - [Bild zu PDF](https://cratex.app/de/tools/image-to-pdf)
 - [PDF zusammenführen](https://cratex.app/de/tools/merge-pdf)
+- [PDF komprimieren](https://cratex.app/tools/compress-pdf)
 - [PDF teilen](https://cratex.app/de/tools/split-pdf)
 - [PDF organisieren](https://cratex.app/de/tools/organize-pdf)
 - [PDF mit Wasserzeichen versehen](https://cratex.app/de/tools/watermark-pdf)

@@ -45,7 +45,7 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 - 日常使用多數工具無需登入。登入主要用於恢復付費權益、管理訂閱和使用 WebDAV 同步。
 - 付費帳號可獲得更高的輸入長度、檔案大小、批次處理與複雜預覽上限，並可獲得無廣告體驗。
 - WebDAV 同步會寫入您自己的儲存空間；請妥善保存復原金鑰，CrateX.app 無法在金鑰遺失後復原遠端加密同步資料。
-- 預設會同步語言、主題、收藏、最近使用、工具設定和已審計的少量使用資料；不會同步 API Key、上傳檔案、目前頁面的暫時輸入或產生結果。
+- 啟用 WebDAV 同步後，預設選取網站偏好（如語言和主題）、收藏及最近使用的工具。工具設定、輸入、檔案和產生的結果預設不參與同步；受支援的工具設定、草稿與附件，需要您明確選取後才可同步。
 
 ### 🛠️ 工具分類（持續新增/改進中）
 
@@ -97,8 +97,11 @@ CrateX.app 是一個快速的瀏覽器端工具平台，面向開發者、設計
 
 #### 📄 [PDF 工具](https://cratex.app/zh-hant/categories/pdf)
 
+PDF 壓縮在瀏覽器本機完成，支援三檔品質與可選目標大小，不保證達到目標。圖片壓縮有損，文字與既有 OCR 圖層保留。檔案和結果僅留在目前瀏覽器工作階段；請保留原始檔並檢查下載結果。
+
 - [圖片轉 PDF](https://cratex.app/zh-hant/tools/image-to-pdf)
 - [PDF 合併](https://cratex.app/zh-hant/tools/merge-pdf)
+- [壓縮 PDF](https://cratex.app/tools/compress-pdf)
 - [PDF 分割](https://cratex.app/zh-hant/tools/split-pdf)
 - [整理 PDF](https://cratex.app/zh-hant/tools/organize-pdf)
 - [PDF 加浮水印](https://cratex.app/zh-hant/tools/watermark-pdf)

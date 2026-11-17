@@ -45,7 +45,7 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 - De meeste tools kunnen zonder aanmelden worden gebruikt. Aanmelden is vooral bedoeld om betaalde voordelen te herstellen, abonnementen te beheren en WebDAV Sync te gebruiken.
 - Betaalde accounts krijgen hogere limieten voor invoerlengte, bestandsgrootte, batchverwerking en complexe previews, plus een advertentievrije ervaring.
 - WebDAV Sync schrijft naar je eigen opslag. Bewaar je herstelsleutel veilig; CrateX.app kan externe versleutelde synchronisatiegegevens niet herstellen nadat de sleutel verloren is gegaan.
-- Standaard synchroniseert CrateX.app taal, thema, favorieten, recente tools, toolinstellingen en een kleine hoeveelheid gecontroleerde gebruiksgegevens. API-sleutels, geüploade bestanden, tijdelijke invoer op de huidige pagina en gegenereerde resultaten worden niet gesynchroniseerd.
+- Als je WebDAV Sync inschakelt, zijn sitevoorkeuren (zoals taal en thema), favorieten en recent gebruikte tools standaard geselecteerd. Toolinstellingen, invoer, bestanden en gegenereerde resultaten worden niet standaard gesynchroniseerd. Ondersteunde toolinstellingen, concepten en bijlagen worden alleen na jouw expliciete selectie gesynchroniseerd.
 
 ### 🛠️ Toolcategorieën (worden continu uitgebreid en verbeterd)
 
@@ -97,8 +97,11 @@ De website is nog volop in ontwikkeling. Nieuwe tools worden continu toegevoegd 
 
 #### 📄 [PDF-tools](https://cratex.app/nl/categories/pdf)
 
+PDF-compressie gebeurt lokaal in de browser, met drie kwaliteitsniveaus en een optionele doelgrootte; het bereiken van het doel is niet gegarandeerd. Beeldcompressie geeft kwaliteitsverlies, maar tekst en bestaande OCR-lagen blijven behouden. Bestanden en resultaten blijven alleen in de huidige browsersessie. Bewaar het origineel en controleer het gedownloade resultaat.
+
 - [Afbeeldingen naar PDF](https://cratex.app/nl/tools/image-to-pdf)
 - [PDF samenvoegen](https://cratex.app/nl/tools/merge-pdf)
+- [PDF comprimeren](https://cratex.app/tools/compress-pdf)
 - [PDF splitsen](https://cratex.app/nl/tools/split-pdf)
 - [PDF ordenen](https://cratex.app/nl/tools/organize-pdf)
 - [Watermerk aan PDF toevoegen](https://cratex.app/nl/tools/watermark-pdf)

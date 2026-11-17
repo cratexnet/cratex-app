@@ -45,7 +45,7 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 - Phần lớn công cụ có thể dùng mà không cần đăng nhập. Đăng nhập chủ yếu dùng để khôi phục quyền lợi trả phí, quản lý gói đăng ký và dùng WebDAV Sync.
 - Tài khoản trả phí nhận được giới hạn cao hơn cho độ dài đầu vào, kích thước tệp, xử lý hàng loạt và bản xem trước phức tạp, cùng trải nghiệm không quảng cáo.
 - WebDAV Sync ghi vào bộ nhớ của chính bạn. Hãy giữ khóa khôi phục an toàn; CrateX.app không thể khôi phục dữ liệu đồng bộ từ xa đã mã hóa sau khi mất khóa.
-- Theo mặc định, đồng bộ bao gồm ngôn ngữ, giao diện, mục yêu thích, công cụ gần đây, thiết lập công cụ và một lượng nhỏ dữ liệu sử dụng đã được kiểm tra. Đồng bộ không bao gồm API key, tệp đã tải lên, dữ liệu nhập tạm thời trên trang hiện tại hoặc kết quả đã tạo.
+- Sau khi bật WebDAV Sync, các tùy chọn trang web (như ngôn ngữ và giao diện), mục yêu thích và công cụ dùng gần đây được chọn theo mặc định. Thiết lập công cụ, dữ liệu nhập, tệp và kết quả được tạo không được đồng bộ theo mặc định. Các thiết lập công cụ, bản nháp và tệp đính kèm được hỗ trợ chỉ được đồng bộ khi bạn chủ động chọn.
 
 ### 🛠️ Nhóm công cụ (được bổ sung và cải thiện liên tục)
 
@@ -97,8 +97,11 @@ Trang web vẫn đang trong giai đoạn phát triển nhanh. Các công cụ m�
 
 #### 📄 [Công cụ PDF](https://cratex.app/vi/categories/pdf)
 
+PDF được nén cục bộ trong trình duyệt với ba mức chất lượng và dung lượng mục tiêu tùy chọn; không đảm bảo đạt mục tiêu. Nén ảnh có mất dữ liệu, nhưng văn bản và các lớp OCR hiện có được giữ lại. Tệp và kết quả chỉ nằm trong phiên trình duyệt hiện tại. Hãy giữ bản gốc và kiểm tra kết quả đã tải xuống.
+
 - [Ảnh sang PDF](https://cratex.app/vi/tools/image-to-pdf)
 - [Gộp PDF](https://cratex.app/vi/tools/merge-pdf)
+- [Nén PDF](https://cratex.app/tools/compress-pdf)
 - [Tách PDF](https://cratex.app/vi/tools/split-pdf)
 - [Sắp xếp PDF](https://cratex.app/vi/tools/organize-pdf)
 - [Thêm hình mờ vào PDF](https://cratex.app/vi/tools/watermark-pdf)

@@ -45,7 +45,7 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 - Sebagian besar alat dapat digunakan tanpa masuk akun. Masuk akun terutama digunakan untuk memulihkan hak akun berbayar, mengelola langganan, dan menggunakan WebDAV Sync.
 - Akun berbayar mendapatkan batas lebih tinggi untuk panjang input, ukuran file, pemrosesan batch, dan pratinjau kompleks, serta pengalaman tanpa iklan.
 - WebDAV Sync menulis ke penyimpanan Anda sendiri. Simpan kunci pemulihan dengan aman; CrateX.app tidak dapat memulihkan data sinkronisasi jarak jauh terenkripsi setelah kunci hilang.
-- Secara default, sinkronisasi mencakup bahasa, tema, favorit, alat terbaru, pengaturan alat, dan sejumlah kecil data penggunaan yang telah diaudit. Sinkronisasi tidak mencakup API key, file yang diunggah, input sementara di halaman saat ini, atau hasil yang dibuat.
+- Setelah WebDAV Sync diaktifkan, preferensi situs (seperti bahasa dan tema), favorit, dan alat yang baru digunakan dipilih secara default. Pengaturan alat, input, file, dan hasil pemrosesan tidak disinkronkan secara default. Pengaturan alat, draf, dan lampiran yang didukung hanya disinkronkan setelah Anda memilihnya secara eksplisit.
 
 ### 🛠️ Kategori alat (terus ditambah dan ditingkatkan)
 
@@ -97,8 +97,11 @@ Situs web masih dalam pengembangan aktif. Alat-alat baru akan terus ditambahkan,
 
 #### 📄 [Alat PDF](https://cratex.app/id/categories/pdf)
 
+Kompresi PDF dilakukan secara lokal di browser, dengan tiga tingkat kualitas dan target ukuran opsional; target tidak dijamin tercapai. Kompresi gambar mengurangi kualitas, sementara teks dan lapisan OCR yang ada tetap dipertahankan. File dan hasil hanya disimpan dalam sesi browser saat ini. Simpan file asli dan periksa hasil unduhan.
+
 - [Gambar ke PDF](https://cratex.app/id/tools/image-to-pdf)
 - [Gabungkan PDF](https://cratex.app/id/tools/merge-pdf)
+- [Kompres PDF](https://cratex.app/tools/compress-pdf)
 - [Pisahkan PDF](https://cratex.app/id/tools/split-pdf)
 - [Atur PDF](https://cratex.app/id/tools/organize-pdf)
 - [Beri Tanda Air pada PDF](https://cratex.app/id/tools/watermark-pdf)
